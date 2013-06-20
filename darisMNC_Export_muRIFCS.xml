@@ -1,0 +1,1189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mu:root xmlns:rifcs="http://ands.org.au/standards/rif-cs/registryObjects"
+         xmlns:mu="http://rdr.unimelb.edu.au/schema/murifcs"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         fromLab="DaRIS 1047 - Melbourne Neuropsychiatry Centre, Department of Psychiatry"
+         xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects http://services.ands.org.au/documentation/rifcs/1.2.0/schema/registryObjects.xsd             http://rdr.unimelb.edu.au/schema/murifcs http://rdr.unimelb.edu.au/schema/muRIFCS.xsd">
+   <mu:rifcsData>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="repository">
+         <identifier type="local">daris:repository/id:1047</identifier>
+         <identifier type="local">1047</identifier>
+         <name type="primary">
+            <namePart type="text">Distributed and Reflective Informatics System</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Melbourne Neuropsychiatry Centre, Department of Psychiatry, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3CDTF">1994-03-10</date>
+            </temporal>
+         </coverage>
+         <relatedObject>
+            <key>daris:party/email:cpant@unimelb.edu.au</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <description type="full">The repository holds primarily Magnetic Resonance Imaging data as well as associated clinical and neuropsychological data acquired from human subjects. Data are held pertaining to studies of psychiatric disease (including schizophrenia, first episode psychosis, major depressive disorder, obsessive compulsive disorder, substance-use disrder, and huntington's disease).</description>
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+      </collection>
+      <party xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="person">
+         <identifier type="local">daris:party/email:cpant@unimelb.edu.au</identifier>
+         <name type="primary">
+            <namePart type="title">Professor</namePart>
+            <namePart type="given">Christos</namePart>
+            <namePart type="family">Pantelis</namePart>
+         </name>
+         <location>
+            <address>
+               <electronic type="email">
+                  <value>cpant@unimelb.edu.au</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">1109</subject>
+      </party>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1047.2.2</identifier>
+         <identifier type="local">1047.2.2</identifier>
+         <name type="primary">
+            <namePart>The Social Brain in Depression  Study, Melbourne Neuropsychiatry Centre</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Melbourne Neuropsychiatry Centre, Department of Psychiatry, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <description type="full">Depression is a serious public health issue, commonly characterized by feelings of hopelessness, sadness, and extensive periods of self-neglect/harm and social withdrawal.  Recent research has highlighted a close link between social cognition (thoughts about other people and social situations), social behaviour, and depressed mood.  This research shows that individuals vulnerable to depression respond differently to social threat information (i.e., threats of humiliation, defeat, and rejection), than individuals with no history of depression.  Furthermore, the responses to social threat information by individuals with a history of depression, have been found to be highly predictive of depressive relapse. 
+
+To investigate these issues further, the current study will use brain imaging techniques that reveal which areas of the brain are activated when individuals view social threat stimuli versus other types of threat and non-threat related stimuli.  This information will assist us in understanding the brain regions and mechanisms involved in these emotional and social-cognitive processes, and the way in which mood and social cognition interact to make people vulnerable to clinical depression.    
+
+The study will include 97 individuals, made up of those with no history of depression, individuals with a past history of depression, and individuals currently diagnosed as suffering from clinical depression .  Participants were recruited from the general community. This will allow us to compare the pattern of brain activations between people who are currently depressed, vulnerable to depression, and healthy controls.
+</description>
+         
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <relatedObject>
+            <key>daris:party/email:nba@unimelb.edu.au</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1047</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1047.2.3</identifier>
+         <identifier type="local">1047.2.3</identifier>
+         <name type="primary">
+            <namePart>Opiate Addiction Study, Melbourne Neuropsychiatry Centre</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Melbourne Neuropsychiatry Centre, Department of Psychiatry, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <description type="full">Drug addiction is a major public health issue, characterized by intense cravings and compulsive drug-taking. This apparent loss of control over drug intake, even in the face of adverse consequences (e.g. health, relationship, financial, legal etc), suggests that some addicts have problems making decision such that they are unable to inhibit the strong urges associated with exposure to drugs and related paraphernalia. Previous experience has shown that indeed some individuals with addictive problems do have decision-making difficulties. 
+In this project we will use brain imaging and neurophysiological techniques, as well as tests of cognition (thinking) to assess the relationship between the brain’s processing of drug cues and the integrity of the brain’s inhibitory system (i.e. your mental brakes) in opiate addiction. Sixty participants were recruited from the general community (e.g., advertising at chemists), as well as primary drug and alcohol services, as well as from Medical Professionals with a licence to prescribe Opiate Substitution Therapy. The project findings will provide a clearer understanding of the role of cues and inhibitory processes in the decision making of addicted individuals, allowing for the development of more targeted treatment strategies. 
+</description>
+         
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <relatedObject>
+            <key>daris:party/email:murat@unimelb.edu.au</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1047</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1047.2.5</identifier>
+         <identifier type="local">1047.2.5</identifier>
+         <name type="primary">
+            <namePart>Cognition Emotion Interaction Study, Melbourne Neuropsychiatry Centre</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Melbourne Neuropsychiatry Centre, Department of Psychiatry, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <description type="full">States of emotional arousal, particularly stress and anxiety, are known to interfere with the ability to concentrate, make informed decisions, and appropriately regulate behaviour. Similarly, situations requiring intense concentration or concerted Neuropsychological effort are often associated with affective blunting. While such behavioural phenomena are well documented, the neural underpinnings of this reciprocal relationship are not well understood. In this project, twenty healthy volunteers were recruited from the general population and were asked to perform the Multi-Source Interference Task (MSIT), a Neuropsychological paradigm requiring active selective attention, Neuropsychological conflict resolution, and response inhibition during concurrent functional magnetic resonance imaging (fMRI). The participants were then made to believe that they were being actively scrutinized and observed by a group of researchers in order to create a subjective sense of anxiety and were asked to perform the task again. Investigating the neural effects of the interaction between Neuropsychological performance and emotional valence, as well as examining the interplay between dorsal Neuropsychological functional networks and their ventral limbic counterparts may result in a greater understanding of this dynamic interplay.</description>
+         
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <relatedObject>
+            <key>daris:party/email:murat@unimelb.edu.au</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1047</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1047.2.6</identifier>
+         <identifier type="local">1047.2.6</identifier>
+         <name type="primary">
+            <namePart>Inhalant Abuse in Adolescence Study, Melbourne Neuropsychiatry Centre</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Melbourne Neuropsychiatry Centre, Department of Psychiatry, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <description type="full">Whilst severe neurobiological effects of chronic inhalant abuse have been documented in adults, insufficient research has been conducted in youth populations, despite abuse being prominent amongst this age group. The studies conducted to date suffer from a number of limitations: poor definition of regular inhalant use; small sample size; poor characterisation of participants in terms of demographics and mental health related issues; a lack of appropriately matched controls, and; failure to control for the effects of acute intoxication. 
+The aim of this study is to comprehensively examine the characteristics and extent of cognitive and neuroanatomical abnormalities (as measured by MRI) in a large number of inhalant abusing adolescents.  
+The study will recruit 20 inhalant-using adolescents (recruited through the Department of Human Services) and also a control group of 20 comparable non-inhaling individuals between the ages of 12 years and 18, as well as 20 other drug using participants – also matched to the inhalant users. Some of these individuals will have already completed the neuropsychological component of this study.  
+</description>
+         
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <relatedObject>
+            <key>daris:party/email:dan.lubman@monash.edu</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1047</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1047.2.7</identifier>
+         <identifier type="local">1047.2.7</identifier>
+         <name type="primary">
+            <namePart>MNC Collaborative Project (Pathophysiology of Schizophrenia Study), Melbourne Neuropsychiatry Centre</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Melbourne Neuropsychiatry Centre, Department of Psychiatry, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <description type="full">Disruption in the integrity of brain networks has been postulated to lie at the foundation of the pathophysiology underlying schizophrenia. The current project brings together researchers from diverse backgrounds to explore the anatomical tractography, resting-state functional connectivity, and task-active effective connectivity of the human brain in states of both health and disease. Twenty individuals with chronic schizophrenia and an equivalent number of healthy controls were recruited for participation from local mental health clinics and the general community, respectively. Participants undertook an initial screening and assessment interview followed by two one-hour MRI scanning sessions. During the scan sessions, two cognitive tasks assessing cognitive control and working memory were performed in conjunction with functional magnetic resonance imaging (fMRI) acquisitions, in addition to a period of passive rest (ie. resting state). Diffusion tensor imaging (DTI), a measure of white matter integrity, and anatomical MRI scans were also collected.
+
+Time Period: 2008-2011</description>
+         
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <relatedObject>
+            <key>daris:party/email:cpant@unimelb.edu.au</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1047</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1047.2.8</identifier>
+         <identifier type="local">1047.2.8</identifier>
+         <name type="primary">
+            <namePart>Adolescent Development Study - Phase 1, Melbourne Neuropsychiatry Centre</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Melbourne Neuropsychiatry Centre, Department of Psychiatry, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <description type="full">The Orygen Adolescent Development Study (ADS) is a prospective longitudinal study that aims to address core questions regarding biological and environmental risk factors for the development of depression and other psychopathologies with common onset during adolescence. The study is based at Orygen Youth Health Research Centre, with the Melbourne Neuropsychiatry Centre a key collaborator. The study began in 2003 and has been running for almost 10 years. We have established a cohort of 237 Australian adolescents, who were selected from a wider community sample (approximately 2500, from 100 representative primary schools around metropolitan Melbourne, Victoria, Australia) to encompass a wide range of temperamental risk for later emotional problems. The participants were comprehensively assessed at ages 11-13 years using a multi-method multi-source battery of validated measures of brain structure, temperament, family processes, and psychopathology. An initial follow-up assessment was conducted when adolescents were aged 14-15, which included diagnostic interview and questionnaires only. Further follow-up assessments, consisting of Magnetic Resonance Imaging (MRI) scans, questionnaires and diagnostic interviews, have been completed when participants were aged 15-17 and 17-19. We have also collected information on genetics and family history of psychopathology. These data will enable prospective examinations of the interrelations between genetic, neurobiological, psychological and environmental factors in explaining risk for the emergence of psychopathology during adolescence.
+
+Phase 1 of the study refers to assessments conducted when participants were 11-13 (2004-2005), and imaging data from 155 are avaialable.</description>
+         
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <relatedObject>
+            <key>daris:party/email:nba@unimelb.edu.au</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1047</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1047.2.9</identifier>
+         <identifier type="local">1047.2.9</identifier>
+         <name type="primary">
+            <namePart>Social cognition intervention program for psychosis in youth (SCIPPY) MRI study, Melbourne Neuropsychiatry Centre</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Melbourne Neuropsychiatry Centre, Department of Psychiatry, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <description type="full">Individuals suffering from a psychotic disorder show deficits in social cognition (thinking styles related to social interaction), and both social and functional disabilities that are severe, apparent early in the course of illness, and have serious detrimental effects on quality of life and rate of recovery. To date, treatment of psychosis has largely focused on symptomatic improvement, with the assumption that social and occupational functioning will subsequently improve. This is rarely the case. The early phase of psychotic illness, referred to as the critical period, is the most crucial in terms of limiting or even preventing the development of disability, with maximal levels of disability reached in the first 5 years after onset of illness. Furthermore, intervention can be more successful in young people with first episode psychosis (FEP), due to the greater brain plasticity associated with the ongoing neurodevelopment in this phase of life. 
+
+In the proposed randomised controlled trial, 96 participants will be recruited from the Early Psychosis Prevention and Intervention Centre of Orygen Youth Health, Melbourne, and randomised to either Social Cognition and Interaction Training (SCIT) or a control group program. Both groups will continue to receive treatment as usual. SCIT is the only intervention to successfully enhance both social cognition and social functioning in patients with schizophrenia, and focuses exclusively on the social-cognitive framework, with theory of mind (the mental capacity to infer one’s own and others’ mental states), emotion recognition (recognition of facial and vocal affect) and attributional style (tendencies in explaining the cause of events, to either the self, others or the environment) as the key social cognitive processes targeted for improvement, processes which ultimately drive social functioning, such as employment status, independent living and interpersonal relationships. This study extends the SCIT approach by applying it early in the course of illness, with the rationale that in this phase there is greater scope to reduce or prevent the onset of disability.
+
+SCIT involves 10 weekly group meetings, where 2 training sessions (each lasting 45min-1 hour) will run every week on the same day (with lunch provided between sessions). The control group program will be matched for both time and duration and will involve fun achievable activities that encourage free socialisation with fellow group members. Social functioning, social cognitive, neurocognitive and psychopathology data will be collected at baseline, post-intervention and at 6 months post-intervention. Structural Magnetic Resonance Imaging data will be collected at baseline and 6 months post-intervention, to determine whether social cognitive deficits are related to structural brain abnormalities in FEP, and to investigate what impact SCIT has on brain morphology prospectively. We predict that participation in the SCIT group will lead to better social and occupational functioning, and this will be realised not only in test scores, but more importantly in increased in-role functioning such as attendance at work or school.
+
+Time Period: 2009-present</description>
+         
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <relatedObject>
+            <key>daris:party/email:eoin@unimelb.edu.au</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1047</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1047.2.10</identifier>
+         <identifier type="local">1047.2.10</identifier>
+         <name type="primary">
+            <namePart>Eye Movements in Adolescents at Ultra High Risk for Psychosis Study, Melbourne Neuropsychiatry Centre</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Melbourne Neuropsychiatry Centre, Department of Psychiatry, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <description type="full">Subtle cognitive impairments in areas such as attention, working memory and goal-directed behaviour are an increasingly well-recognised characteristic of psychotic illnesses such as schizophrenia.  These impairments also appear to be stable over time, and may be present long before the onset of a psychotic episode. 
+This study aims to use eye movement tasks to look at the patterns of Blood Oxygen Level Dependant (BOLD) functional MRI activity in the brains of young people at ultra-high risk of psychosis. We recruit our participants from the PACE (Personal Assessment and Crisis Evaluation) Clinic, run through Orygen Youth Health. These people are experiencing difficulties in their lives and relationships, might have a close relative with psychotic illness, and are often suffering distressing sub-clinical psychosis-like symptoms. We are using eye movement tasks as they are easy to perform in the MRI scanner and we know that they involve areas of the frontal cortex that are also involved in both cognition and psychosis.
+We aim to look at patterns of activity in the frontal areas of the brain in people at ultra-high risk of psychosis, and compare them to patterns from control participants. We are also repeating our recordings on the same people 12 months later, and comparing patterns from ultra-high risk people who developed psychosis to those who did not. This study will give us more information about the processes involved in the development of psychosis, perhaps allowing doctors to make better predictions about who might be at greater risk and in more urgent need of treatment.
+
+Data is avaialable from 43 participants.
+
+Time period: 2007-2009</description>
+         
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <relatedObject>
+            <key>daris:party/email:s.j.wood@bham.ac.uk</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1047</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1047.2.11</identifier>
+         <identifier type="local">1047.2.11</identifier>
+         <name type="primary">
+            <namePart>Psychosis Twins Study, Melbourne Neuropsychiatry Centre</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Melbourne Neuropsychiatry Centre, Department of Psychiatry, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <description type="full">This study aims to understand the role of genes in triggering the onset of a psychotic illness, and to identify biological and psychological markers of genetic risk for psychosis. Over 100 twin pairs with and without psychosis were recruited through clinical services and the Australian Twin Registry. These pairs have completed extensive brain imaging, neuropsychological and genetic assessments. Current analyses of these data are focusing on understanding how psychosis alters patterns of gene expression, and quantifying genetic influences on brain network organization. This project is being conducted in collaboration with The Queensland Centre for Mental Health Research. Recruitment for this study is now complete.
+
+MRI data is available for approximately 150 participants.
+
+Time Period: 1994-2008</description>
+         
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <relatedObject>
+            <key>daris:party/email:b.mowry@uq.edu.au</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1047</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1047.2.12</identifier>
+         <identifier type="local">1047.2.12</identifier>
+         <name type="primary">
+            <namePart>First Episode Mania Study, Melbourne Neuropsychiatry Centre</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Melbourne Neuropsychiatry Centre, Department of Psychiatry, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <description type="full">Bipolar disorder remains substantially under-researched in comparison to most other conditions such as depression and schizophrenia.  The usual treatment for bipolar disorder is a combination of lithium and antipsychotics. The purpose of this project is to increase the understanding of how a medication, quetiapine, can assist with the symptoms of bipolar disorder including changes in mood and thought processes. We also seek to increase our understanding of how quetiapine can act as a protective agent for changes in the brain related to episodes of bipolar disorder. 
+
+Previous experience has shown that quetiapine is effective as a single medication and in combination with medicines such as lithium for bipolar disorder in adult populations, without major side effects. Quetiapine is well established and routine in those aged 18 years and over, however there is little research conducted in those below the age of 18 years old. This project seeks to assess the effects of the medication on symptoms and thought processes and whether it can be used as a mood stabiliser. More research is also required to see whether quetiapine is similar to lithium in being a protective medication for episode-related changes in the brain.
+
+A total of 82 people with bipolar disorder will be approached to be involved in this trial with 52 of these hopefully completing all stages of testing. An additional 30 people who have never experienced a mental disorder will participate in the neuropsychology and MRI components of the study. Patients will be recruited from Orygen Youth Health and Southern Health centres, controls will be recruited from an advertisement published in local magazines, OYH website and word of mouth.
+
+Time period: 2008-present</description>
+         
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <relatedObject>
+            <key>daris:party/email:MIKEBE@BarwonHealth.org.au</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1047</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1047.2.13</identifier>
+         <identifier type="local">1047.2.13</identifier>
+         <name type="primary">
+            <namePart>Olfaction in First Episode Psychosis Study, Melbourne Neuropsychiatry Centre</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Melbourne Neuropsychiatry Centre, Department of Psychiatry, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <description type="full">This project involved collection of neuropsychological data from first episode psychosis patients at the Aubrey Lewis unit at Royal Park Hospital.
+A challenge inherent to understanding schizophrenia is to distinguish between primary and secondary disease processes and their associated symptomatology. Neuropsychological approaches to this challenge are examined in this thesis along with an overview of attempts to identify syndromal patterns. Relationships between these syndromes and their influence on cognitive function are also described, particularly with reference to possible underlying biological compromise. This description forms a rationale for the aims of the thesis that include an examination of cognition as possible marker of functional compromise of circuitry implicated in schizophrenia. Olfactory processing over the course from high risk to chronic schizophrenia is described. Identification of olfactory deficits early in the course of psychosis are found to implicate relatively specific prefrontal circuits that are associated with both syndromal and cognitive patterns of behaviour, after the confounds of acuity, substance abuse, medication and general cognitive ability are taken into account. Patterns of olfactory ability across the spectrum of psychosis are then compared to those found to be characteristic of a temporal lobe epilepsy group with the aim of comparing and contrasting the functional integrity of implicated circuitry in psychosis. Results support the potential for olfactory tasks to be used as probes of function in related circuitry, and particularly for detecting early signs of impending psychotic discharge. While the degree of cognitive deficits may be exacerbated over the course of the illness in accordance with the neurodegenerative hypothesis, identification of patterns of compromised function that implicates the fronto-limbic axis before the first psychotic discharge are also consistent with the neurodevelopmental hypothesis of schizophrenia.
+
+This project recruited over 100 participants.
+
+Time period: 1994-1999</description>
+         
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <relatedObject>
+            <key>daris:party/email:Warrick.Brewer@mh.org.au</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1047</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1047.2.14</identifier>
+         <identifier type="local">1047.2.14</identifier>
+         <name type="primary">
+            <namePart>Ultra High Risk Follow-up Study (PACE400), Melbourne Neuropsychiatry Centre</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Melbourne Neuropsychiatry Centre, Department of Psychiatry, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <description type="full">This study was a medium to long-term follow-up of young people at ultra-high risk (UHR) for psychosis. In this study, we attempted to relocate and reassess all participants in research at the Personal Assessment and Crises Evaluation (PACE) Clinic (Orygen Youth Health, Melbourne) from 1993 – 2006 (N=416). The aim was to determine their outcome two to 14 years after identification as UHR.
+
+311 participants (74.8%) were available for interview at follow-up [268 (64.4%) face-to-face, 40 (9.6%) telephone, three (0.7%) written]. Forty nine refused follow-up and a further 47 could not be located. Nine participants had died. Participants were asked to complete the full psychopathology and neurocognitive battery and provide a saliva sample. MRI and CANTAB were repeated if these had been conducted at baseline.
+
+Baseline psychopathology data is available of most participants. A majority also have some baseline neurocognitive data. Baseline scans are available for approximately 200 participants.
+
+Time period: 2007-2009</description>
+         
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <relatedObject>
+            <key>daris:party/email:aryung@unimelb.edu.au</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1047</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1047.2.15</identifier>
+         <identifier type="local">1047.2.15</identifier>
+         <name type="primary">
+            <namePart>Anterior Cingulate in Schizophrenia and Obsessive Compusive Disorder Study, Melbourne Neuropsychiatry Centre</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Melbourne Neuropsychiatry Centre, Department of Psychiatry, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <description type="full">The psychiatric disorders schizophrenia and obsessive-compulsive disorder (OCD) are extremely debilitating and associated with enormous personal, social, and economic costs. For these reasons, it is critical to understand the cause and neurobiological mechanisms involved in order to develop effective intervention strategies to prevent these illnesses or ameliorate their effects. There is now compelling evidence to implicate the anterior cingulate cortex (ACC) in the pathophysiology of both schizophrenia and OCD, but it is still unclear: (i) which sub-regions of the ACC are involved; (ii) what the nature and extent of the abnormalities are (iii) whether the abnormalities are lateralised, and; (iv) whether ACC changes explain the differing presentations of schizophrenia and OCD. Progress in understanding the specific nature of ACC involvement in these disorders is also hampered by continued referral to the ACC as a functionally homogenous region of the brain. This project sought to collect concurrent micro, macro, and dynamic information from the functional subregions of the ACC (derived from multiple imaging modalities) to provide important new insights into the neurobiological basis of these disorders.
+
+Patients with schizophrenia (n=16) were recruited from the rehabilitation services from the NorthWest Mental Health Program. Patients with OCD (n=22) were recruited through the University of Melbourne Psychology Clinic located at Royal Melbourne Hospital. Only patients with established disorders (illness duration of at least 2 years) were chosen, as they tend to be more homogenous than patients in the acute stages of illness. These two patient groups were matched for age – which provides a rough match for duration of illness, given the similar age of onset in both disorders. Healthy control volunteers (n=33; matched to the schizophrenia and OCD subjects on age, years of education, premorbid IQ, and paternal socio-economic status) were recruited through a database of healthy volunteers already established during previous MRI research projects.
+
+Time period: 2003-2005</description>
+         
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <relatedObject>
+            <key>daris:party/email:murat@unimelb.edu.au</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1047</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1047.2.16</identifier>
+         <identifier type="local">1047.2.16</identifier>
+         <name type="primary">
+            <namePart>stress and HPA-axis Research Prpgram (SHARP) study, Melbourne Neuropsychiatry Centre</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Melbourne Neuropsychiatry Centre, Department of Psychiatry, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <description type="full">Stress and abnormal functioning of the hypothalamic-pituitary-adrenal axis (HPA) axis have been reported in patients with schizophrenia and other psychotic disorders. Prolonged exposure to elevated levels of cortisol (the end product of HPA axis activity) has potential detrimental effects on the brain including damage to the hippocampus and prefrontal cortex, as well as memory impairment. Elevated stress and/or abnormal HPA function in patients with acute psychosis has been proposed to contribute to symptom severity and structural brain changes observed in psychotic disorders 1. However, due to the lack of prospective, longitudinal studies in drug naïve first-episode psychotic (FEP) patients, the effect of HPA dysfunction on symptoms and dynamic brain changes in early psychosis remains unclear.
+The current project aims to longitudinally investigate the relationship between stress, HPA function, symptom severity, cognitive performance, medication compliance and structural and metabolic brain changes in neuroleptic-naïve or minimally treated FEP patients during the initial 3 months of treatment. It is hypothesized that:
+a)	At baseline, FEP patients will display abnormal HPA axis function, poorer coping mechanisms, heightened levels of perceived stress and reduced neuronal integrity compared to healthy matched control subjects
+b)	Treatment with an atypical antipsychotic will normalize HPA dysfunction in FEP patients and this normalization of HPA axis activity will be associated with an improvement in symptoms, cognitive performance and no change in hippocampal and prefrontal cortical volume
+c)	FEP patients with persistent abnormalities in HPA function after 3 months of treatment will have more severe symptomatology, a greater degree of cognitive impairment and a greater degree of cortical grey matter loss (particularly in prefrontal and hippocampal brain regions)
+d)	Non-compliance or low levels of compliance with antipsychotic medication during the initial 3 months of treatment will be associated with a greater degree of cortical grey matter volume loss
+e)	FEP patients with pets will have better improvements in psychotic and affective symptoms, and have a greater sense of social support and internal locus of control compared to healthy matched controls.
+Biological measures of HPA function, psychopathology, medication compliance, neurocognition, life events/daily hassles, perceived stress, coping style, social support, locus of control, pet attachment, experience of trauma, Magnetic Resonance Imaging (MRI) and MR Spectroscopy (MRS) brain scans. were obtained from 55 FEP patients who were neuroleptic-naive or received ≤7 days psychotropic medication (prior to initial blood sample) and 40 healthy-matched control subjects were recruited at baseline or upon initial intake into EPPIC. A proportion of patients and controls were followed up at the 3-month time-period.
+
+Time period: 2006-2009</description>
+         
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <relatedObject>
+            <key>daris:party/email:pmcgorry@unimelb.edu.au</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1047</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1047.2.17</identifier>
+         <identifier type="local">1047.2.17</identifier>
+         <name type="primary">
+            <namePart>Taurine Study, Melbourne Neuropsychiatry Centre</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Melbourne Neuropsychiatry Centre, Department of Psychiatry, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <description type="full">Taurine, a conditionally-essential amino acid, has shown some efficacy as an anticonvulsant which may indicate a possible role as a mood stabiliser in bipolar and schizoaffective disorder. It also has neuroprotective properties. Taurine appears to have multiple functions in the brain participating both in volume regulation and neurotransmission. In the latter context it may exert its actions by serving as an agonist at receptors of the GABAergic and glycinergic neurotransmitter systems. The aim of this study was to investigate the taurine neuroprotection hypothesis by comparing changes in brain structure, cognition and psychopathology between two groups of first-epidose patients: One receiving standard antipsychotic medication with supportive therapy and add-on taurine, and the other group receiving standard antipsychotic medication with supportive therapy and placebo.
+
+Approximately 100 participants in total took part in the study. Patients with a first episode of psychosis were recruited from the Early Psychosis Prevention and Intervention Centre (EPPIC) at orygen Youth Health. Taurine 4g was compared with placebo added to standard treatment for a period of 12 weeks in a double blind fashion. Primary outcome measures were changes in psychopathology (PANSS, exBPRSvs4, SANS, CGI, GAF, and YMRS scale), cognition (Cogstate and MATRICS) and neuroimaging indices (volume, FA, MD, MTR, and MRS metabolites) from baseline to twelve weeks. 
+</description>
+         
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <relatedObject>
+            <key>daris:party/email:drcolinodonnell@mh.org.au</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1047</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1047.2.18</identifier>
+         <identifier type="local">1047.2.18</identifier>
+         <name type="primary">
+            <namePart>Australian Schizophrenia Research Bank (ASRB), Melbourne Neuropsychiatry Centre</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Melbourne Neuropsychiatry Centre, Department of Psychiatry, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <description type="full">The Australian Schizophrenia Research Bank (ASRB) was established in 2006 as a collaborative research initiative between the Schizophrenia Research Institute; the Priority Research Centre for Brain and Mental Health Research, University of Newcastle; the Medical Genetics Laboratory, Hunter Area Pathology Service; the Centre for Rural and Remote Health; the Queensland Centre for Mental Health Research, University of Queensland: the Centre for Clinical Research in Neuropsychiatry, University of Western Australia and the Melbourne Neuropsychiatry Centre, University of Melbourne.
+
+The ASRB is a medical research database and storage facility that links clinical and neuropsychological information, blood samples and structural MRI brain scans from people with schizophrenia and healthy non-psychiatric controls. A proportion of these volunteers have also indicated a willingness to be contacted about participation in future schizophrenia research projects.
+Information about the ASRB is available on line at http://www.schizophreniaresearch.org.au/bank/index.php
+
+The primary aim of the ASRB is to facilitate scientific research into schizophrenia by:
+1) Collecting, storing and providing comprehensive, cross-referenced clinical, neuropsychological, genetic and brain imaging data from people with schizophrenia and healthy controls, and
+2) Providing researchers with access to a pool of volunteers as an ancillary recruitment resource for participation in schizophrenia research projects.
+
+The ASRB is based on a case (schizophrenia) and control (non-psychiatric) sampling design. The sample is drawn from five Australian States and Territories: NSW (Sydney, Hunter, Illawarra, Orange), Canberra, Queensland (Brisbane), Western Australia (Perth) and Victoria (Melbourne), collected through new and existing recruitment resources associated with the ASRB collaborators, including media advertisements, inpatient, outpatient and community mental health service providers, non-government organisations, rehabilitation services, and cold telephoning using the electoral rolls in each State (recruitment of healthy controls only).
+
+MNC have been involved in the collection and analysis of 180 MRI scans from Victorian patients.
+
+Time period: 2008-present</description>
+         
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <relatedObject>
+            <key>daris:party/email:v.carr@schizophreniaresearch.org.au</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1047</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1047.2.19</identifier>
+         <identifier type="local">1047.2.19</identifier>
+         <name type="primary">
+            <namePart>Adolescent Development Study - Phase 2, Melbourne Neuropsychiatry Centre</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Melbourne Neuropsychiatry Centre, Department of Psychiatry, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <description type="full">The Orygen Adolescent Development Study (ADS) is a prospective longitudinal study that aims to address core questions regarding biological and environmental risk factors for the development of depression and other psychopathologies with common onset during adolescence. The study is based at Orygen Youth Health Research Centre, with the Melbourne Neuropsychiatry Centre a key collaborator. The study began in 2003 and has been running for almost 10 years. We have established a cohort of 237 Australian adolescents, who were selected from a wider community sample (approximately 2500, from 100 representative primary schools around metropolitan Melbourne, Victoria, Australia) to encompass a wide range of temperamental risk for later emotional problems. The participants were comprehensively assessed at ages 11-13 years using a multi-method multi-source battery of validated measures of brain structure, temperament, family processes, and psychopathology. An initial follow-up assessment was conducted when adolescents were aged 14-15, which included diagnostic interview and questionnaires only. Further follow-up assessments, consisting of Magnetic Resonance Imaging (MRI) scans, questionnaires and diagnostic interviews, have been completed when participants were aged 15-17 and 17-19. We have also collected information on genetics and family history of psychopathology. These data will enable prospective examinations of the interrelations between genetic, neurobiological, psychological and environmental factors in explaining risk for the emergence of psychopathology during adolescence.
+
+Phase 2 of the study refers to assessments conducted when participants were 15-17 (2008-2009); MRI scans were conducted on 140 participants.</description>
+         
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <relatedObject>
+            <key>daris:party/email:nba@unimelb.edu.au</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1047</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1047.2.20</identifier>
+         <identifier type="local">1047.2.20</identifier>
+         <name type="primary">
+            <namePart>Adolescent Development Study - Phase 3, Melbourne Neuropsychiatry Centre</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Melbourne Neuropsychiatry Centre, Department of Psychiatry, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <description type="full">The Orygen Adolescent Development Study (ADS) is a prospective longitudinal study that aims to address core questions regarding biological and environmental risk factors for the development of depression and other psychopathologies with common onset during adolescence. The study is based at Orygen Youth Health Research Centre, with the Melbourne Neuropsychiatry Centre a key collaborator. The study began in 2003 and has been running for almost 10 years. We have established a cohort of 237 Australian adolescents, who were selected from a wider community sample (approximately 2500, from 100 representative primary schools around metropolitan Melbourne, Victoria, Australia) to encompass a wide range of temperamental risk for later emotional problems. The participants were comprehensively assessed at ages 11-13 years using a multi-method multi-source battery of validated measures of brain structure, temperament, family processes, and psychopathology. An initial follow-up assessment was conducted when adolescents were aged 14-15, which included diagnostic interview and questionnaires only. Further follow-up assessments, consisting of Magnetic Resonance Imaging (MRI) scans, questionnaires and diagnostic interviews, have been completed when participants were aged 15-17 and 17-19. We have also collected information on genetics and family history of psychopathology. These data will enable prospective examinations of the interrelations between genetic, neurobiological, psychological and environmental factors in explaining risk for the emergence of psychopathology during adolescence.
+
+Phase 3 of the study refers to assessments conducted when participants were 17-19 (2011-2012). </description>
+         
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <relatedObject>
+            <key>daris:party/email:nba@unimelb.edu.au</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1047</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1047.2.21</identifier>
+         <identifier type="local">1047.2.21</identifier>
+         <name type="primary">
+            <namePart>Cannabis and Memory Study, Melbourne Neuropsychiatry Centre</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Melbourne Neuropsychiatry Centre, Department of Psychiatry, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <description type="full">The aim of this project is to determine the nature and emergence of memory deficits in cannabis users across the life span. We will discover how varying levels of exposure to cannabis during adolescence and adulthood impact upon brain function subserving verbal learning and memory processes and visuospatial working memory. The effects of frequency and duration of cannabis use on task performance, strategy utilisation, and engagement of appropriate neural systems, will be examined using neurocognitive assessments and functional neuroimaging. Differential engagement of inefficient learning and mnemonic strategies, together with altered activation of brain regions subserving these tasks, will qualitatively and quantitatively inform our understanding of the impact of cannabis use at different points in the lifespan and across the drug-using career. We have developed novel paradigms for functional brain imaging which allow us to directly test for the first time clinically significant hypotheses regarding the impact of cannabis use on memory-relevant brain function: 1) that long term and heavy cannabis use will lead to impaired activation of encoding and retrieval networks that are moderated differentially by frequency versus duration of cannabis use; 2) that the neural substrates of memory processing during the critical neurodevelopmental period of adolescence will be uniquely impacted by cannabis. In addition, this study will offer neurobiological insights into the role of cannabis as a potential precipitator of mental health problems, and importantly, inform the development of appropriate guidelines regarding hazardous levels of cannabis use in adolescents and adults and between the genders.
+
+Approximately 100 participants were recruited for this project.
+
+Time period: 2008-2011</description>
+         
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <relatedObject>
+            <key>daris:party/email:nadia@uow.edu.au</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1047</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1047.2.22</identifier>
+         <identifier type="local">1047.2.22</identifier>
+         <name type="primary">
+            <namePart>Family Interaction fMRI Study, Melbourne Neuropsychiatry Centre</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Melbourne Neuropsychiatry Centre, Department of Psychiatry, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <description type="full">Adolescence marks a period of increased risk for major depressive disorder (MDD). One environmental change that has been identified as important in adolescent emotional adjustment and depression is the renegotiation of roles in the family home as adolescents become more independent. Indeed, family relationships appear to be stronger predictors of adolescent depression than peer relationships , and the way adolescents react to and regulate their emotions during interactions with their parents has been found to be associated with adolescent depressive symptoms. In the current study, we assessed whether adolescent depressive symptoms were associated with neural activity during exposure to their own mother's affective behavior. Thirty adolescents (18 Females, M age 17.35, SD 0.43), recruited from the community (from the Adolescent Development Study) participated in an fMRI task that used digitized video segments of their own mother's, as well as an unfamiliar mother’s affective behavior as stimuli.
+
+Time period: 2009-2010</description>
+         
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <relatedObject>
+            <key>daris:party/email:swhittle@unimelb.edu.au</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1047</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1047.2.23</identifier>
+         <identifier type="local">1047.2.23</identifier>
+         <name type="primary">
+            <namePart>Obsessive Compulsive Disorder (OCD) Study, Melbourne Neuropsychiatry Centre</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Melbourne Neuropsychiatry Centre, Department of Psychiatry, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <description type="full">Our own neuropsyhological study of obsessive compulsive disorder (OCD), Depression and Panic Disorder has identified specific cognitive deficits in OCD that implicate dysfunction of prefrontal and striatal brain regions. This study compared patients with OCD, patients with Depression, and normal control subjects while they performed cognitive tasks of response inhibition during brain scanning. The identification of differences between the groups in relation to the patterns of brain activation associated with response inhibition processes allowed a more precise understanding of the nature of brain function in OCD and Depression, and enabled us to delineate whether patterns of brain activation among OCD patients are specific to the disorder, or are related to comorbid depression.
+
+Approximately 30 patients (non-medicated) were recruited from the Royal Melbourne Hospital/University of Melbourne Psychology Clinic. All participants took part in interviews, MRI and PET scanning.
+
+Time Period: 1997 to 1999</description>
+         
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <relatedObject>
+            <key>daris:party/email:cpant@unimelb.edu.au</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1047</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1047.2.24</identifier>
+         <identifier type="local">1047.2.24</identifier>
+         <name type="primary">
+            <namePart>Risperidone in First Episode Schizophrenia - Baseline, Melbourne Neuropsychiatry Centre</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Melbourne Neuropsychiatry Centre, Department of Psychiatry, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <description type="full">This aim of this project was to use H2O15 PET technique to compare cerebral activation in patients with first-episode schizophrenia and normal control subjects during cognitive activation using the Stroop task. Patients were assessed while drug-naïve and then re-examined when stabilised on risperidone or haloperidol.
+Twenty drug naïve patients with recent onset schizophrenia or schizophreniform psychosis (from EPPIC, Orygen Youth Health), and ten normal healthy subjects (matched to the patients group) were recruited. Participants completed baseline and 8-12 week follow-up scans (PET and MRI). After baseline scans, patients will be randomised to treatment with either risperidone or haloperidol.
+
+This project refers to the baseline scans.
+
+Time period: 1997-1999</description>
+         
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <relatedObject>
+            <key>daris:party/email:cpant@unimelb.edu.au</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1047</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1047.2.25</identifier>
+         <identifier type="local">1047.2.25</identifier>
+         <name type="primary">
+            <namePart>Risperidone in First Episode Schizophrenia – Follow-up, Melbourne Neuropsychiatry Centre</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Melbourne Neuropsychiatry Centre, Department of Psychiatry, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <description type="full">This aim of this project was to use H2O15 PET technique to compare cerebral activation in patients with first-episode schizophrenia and normal control subjects during cognitive activation using the Stroop task. Patients were assessed while drug-naïve and then re-examined when stabilised on risperidone or haloperidol.
+Twenty drug naïve patients with recent onset schizophrenia or schizophreniform psychosis (from EPPIC, Orygen Youth Health), and ten normal healthy subjects (matched to the patients group) were recruited. Participants completed baseline and 8-12 week follow-up scans (PET and MRI). After baseline scans, patients will be randomised to treatment with either risperidone or haloperidol.
+
+This project refers to the follow-up scans.
+
+Time period: 1997-1999</description>
+         
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <relatedObject>
+            <key>daris:party/email:cpant@unimelb.edu.au</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1047</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1047.2.26</identifier>
+         <identifier type="local">1047.2.26</identifier>
+         <name type="primary">
+            <namePart>First Episode Depression Study, Melbourne Neuropsychiatry Centre</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Melbourne Neuropsychiatry Centre, Department of Psychiatry, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <description type="full">Studies of depressed patients have demonstrated increased amygdala activation to negative affective stimuli. In this study, we used a paradigm that employed personally relevant social stimuli, which are known to strongly activate the amygdala, to test whether the amygdala demonstrated aberrant activity in depressed participants as they responded to stimuli with positive valence. Nineteen patients with major depressive disorder (recruited from Orygen Youth Health), aged 15 to 24 years, were matched with 20 healthy control participants. They completed a novel functional magnetic resonance imaging task in which they received social feedback from people who they believed had evaluated them. Voxelwise statistical parametric maps of brain response to positive social feedback and to a control feedback condition were compared to test the hypothesis that differences in neural response between depressed and control participants would arise in the amygdala.
+
+Time period: 2008-2009</description>
+         
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <relatedObject>
+            <key>daris:party/email:c.davey@unimelb.edu.au</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1047</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1047.2.4</identifier>
+         <identifier type="local">1047.2.4</identifier>
+         <name type="primary">
+            <namePart>H proton MR Spectroscopy in Schizophrenia Study, Melbourne Neuropsychiatry Centre</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Melbourne Neuropsychiatry Centre, Department of Psychiatry, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <description type="full">Data from our own cross-sectional MRI work has identified bilaterally smaller hippocampal volumes in first-episode and chronic schizophrenia, while "high-risk" mindividuals did not eiffer from normal controls. This finding calls into question the neurodevelopmental hypothesis of schizophrenia.'H Proton MRS provides measures of neuronal integrity and density (NAA) while choline represents a major component of the myelin in the brain. Using MRS this study will examine the neural and non-neuronal elements of the hippocampus to assess the relative contribution of these elements to changes in hippocampal volume. This study will examine 30 patients from three groups ("high-risk, first-episode, chronic schizophrenia) and matched healthy controls. The high-risk group and 15 controls will be re-assessed after the onset of psychosis. Patients will be recruited from EPPIC and PACE clinics at Orygen Youth Health. Controls will be recruited via an database established from previous research.</description>
+         
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <relatedObject>
+            <key>daris:party/email:cpant@unimelb.edu.au</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1047</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <party xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="person">
+         <identifier type="local">daris:party/email:nba@unimelb.edu.au</identifier>
+         <name type="primary">
+            <namePart type="title">Professor</namePart>
+            <namePart type="given">Nicholas</namePart>
+            <namePart type="family">Allen</namePart>
+         </name>
+         <location>
+            <address>
+               <electronic type="email">
+                  <value>nba@unimelb.edu.au</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">1109</subject>
+      </party>
+      <party xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="person">
+         <identifier type="local">daris:party/email:murat@unimelb.edu.au</identifier>
+         <name type="primary">
+            <namePart type="title">Professor</namePart>
+            <namePart type="given">Murat</namePart>
+            <namePart type="family">Yücel</namePart>
+         </name>
+         <location>
+            <address>
+               <electronic type="email">
+                  <value>murat@unimelb.edu.au</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">1109</subject>
+      </party>
+      <party xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="person">
+         <identifier type="local">daris:party/email:dan.lubman@monash.edu</identifier>
+         <name type="primary">
+            <namePart type="title">Associate Professor</namePart>
+            <namePart type="given">Daniel</namePart>
+            <namePart type="family">Lubman</namePart>
+         </name>
+         <location>
+            <address>
+               <electronic type="email">
+                  <value>dan.lubman@monash.edu</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">1109</subject>
+      </party>
+      <party xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="person">
+         <identifier type="local">daris:party/email:cpant@unimelb.edu.au</identifier>
+         <name type="primary">
+            <namePart type="title">Professor</namePart>
+            <namePart type="given">Christos</namePart>
+            <namePart type="family">Pantelis</namePart>
+         </name>
+         <location>
+            <address>
+               <electronic type="email">
+                  <value>cpant@unimelb.edu.au</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">1109</subject>
+      </party>
+      <party xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="person">
+         <identifier type="local">daris:party/email:eoin@unimelb.edu.au</identifier>
+         <name type="primary">
+            <namePart type="title">Associate Professor</namePart>
+            <namePart type="given">Eoin</namePart>
+            <namePart type="family"> Killackey </namePart>
+         </name>
+         <location>
+            <address>
+               <electronic type="email">
+                  <value>eoin@unimelb.edu.au</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">1109</subject>
+      </party>
+      <party xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="person">
+         <identifier type="local">daris:party/email:s.j.wood@bham.ac.uk</identifier>
+         <name type="primary">
+            <namePart type="title">Professor</namePart>
+            <namePart type="given">Stephen</namePart>
+            <namePart type="family">Wood</namePart>
+         </name>
+         <location>
+            <address>
+               <electronic type="email">
+                  <value>s.j.wood@bham.ac.uk</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">1109</subject>
+      </party>
+      <party xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="person">
+         <identifier type="local">daris:party/email:b.mowry@uq.edu.au</identifier>
+         <name type="primary">
+            <namePart type="title">Professor</namePart>
+            <namePart type="given">Bryan </namePart>
+            <namePart type="family">Mowry</namePart>
+         </name>
+         <location>
+            <address>
+               <electronic type="email">
+                  <value>b.mowry@uq.edu.au</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">1109</subject>
+      </party>
+      <party xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="person">
+         <identifier type="local">daris:party/email:MIKEBE@BarwonHealth.org.au</identifier>
+         <name type="primary">
+            <namePart type="title">Professor</namePart>
+            <namePart type="given">Michael</namePart>
+            <namePart type="family">Berk</namePart>
+         </name>
+         <location>
+            <address>
+               <electronic type="email">
+                  <value>MIKEBE@BarwonHealth.org.au</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">1109</subject>
+      </party>
+      <party xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="person">
+         <identifier type="local">daris:party/email:Warrick.Brewer@mh.org.au</identifier>
+         <name type="primary">
+            <namePart type="title">Associate Professor</namePart>
+            <namePart type="given">Warrick</namePart>
+            <namePart type="family">Brewer</namePart>
+         </name>
+         <location>
+            <address>
+               <electronic type="email">
+                  <value>Warrick.Brewer@mh.org.au</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">1109</subject>
+      </party>
+      <party xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="person">
+         <identifier type="local">daris:party/email:aryung@unimelb.edu.au</identifier>
+         <name type="primary">
+            <namePart type="title">Professor</namePart>
+            <namePart type="given">Alison</namePart>
+            <namePart type="family">Yung</namePart>
+         </name>
+         <location>
+            <address>
+               <electronic type="email">
+                  <value>aryung@unimelb.edu.au</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">1109</subject>
+      </party>
+      <party xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="person">
+         <identifier type="local">daris:party/email:pmcgorry@unimelb.edu.au</identifier>
+         <name type="primary">
+            <namePart type="title">Professor</namePart>
+            <namePart type="given">Patrick</namePart>
+            <namePart type="family">McGorry</namePart>
+         </name>
+         <location>
+            <address>
+               <electronic type="email">
+                  <value>pmcgorry@unimelb.edu.au</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">1109</subject>
+      </party>
+      <party xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="person">
+         <identifier type="local">daris:party/email:drcolinodonnell@mh.org.au</identifier>
+         <name type="primary">
+            <namePart type="title">Dr.</namePart>
+            <namePart type="given">Colin</namePart>
+            <namePart type="family">O'Donnell</namePart>
+         </name>
+         <location>
+            <address>
+               <electronic type="email">
+                  <value>drcolinodonnell@mh.org.au</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">1109</subject>
+      </party>
+      <party xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="person">
+         <identifier type="local">daris:party/email:v.carr@schizophreniaresearch.org.au</identifier>
+         <name type="primary">
+            <namePart type="title">Professor</namePart>
+            <namePart type="given">Vaughan</namePart>
+            <namePart type="family">Carr</namePart>
+         </name>
+         <location>
+            <address>
+               <electronic type="email">
+                  <value>v.carr@schizophreniaresearch.org.au</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">1109</subject>
+      </party>
+      <party xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="person">
+         <identifier type="local">daris:party/email:nadia@uow.edu.au</identifier>
+         <name type="primary">
+            <namePart type="title">Associate Professor</namePart>
+            <namePart type="given">Nadia </namePart>
+            <namePart type="family">Solowij </namePart>
+         </name>
+         <location>
+            <address>
+               <electronic type="email">
+                  <value>nadia@uow.edu.au</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">1109</subject>
+      </party>
+      <party xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="person">
+         <identifier type="local">daris:party/email:swhittle@unimelb.edu.au</identifier>
+         <name type="primary">
+            <namePart type="title">Dr.</namePart>
+            <namePart type="given">Sarah </namePart>
+            <namePart type="family">Whittle</namePart>
+         </name>
+         <location>
+            <address>
+               <electronic type="email">
+                  <value>swhittle@unimelb.edu.au</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">1109</subject>
+      </party>
+      <party xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="person">
+         <identifier type="local">daris:party/email:c.davey@unimelb.edu.au</identifier>
+         <name type="primary">
+            <namePart type="title">Dr.</namePart>
+            <namePart type="given">Christopher</namePart>
+            <namePart type="family">Davey</namePart>
+         </name>
+         <location>
+            <address>
+               <electronic type="email">
+                  <value>c.davey@unimelb.edu.au</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">1109</subject>
+      </party>
+   </mu:rifcsData>
+</mu:root>

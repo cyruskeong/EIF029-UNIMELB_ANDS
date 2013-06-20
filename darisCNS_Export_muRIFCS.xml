@@ -1,0 +1,2306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mu:root xmlns:rifcs="http://ands.org.au/standards/rif-cs/registryObjects"
+         xmlns:mu="http://rdr.unimelb.edu.au/schema/murifcs"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         fromLab="DaRIS 1004 - Centre for Neuroscience"
+         xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects http://services.ands.org.au/documentation/rifcs/1.2.0/schema/registryObjects.xsd             http://rdr.unimelb.edu.au/schema/murifcs http://rdr.unimelb.edu.au/schema/muRIFCS.xsd">
+   <mu:rifcsData>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="repository">
+         <identifier type="local">daris:repository/id:1004</identifier>
+         <identifier type="local">1004</identifier>
+         <name type="primary">
+            <namePart type="text">Distributed and Reflective Informatics System</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Centre for Neuroscience, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3CDTF">2006-06-13</date>
+            </temporal>
+         </coverage>
+         <relatedObject>
+            <key>daris:party/email:nkilleen@unimelb.edu.au</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <description type="full">The repository holds primarily Magnetic Resonance Imaging as well as Optical Microscopy data acquired from human and small-animal subjects. Data are held pertaining to studies of neurological disease (including multiple sclerosis, optic neuritis, Alzheimer's disease, Friedreich's ataxia and Huntington's disease), interoceptive systems and developmental neuroscience.</description>
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+      </collection>
+      <party xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="person">
+         <identifier type="local">daris:party/email:nkilleen@unimelb.edu.au</identifier>
+         <name type="primary">
+            <namePart type="title">Dr.</namePart>
+            <namePart type="given">Neil</namePart>
+            <namePart type="family">Killeen</namePart>
+         </name>
+         <location>
+            <address>
+               <electronic type="email">
+                  <value>nkilleen@unimelb.edu.au</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">1109</subject>
+      </party>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1.5.19</identifier>
+         <identifier type="local">1.5.19</identifier>
+         <name type="primary">
+            <namePart>Manganese-enhanced Magnetic Resonance Imaging (MRI) of the hippocampus in R6/1 Huntington's Disease mice.</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Centre for Neuroscience, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3CDTF">2007-07-02</date>
+               <date type="dateTo" dateFormat="W3CDTF">2007-07-04</date>
+            </temporal>
+         </coverage>
+         <description type="full">Huntington's disease (HD) is a fatal neurodegenerative disease and manifests as a triad of motor, cognitive and psychiatric symptoms.   The R6/1 transgenic mouse model of HD has proven to be a valuable tool in HD research as these mice show the progressive development of symptoms, comparable to the human condition.  Of particular interest is evidence that young HD mice display cognitive defects prior to the onset of motor symptoms.  Human imaging studies have shown that structural changes are observable in preclinical HD.  Preliminary experiments have shown that HD brains are volumetrically altered by 18 weeks of age. We would like to extend those results by investigating whether our mouse model also develops structural changes early in disease progression, focussing on the hippocampus since it is the region implicated in learning and memory.
+
+This experiment will perform manganese-enhanced MRI at 10-12 weeks. MEMRI has been used for tracing neuronal tracts and studying brain function in vivo. With the use of contrast enhancing agents, the sensitivity of MRI is greatly increased for detecting pathological changes.  The manganese ion circulates to the brain and deposits in the hippocampus and other nuclei, which reflects the levels and pattern of neuro-activities in the animal.</description>
+         <description type="note">Number of Subjects: 22
+Number of Studies: 22
+Number of Datasets: 45
+Size of Content: 48366296 bytes
+
+Subject Details:
+  type: 22 animal
+  species: 22 mouse
+  gender: 9 female, 9 male</description>
+         <description type="note">Howard Florey Institute Animal Ethics Committee, ethics-id: 07-053</description>
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <subject type="local">Neuroscience</subject>
+         <subject type="local">Neuroimaging</subject>
+         <subject type="local">Manganese-enhanced Magnetic Resonance Imaging (MEMRI)</subject>
+         <subject type="local">Huntington's Disease</subject>
+         <subject type="local">Hippocampus</subject>
+         <subject type="local">R6/1 mouse</subject>
+         <relatedObject>
+            <key>daris:party/email:gary.egan@monash.edu</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1004</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1.5.44</identifier>
+         <identifier type="local">1.5.44</identifier>
+         <name type="primary">
+            <namePart>Investigation of optic nerve degeneration in Experimental Autoimmune Encephalomyelitis (EAE) mice via Magnetic Resonance Imaging (MRI).</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Centre for Neuroscience, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <description type="full">Investigate axonal degeneration in murine optic nerve via Magnetic Resonance Imaging (MRI) of
+Encephalomyelitis (EAE) mice</description>
+         <description type="note">Number of Subjects: 56
+Number of Studies: 224
+Number of Datasets: 136
+Size of Content: 162950336 bytes
+
+Subject Details:
+  type: 56 animal
+  species: 56 mouse
+  gender: 35 female, 21 male</description>
+         <description type="note">National Health and Medical Research Council, funding-id: Unknown</description>
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <subject type="local">Neuroscience</subject>
+         <subject type="local">Neuroimaging</subject>
+         <subject type="local">Magnetic Resonance Imaging (MRI)</subject>
+         <subject type="local">Experimental Autoimmune Encephalomyelitis (EAE) mouse model</subject>
+         <subject type="local">Optic nerve degeneration</subject>
+         <relatedObject>
+            <key>daris:party/email:gary.egan@monash.edu</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1004</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1.5.28</identifier>
+         <identifier type="local">1.5.28</identifier>
+         <name type="primary">
+            <namePart>Urge to Cough - Brain activity because of the urge to cough investigated via Manganese Enhanced  Magnetic Resonance Imaging</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Centre for Neuroscience, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3CDTF">2007-09-26</date>
+               <date type="dateTo" dateFormat="W3CDTF">2008-03-30</date>
+            </temporal>
+         </coverage>
+         <description type="full">Cortical brain activity associated with the urge to cough, induced by the inhalation of capsaicin, is investigated with Manganese Enhanced Magnetic Resonance Imaging (MEMRI).</description>
+         <description type="note">Number of Subjects: 19
+Number of Studies: 20
+Number of Datasets: 72
+Size of Content: 967597184 bytes
+
+Subject Details:
+  type: 1 non-animal, 18 animal
+  species: 18 guineapig
+  gender: 1 other, 1 male</description>
+         <description type="note">Howard Florey Institute Animal Ethics Committee, ethics-id: 06-083</description>
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <subject type="local">Neuroscience</subject>
+         <subject type="local">Neuroimaging</subject>
+         <subject type="local">Interoception</subject>
+         <subject type="local">Cough</subject>
+         <subject type="local">Capsaicin</subject>
+         <subject type="local">Respiratory Disease</subject>
+         <subject type="local">Manganese Enhanced Magnetic Resonance Imaging (MEMRI)</subject>
+         <subject type="local">Small animal (Guinea Pig)</subject>
+         <relatedObject>
+            <key>daris:party/email:s.mazzone@uq.edu.au</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1004</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1.5.36</identifier>
+         <identifier type="local">1.5.36</identifier>
+         <name type="primary">
+            <namePart>Investigation of hydrocephalus in the Quaking viable mouse</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Centre for Neuroscience, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3CDTF">2008-03-04</date>
+               <date type="dateTo" dateFormat="W3CDTF">2008-04-29</date>
+            </temporal>
+         </coverage>
+         <description type="full">MRI imaging was used to assess the CNS lateral ventricles in wildtype, quaking viable and Parkin Co-regulated Gene (Pacrg) transgenic mice.</description>
+         <description type="note">Number of Subjects: 15
+Number of Studies: 15
+Number of Datasets: 9
+Size of Content: 19443904 bytes
+
+Subject Details:
+  type: 15 animal
+  species: 15 mouse</description>
+         <description type="note">Murdoch Childrens Research Institute Animal Ethics Committee, ethics-id: A562</description>
+         <description type="note">National Health and Medical Research Council, funding-id: 436977</description>
+         <description type="note">National Health and Medical Research Council, funding-id: 384489</description>
+         <description type="note">National Health and Medical Research Council, funding-id: 400317</description>
+         <description type="note">National Health and Medical Research Council, funding-id: 546452</description>
+         <description type="note">National Health and Medical Research Council, funding-id: 545805</description>
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="local">Neuroscience</subject>
+         <subject type="local">Neuroimaging</subject>
+         <subject type="local">Hydrocephalus</subject>
+         <subject type="local">Quaking viable</subject>
+         <subject type="local">Pacrg</subject>
+         <relatedObject>
+            <key>daris:party/email:gabrielle.wilson@mcri.edu.au</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1004</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1.5.60</identifier>
+         <identifier type="local">1.5.60</identifier>
+         <name type="primary">
+            <namePart>Assessment of Myocardial Infarction risk via molecular Magnetic Resonance Imaging (MRI) of  activated platelets in mice.</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Centre for Neuroscience, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3CDTF">2008-12-03</date>
+               <date type="dateTo" dateFormat="W3CDTF">2009-07-01</date>
+            </temporal>
+         </coverage>
+         <description type="full">Research shows activation and accumulation of platelets in the heart after myocardial infarction (MI). This is associated with more severe myocardial inflammation and complications. We aim to establish Magnetic Resonance (MR)-based molecular imaging targeting activated platelets in the mouse model of MI and develop it as a tool for clinical detection and monitoring of high risk patients.
+ </description>
+         <description type="note">Number of Subjects: 22
+Number of Studies: 41
+Number of Datasets: 152
+Size of Content: 202037888 bytes
+
+Subject Details:
+  type: 22 animal
+  species: 3 mouse
+  gender: 19 female, 2 male</description>
+         <description type="note">Alfred Medical Research and Education Precinct Animal Ethics Committee, ethics-id: E/0825/2009/B</description>
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1102</subject>
+         <subject type="local">Magnetic Resonance Imaging (MRI)</subject>
+         <subject type="local">Myocardial Infarction (MI)</subject>
+         <subject type="local">Myocardial Inflammation</subject>
+         <subject type="local">Platelets</subject>
+         <subject type="local">Molecular Imaging</subject>
+         <subject type="local">Anti IIB/IIIa single chain antibody</subject>
+         <relatedObject>
+            <key>daris:party/email:xiao-jun.du@bakeridi.edu.au</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1004</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1.5.27</identifier>
+         <identifier type="local">1.5.27</identifier>
+         <name type="primary">
+            <namePart>Grey matter pathology in pre-clinical murine Experimental Autoimmune Encephalomyelitis (EAE)</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Centre for Neuroscience, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3CDTF">2007-09-17</date>
+               <date type="dateTo" dateFormat="W3CDTF">2009-05-19</date>
+            </temporal>
+         </coverage>
+         <description type="full">Grey matter pathology in pre-clinical murine Experimental Autoimmune Encephalomyelitis (EAE)</description>
+         <description type="note">Number of Subjects: 17
+Number of Studies: 18
+Number of Datasets: 158
+Size of Content: 296913088 bytes
+
+Subject Details:
+  type: 17 animal
+  species: 17 mouse
+  gender: 4 female</description>
+         <description type="note">Howard Florey Institute Animal Ethics Committee, ethics-id: 07-073</description>
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <subject type="local">Neuroscience</subject>
+         <subject type="local">Neuroimaging</subject>
+         <subject type="local"> Experimental Autoimmune Encephalomyelitis (EAE)</subject>
+         <subject type="local">Mouse</subject>
+         <subject type="local">Magnetic Resonance Imaging (MRI)</subject>
+         <relatedObject>
+            <key>daris:party/email:gary.egan@monash.edu</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1004</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1.5.64</identifier>
+         <identifier type="local">1.5.64</identifier>
+         <name type="primary">
+            <namePart>Investigation of tremor in Multiple Sclerosis (MS) via Magnetic Resonance Imaging (MRI)</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Centre for Neuroscience, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3CDTF">2009-02-26</date>
+               <date type="dateTo" dateFormat="W3CDTF">2009-05-11</date>
+            </temporal>
+         </coverage>
+         <description type="full">Investigation of  Multiple Sclerosis patients with tremor via Magnetic Resonance Imaging (MRI).   The study will quantify the type and degree of the tremor. Imaging techniques will include diffusion and conventional contrast.</description>
+         <description type="note">Number of Subjects: 14
+Number of Studies: 12
+Number of Datasets: 126
+Size of Content: 1638493184 bytes
+
+Subject Details:
+  type: 14 animal
+  species: 14 human
+  gender: 10 female, 4 male</description>
+         <description type="note">Eye and Ear Hospital Human Research Ethics Committee, ethics-id: 2008.022</description>
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <subject type="local">Neuroscience</subject>
+         <subject type="local">Neuroimaging</subject>
+         <subject type="local">Magnetic Resonance Imaging</subject>
+         <subject type="local">Diffusion Imaging</subject>
+         <subject type="local">Multiple Sclerosis</subject>
+         <subject type="local">Tremor</subject>
+         <relatedObject>
+            <key>daris:party/email:gary.egan@monash.edu</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1004</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1.5.52</identifier>
+         <identifier type="local">1.5.52</identifier>
+         <name type="primary">
+            <namePart>Investigation of Genetic Absence in Epilepsy in Rats (GAERS) via Magnetic Resonance Imaging (MRI)</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Centre for Neuroscience, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3CDTF">2008-09-12</date>
+               <date type="dateTo" dateFormat="W3CDTF">2009-02-20</date>
+            </temporal>
+         </coverage>
+         <description type="full">Investigation of temporal progression of epilepsy and anxiety pathologies, and effects of intervention, in Genetic Absence in Epilepsy in Rats  via Magnetic Resonance Imaging (MRI)</description>
+         <description type="note">Number of Subjects: 75
+Number of Studies: 68
+Number of Datasets: 78
+Size of Content: 178753856 bytes
+
+Subject Details:
+  type: 75 animal
+  species: 75 rat
+  gender: 42 female</description>
+         <description type="note">Howard Florey Institute Animal Ethics Committee, ethics-id: 08-071</description>
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <subject type="local">Neuroscience</subject>
+         <subject type="local">Neuroimaging</subject>
+         <subject type="local">Magnetic Resonance Imaging (MRI)</subject>
+         <subject type="local">Genetic Absence in Epilepsy in Rats (GAERS)</subject>
+         <subject type="local">Epilepsy</subject>
+         <relatedObject>
+            <key>daris:party/email:obrientj@unimelb.edu.au</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1004</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1.5.67</identifier>
+         <identifier type="local">1.5.67</identifier>
+         <name type="primary">
+            <namePart>Effect on cognition of women because of  oestrogen replacement therapy via Magnetic Resonance Imaging (MRI)</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Centre for Neuroscience, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3CDTF">2009-05-07</date>
+               <date type="dateTo" dateFormat="W3CDTF">2010-04-19</date>
+            </temporal>
+         </coverage>
+         <description type="full">Placebo controlled study of the effect of oestrogen replacement therapy on cognition in postmenopausal women, including fMRI of verbal fluency and mental rotation in ~40 subjects prior to and after 6 months of treatment.
+
+This project holds controls and non-controls but this information should not be set on the subjects until the analysis is completed (blind study).</description>
+         <description type="note">Number of Subjects: 17
+Number of Studies: 28
+Number of Datasets: 564
+Size of Content: 12167888896 bytes
+
+Subject Details:
+  type: 17 animal
+  species: 17 human
+  gender: 17 female</description>
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <subject type="local">Neuroscience</subject>
+         <subject type="local">Neuroimaging</subject>
+         <subject type="local">Functional Magnetic Resonance Imaging (fMRI)</subject>
+         <subject type="local">Cognition</subject>
+         <subject type="local">Oestrogen Replacement Therapy</subject>
+         <relatedObject>
+            <key>daris:party/email:gary.egan@monash.edu</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1004</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1.5.72</identifier>
+         <identifier type="local">1.5.72</identifier>
+         <name type="primary">
+            <namePart>Consumer Neuroscience investigated via functional Magnetic Resonance Imaging.</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Centre for Neuroscience, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3CDTF">2009-09-17</date>
+               <date type="dateTo" dateFormat="W3CDTF">2010-03-26</date>
+            </temporal>
+         </coverage>
+         <description type="full">Human decision-making is driven by subjective values assigned to
+alternative choice options, and these valuations are based on reward
+cues. This study investigates the extent to which culturally defined
+but highly meaningful reward cues incidentally affect generic economic
+decisions. Participants are subliminally presented with a widely
+recognized brand logo as a reward cue just before they make unrelated
+economic choices. Functional Magnetic Resonance Imaging is used to identify brain regions in which the encoding of the subjective value of the choice options is directly modulated by the cue.
+</description>
+         <description type="note">Number of Subjects: 21
+Number of Studies: 20
+Number of Datasets: 357
+Size of Content: 5121252864 bytes
+
+Subject Details:
+  type: 21 animal
+  species: 21 human
+  gender: 10 female, 11 male</description>
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <subject type="local">Neuroscience</subject>
+         <subject type="local">Neuroimaging</subject>
+         <subject type="local">Functional Magnetic Resonance Imaging</subject>
+         <subject type="local">Economic decision making</subject>
+         <relatedObject>
+            <key>daris:party/email:gary.egan@monash.edu</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1004</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1.5.77</identifier>
+         <identifier type="local">1.5.77</identifier>
+         <name type="primary">
+            <namePart>Distribution of drugs in cochlea during surgery investigated via Magnetic Resonance Imaging.</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Centre for Neuroscience, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3CDTF">2009-12-03</date>
+               <date type="dateTo" dateFormat="W3CDTF">2009-12-16</date>
+            </temporal>
+         </coverage>
+         <description type="full">This project directly visualises, via Magnetic Resonance Imaging, the drug distribution within the cochlea in real time after local delivery and to investigate the effect of inner ear surgery on drug distribution.</description>
+         <description type="note">Number of Subjects: 13
+Number of Studies: 13
+Number of Datasets: 236
+Size of Content: 146782832 bytes
+
+Subject Details:
+  type: 13 animal
+  species: 13 guineapig
+  gender: 2 female, 11 male</description>
+         <description type="note">Howard Florey Institute Animal Ethics Committee, ethics-id: AEC 09-104</description>
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <subject type="local">Neuroscience</subject>
+         <subject type="local">Neuroimaging</subject>
+         <subject type="local">Cochlear</subject>
+         <subject type="local">Drug distribution</subject>
+         <subject type="local">Inner ear surgery</subject>
+         <relatedObject>
+            <key>daris:party/email:sjoleary@unimelb.edu.au</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1004</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1.5.38</identifier>
+         <identifier type="local">1.5.38</identifier>
+         <name type="primary">
+            <namePart>Investigating the effects of toluene exposure on white matter development in rats via Magnetic Resonance Imaging (MRI) Diffusion Tensor Imaging (DTI).</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Centre for Neuroscience, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3CDTF">2010-04-12</date>
+               <date type="dateTo" dateFormat="W3CDTF">2010-09-02</date>
+            </temporal>
+         </coverage>
+         <description type="full">Investigating developmental white matter changes associated with toluene exposure in rats using Diffusion Tensor Imaging (DTI), T2 and T2* imaging. </description>
+         <description type="note">Number of Subjects: 12
+Number of Studies: 26
+Number of Datasets: 325
+Size of Content: 35174543360 bytes
+
+Subject Details:
+  type: 12 animal</description>
+         <description type="note">Howard Florey Institute Animal Ethics Committee, ethics-id: 09-101</description>
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <subject type="local">Neuroscience</subject>
+         <subject type="local">Neuroimaging</subject>
+         <subject type="local">Magnetic Resonance Imaging (MRI)</subject>
+         <subject type="local">White matter development</subject>
+         <subject type="local">Toluene exposure</subject>
+         <subject type="local">Rats</subject>
+         <relatedObject>
+            <key>daris:party/email:gary.egan@monash.edu</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1004</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1.5.48</identifier>
+         <identifier type="local">1.5.48</identifier>
+         <name type="primary">
+            <namePart>IMAGE_HD - investigation of Huntington's Disease via Magnetic Resonance Imaging (MRI) - controls</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Centre for Neuroscience, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3CDTF">2008-08-04</date>
+               <date type="dateTo" dateFormat="W3CDTF">2012-02-10</date>
+            </temporal>
+         </coverage>
+         <description type="full">Diffusion Tensor Imaging, functional and structural Magnetic Resonance Imaging (MRI) study of 35 Control, 35 pre-symptomatic Huntington's Disease and 35 symptomatic Huntington's Disease participants. This project holds the control group only.</description>
+         <description type="note">Number of Subjects: 45
+Number of Studies: 103
+Number of Datasets: 2828
+Size of Content: 180029259776 bytes
+
+Subject Details:
+  type: 28 animal
+  species: 45 human
+  gender: 27 female, 18 male</description>
+         <description type="note">Melbourne Health Human Research Ethics Committee, ethics-id: 2008.090</description>
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <subject type="local">Neuroscience</subject>
+         <subject type="local">Neuroimaging</subject>
+         <subject type="local">Magnetic Resonance Imaging (MRI)</subject>
+         <subject type="local">Huntington's Disease</subject>
+         <relatedObject>
+            <key>daris:party/email:gary.egan@monash.edu</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1004</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1.5.50</identifier>
+         <identifier type="local">1.5.50</identifier>
+         <name type="primary">
+            <namePart>IMAGE_HD - investigation of Huntington's Disease via Magnetic Resonance Imaging (MRI) - patient cohort</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Centre for Neuroscience, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3CDTF">2008-09-09</date>
+               <date type="dateTo" dateFormat="W3CDTF">2012-02-17</date>
+            </temporal>
+         </coverage>
+         <description type="full">Diffusion Tensor Imaging, functional and structural Magnetic Resonance Imaging (MRI) study of 35 Control, 35 pre-symptomatic Huntington's Disease and 35 symptomatic Huntington's Disease participants.
+
+This project holds the non-control subjects only.  The controls are held in a separate project.</description>
+         <description type="note">Number of Subjects: 84
+Number of Studies: 221
+Number of Datasets: 5866
+Size of Content: 392230797312 bytes
+
+Subject Details:
+  type: 41 animal
+  species: 84 human
+  gender: 47 female, 37 male</description>
+         <description type="note">Melbourne Health Human Research Ethics Committee, ethics-id: 2008.090</description>
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <subject type="local">Neuroscience</subject>
+         <subject type="local">Neuroimaging</subject>
+         <subject type="local">Magnetic Resonance Imaging (MRI)</subject>
+         <subject type="local">Huntington's Disease</subject>
+         <relatedObject>
+            <key>daris:party/email:gary.egan@monash.edu</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1004</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1.5.88</identifier>
+         <identifier type="local">1.5.88</identifier>
+         <name type="primary">
+            <namePart>Temporal analysis of cortical contusion in mice.</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Centre for Neuroscience, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3CDTF">2010-04-14</date>
+               <date type="dateTo" dateFormat="W3CDTF">2010-06-29</date>
+            </temporal>
+         </coverage>
+         <description type="full">Temporal analysis of the progression of cortical contusion in mice investigated via Magnetic Resonance Imaging (MRI). </description>
+         <description type="note">Number of Subjects: 9
+Number of Studies: 13
+Number of Datasets: 167
+Size of Content: 928489472 bytes
+
+Subject Details:
+  type: 9 animal
+  gender: 7 female</description>
+         <description type="note">Florey Neuroscience Institutes Animal Ethics Committee, ethics-id: Unknown</description>
+         <description type="note">University of Melbourne Human Research Ethics Committee, ethics-id: Unknown</description>
+         <description type="note">National Health and Medical Research Council, funding-id: Unknown</description>
+         <description type="note">Australian Research Council, funding-id: Unknown</description>
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <subject type="local">Neuroscience</subject>
+         <subject type="local">Neuroimaging</subject>
+         <subject type="local">Magnetic Resonance Imaging (MRI)</subject>
+         <subject type="local">Traumatic brain injury</subject>
+         <subject type="local">Mouse</subject>
+         <subject type="local">Neuroinflammation</subject>
+         <relatedObject>
+            <key>daris:party/email:pcrack@unimelb.edu.au</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1004</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1.5.5</identifier>
+         <identifier type="local">1.5.5</identifier>
+         <name type="primary">
+            <namePart>Thirst ASL - Brain activity because of thirst investigated via functional Magnetic Resonance Imaging (Arterial Spin Labelling signal)</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Centre for Neuroscience, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3CDTF">2006-10-19</date>
+               <date type="dateTo" dateFormat="W3CDTF">2008-10-28</date>
+            </temporal>
+         </coverage>
+         <description type="full">Brain activity associated with thirst, induced by exercise and fluid deprivation, is imaged with functional Magnetic Resonance Arterial Spin Labelling (ASL). ASL images are acquired immediately after drinking and 2 hours after drinking.  </description>
+         <description type="note">Number of Subjects: 16
+Number of Studies: 19
+Number of Datasets: 691
+Size of Content: 5582148096 bytes
+
+Subject Details:
+  type: 16 animal
+  species: 16 human
+  gender: 5 female, 11 male</description>
+         <description type="note">Melbourne Health Human Research Ethics Committee, ethics-id: 2007.015</description>
+         <description type="note">Howard Florey Institute Animal Ethics Committee, ethics-id: 06-001</description>
+         <description type="note">Derek Denton Endowment, funding-id: Unknown</description>
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <subject type="local">Neuroscience</subject>
+         <subject type="local">Neuroimaging</subject>
+         <subject type="local">Interoception</subject>
+         <subject type="local">Thirst</subject>
+         <subject type="local">Functional Magnetic Resonance Imaging</subject>
+         <subject type="local">Functional Connectivity</subject>
+         <subject type="local">Arterial Spin Labelling (ASL)</subject>
+         <relatedObject>
+            <key>daris:party/email:michael.farrell@florey.edu.au</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1004</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1.5.6</identifier>
+         <identifier type="local">1.5.6</identifier>
+         <name type="primary">
+            <namePart>Thirst BOLD - Brain activity because of thirst investigated via functional Magnetic Resonance Imaging (Blood Oxygen Level Dependence signal)</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Centre for Neuroscience, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3CDTF">2006-05-17</date>
+               <date type="dateTo" dateFormat="W3CDTF">2006-12-12</date>
+            </temporal>
+         </coverage>
+         <description type="full"> Brain activity associated with thirst, in dehydrated and replete states, is investigated  with functional Magnetic Resonance  Blood Oxygen Level Dependence (BOLD) imaging.</description>
+         <description type="note">Number of Subjects: 16
+Number of Studies: 19
+Number of Datasets: 293
+Size of Content: 6035665408 bytes
+
+Subject Details:
+  type: 16 animal
+  species: 16 human
+  gender: 6 female, 10 male</description>
+         <description type="note">Melbourne Health Human Research Ethics Committee, ethics-id: 2007.015</description>
+         <description type="note">Howard Florey Institute Animal Ethics Committee, ethics-id: 06-001</description>
+         <description type="note">Derek Denton Endowment, funding-id: Unknown</description>
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <subject type="local">Neuroscience</subject>
+         <subject type="local">Neuroimaging</subject>
+         <subject type="local">Interoception</subject>
+         <subject type="local">Thirst</subject>
+         <subject type="local">Functional Magnetic Resonance Imaging</subject>
+         <subject type="local">Functional Connectivity</subject>
+         <subject type="local">Blood Oxygen Level Dependence (BOLD)</subject>
+         <relatedObject>
+            <key>daris:party/email:michael.farrell@florey.edu.au</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1004</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1.5.7</identifier>
+         <identifier type="local">1.5.7</identifier>
+         <name type="primary">
+            <namePart>Belief formation - cognitive deficits associated with delusion. </namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Centre for Neuroscience, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3CDTF">2006-08-29</date>
+               <date type="dateTo" dateFormat="W3CDTF">2011-07-12</date>
+            </temporal>
+         </coverage>
+         <description type="full">Investigation of the cognitive deficits associated with delusions and unusual belief formation via functional Magnetic Resonance Imaging.</description>
+         <description type="note">Number of Subjects: 31
+Number of Studies: 36
+Number of Datasets: 1112
+Size of Content: 35099127808 bytes
+
+Subject Details:
+  type: 31 animal
+  species: 31 human
+  gender: 31 male</description>
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <subject type="local">Neuroscience</subject>
+         <subject type="local">Neuroimaging</subject>
+         <subject type="local">Functional Magnetic Resonance Imaging</subject>
+         <subject type="local">Cognitive Deficit</subject>
+         <subject type="local">Delusion</subject>
+         <relatedObject>
+            <key>daris:party/email:srossell@srossell.com</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1004</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1.5.8</identifier>
+         <identifier type="local">1.5.8</identifier>
+         <name type="primary">
+            <namePart>Demyelination of the optic nerve investigated by Magnetic Resonance Imaging (MRI) - controls</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Centre for Neuroscience, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3CDTF">2006-09-15</date>
+               <date type="dateTo" dateFormat="W3CDTF">2009-08-06</date>
+            </temporal>
+         </coverage>
+         <description type="full">This project aims study the diffusion characteristics of tissue within the human optic nerves of both healthy individuals and patients who have suffered demyelinating illness of the optic nerve. Whole brain data is also being collected to determine cerebral changes that may be predictors of clinical disease outcome.</description>
+         <description type="note">Number of Subjects: 14
+Number of Studies: 26
+Number of Datasets: 653
+Size of Content: 11487319040 bytes
+
+Subject Details:
+  type: 14 animal
+  species: 14 human
+  gender: 9 female, 5 male</description>
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <subject type="local">Neuroscience</subject>
+         <subject type="local">Neuroimaging</subject>
+         <subject type="local">Magnetic Resonance Imaging (MRI)</subject>
+         <subject type="local">Demyelination </subject>
+         <subject type="local">Optic Nerve</subject>
+         <subject type="local">Multiple Sclerosis</subject>
+         <relatedObject>
+            <key>daris:party/email:gary.egan@monash.edu</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1004</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1.5.9</identifier>
+         <identifier type="local">1.5.9</identifier>
+         <name type="primary">
+            <namePart>Demyelination of the optic nerve investigated by Magnetic Resonance Imaging (MRI) - patients (Chapman Study) </namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Centre for Neuroscience, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3CDTF">2002-07-30</date>
+               <date type="dateTo" dateFormat="W3CDTF">2007-04-21</date>
+            </temporal>
+         </coverage>
+         <description type="full">This project aims to study the diffusion characteristics of tisue within the optic nerves of both healthy individuals and patients who have suffered demyelinating illness of the optic nerve.  Whole brain data are also being collected to determine cerebral changes that may be predictors of clinical disease outcome.
+
+This project pertains specifically to the disease cohort.  The controls are managed through a separate project.</description>
+         <description type="note">Number of Subjects: 16
+Number of Studies: 31
+Number of Datasets: 569
+Size of Content: 6118511104 bytes
+
+Subject Details:
+  type: 16 animal
+  species: 16 human
+  gender: 11 female, 5 male</description>
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <subject type="local">Neuroscience</subject>
+         <subject type="local">Neuroimaging</subject>
+         <subject type="local">Magnetic Resonance Imaging (MRI)</subject>
+         <subject type="local">Demyelination</subject>
+         <subject type="local">Multiple Sclerosis</subject>
+         <subject type="local">Optic Nerve</subject>
+         <relatedObject>
+            <key>daris:party/email:gary.egan@monash.edu</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1004</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1.5.10</identifier>
+         <identifier type="local">1.5.10</identifier>
+         <name type="primary">
+            <namePart>Investigation of Friedreich's  Ataxia via Magnetic Resonance Imaging (MRI) - controls</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Centre for Neuroscience, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3CDTF">2007-01-11</date>
+               <date type="dateTo" dateFormat="W3CDTF">2010-12-24</date>
+            </temporal>
+         </coverage>
+         <description type="full">Functional and structural Magnetic Resonance Imaging is used to investigate Friedreich Ataxia.  This project maintains the controls  cohort.</description>
+         <description type="note">Number of Subjects: 30
+Number of Studies: 44
+Number of Datasets: 1298
+Size of Content: 65122480128 bytes
+
+Subject Details:
+  type: 16 animal
+  species: 30 human
+  gender: 18 female, 12 male</description>
+         <description type="note">Melbourne Health Human Research Ethics Committee, ethics-id: 2007.027</description>
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <subject type="local">Neuroscience</subject>
+         <subject type="local">Neuroimaging</subject>
+         <subject type="local">Functional and structural Magnetic Resonance Imaging</subject>
+         <subject type="local">Friedreich Ataxia</subject>
+         <subject type="local">Neurodegenerative disease</subject>
+         <relatedObject>
+            <key>daris:party/email:gary.egan@monash.edu</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1004</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1.5.11</identifier>
+         <identifier type="local">1.5.11</identifier>
+         <name type="primary">
+            <namePart>Investigation of Friedreichs  Ataxia via Magnetic Resonance Imaging (MRI) - patients</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Centre for Neuroscience, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3CDTF">2007-01-17</date>
+               <date type="dateTo" dateFormat="W3CDTF">2007-02-08</date>
+            </temporal>
+         </coverage>
+         <description type="full">Functional and structural Magnetic Resonance Imaging is used to investigate Friedreich Ataxia.  This project maintains the disease cohort.</description>
+         <description type="note">Number of Subjects: 2
+Number of Studies: 2
+Number of Datasets: 79
+Size of Content: 2559301120 bytes
+
+Subject Details:
+  type: 2 animal
+  species: 2 human
+  gender: 1 female, 1 male</description>
+         <description type="note">Melbourne Health Human Research Ethics Committee, ethics-id: 2007.027</description>
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <subject type="local">Neuroscience</subject>
+         <subject type="local">Neuroimaging</subject>
+         <subject type="local">Functional and structural Magnetic Resonance Imaging</subject>
+         <subject type="local">Friedreich Ataxia</subject>
+         <subject type="local">Neurodegenerative disease</subject>
+         <relatedObject>
+            <key>daris:party/email:gary.egan@monash.edu</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1004</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1.5.14</identifier>
+         <identifier type="local">1.5.14</identifier>
+         <name type="primary">
+            <namePart>Investigation of Spatial Working Memory via functional Magnetic Resonance Imaging (fMRI) - Controls</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Centre for Neuroscience, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3CDTF">2006-10-31</date>
+               <date type="dateTo" dateFormat="W3CDTF">2007-08-15</date>
+            </temporal>
+         </coverage>
+         <description type="full">Investigation of Spatial Working Memory using mental rotation and delayed-match-to-sample techniques via functional Magnetic Resonance Imaging (fMRI).  This project is for the control subjects that will be used for both Obsessive Compulsive Disorder and Dysthymic Disorder cohorts</description>
+         <description type="note">Number of Subjects: 26
+Number of Studies: 26
+Number of Datasets: 572
+Size of Content: 15615593472 bytes
+
+Subject Details:
+  type: 26 animal
+  species: 26 human
+  gender: 8 female, 18 male</description>
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <subject type="local">Neuroscience</subject>
+         <subject type="local">Neuroimaging</subject>
+         <subject type="local">Functional Magnetic Resonance Imaging</subject>
+         <subject type="local">Spatial working memory</subject>
+         <relatedObject>
+            <key>daris:party/email:gary.egan@monash.edu</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1004</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1.5.16</identifier>
+         <identifier type="local">1.5.16</identifier>
+         <name type="primary">
+            <namePart>Investigation of Spatial Working Memory  via functional Magnetic Resonance Imaging (fMRI) - Obsessive Compulsive Disorder cohort</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Centre for Neuroscience, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3CDTF">2006-09-22</date>
+               <date type="dateTo" dateFormat="W3CDTF">2006-10-10</date>
+            </temporal>
+         </coverage>
+         <description type="full">Investigation of spatial working memory in Obsessive Compulsive Disorder via  via functional Magnetic Resonance Imaging (fMRI),  mental rotation and delayed-match-to-sample tasks.  </description>
+         <description type="note">Number of Subjects: 11
+Number of Studies: 17
+Number of Datasets: 137
+Size of Content: 5426980352 bytes
+
+Subject Details:
+  type: 11 animal
+  species: 11 human
+  gender: 9 female, 2 male</description>
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <subject type="local">Neuroscience</subject>
+         <subject type="local">Neuroimaging</subject>
+         <subject type="local">Functional Magnetic Resonance Imaging (fMRI)</subject>
+         <subject type="local">Spatial working memory</subject>
+         <subject type="local">Obsessive Compulsive Disorder (OCD)</subject>
+         <relatedObject>
+            <key>daris:party/email:gary.egan@monash.edu</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1004</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1.5.17</identifier>
+         <identifier type="local">1.5.17</identifier>
+         <name type="primary">
+            <namePart>Investigation of Spatial Working Memory  via functional Magnetic Resonance Imaging (fMRI) -Dysthymic Disorder cohort</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Centre for Neuroscience, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3CDTF">2007-03-07</date>
+               <date type="dateTo" dateFormat="W3CDTF">2007-08-20</date>
+            </temporal>
+         </coverage>
+         <description type="full">Investigation of spatial working memory in Dysthymic  Disorder via functional Magnetic Resonance Imaging (fMRI), mental rotation and delayed-match-to-sample tasks.  </description>
+         <description type="note">Number of Subjects: 18
+Number of Studies: 15
+Number of Datasets: 429
+Size of Content: 9780134912 bytes
+
+Subject Details:
+  type: 18 animal
+  species: 18 human
+  gender: 18 male</description>
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <subject type="local">Neuroscience</subject>
+         <subject type="local">Neuroimaging</subject>
+         <subject type="local">Functional Magnetic Resonance Imaging (fMRI)</subject>
+         <subject type="local">Spatial Working memory</subject>
+         <subject type="local">Dysthymic Disorder </subject>
+         <relatedObject>
+            <key>daris:party/email:gary.egan@monash.edu</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1004</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1.5.23</identifier>
+         <identifier type="local">1.5.23</identifier>
+         <name type="primary">
+            <namePart>Investigation of Cerebral Blood Flow (CBF) in paediatric studies via Magnetic Resonance Imaging (MRI) Arterial Spin Labeling (ASL).</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Centre for Neuroscience, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3CDTF">1993-04-30</date>
+               <date type="dateTo" dateFormat="W3CDTF">2009-02-15</date>
+            </temporal>
+         </coverage>
+         <description type="full">Cerebral blood flow (CBF, cerebral perfusion) mirrors cerebral metabolic demand and neuronal function, and therefore, is a vital parameter in the evaluation of pediatric brain injury and recovery. Until recently, measurement of CBF involved intravenous bolus injection of contrast agents or nuclear medicine methods that were technically difficult or ethically problematic in pediatrics. The development of arterial spin label (ASL) perfusion MR imaging as a noninvasive method for measuring CBF allows for the increased ability to measure this vital physiologic parameter in any age group. This study  is  performing ASL perfusion MR imaging in paediatrics, and shows its  use in clinical studies and its potential for influencing important management strategies in specific disease entities.</description>
+         <description type="note">Number of Subjects: 79
+Number of Studies: 120
+Number of Datasets: 290
+Size of Content: 2850674432 bytes
+
+Subject Details:
+  type: 79 animal
+  species: 55 human
+  gender: 33 female, 19 male</description>
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <subject type="local">Neuroscience</subject>
+         <subject type="local">Neuroimaging</subject>
+         <subject type="local">Magnetic Resonance Imaging (MRI)</subject>
+         <subject type="local">Arterial Spin Labelling (ASL)</subject>
+         <subject type="local">Paedeatric brain injury</subject>
+         <subject type="local">Cerebral Blood Flow (CBF)</subject>
+         <relatedObject>
+            <key>daris:party/email:gary.egan@monash.edu</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1004</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1.5.24</identifier>
+         <identifier type="local">1.5.24</identifier>
+         <name type="primary">
+            <namePart>Investigation of brain anomalies in the context of pre-surgical evaluation via Magnetic Resonance Imaging (MRI) utilising Diffusion Weighted Imaging (DWI) and Diffusion Tensor Imaging (DTI).</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Centre for Neuroscience, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3CDTF">2005-09-14</date>
+               <date type="dateTo" dateFormat="W3CDTF">2009-01-23</date>
+            </temporal>
+         </coverage>
+         <description type="full">This study used the techniques of DWI and DTI to offer valuable physiologically specific insights that augment conventional MRI. By sensitizing image contrast to microscopic water translations, it was possible to draw inferences about events occurring on a length scale measured in microns, comparable to cellular dimensions, and to show tremendous sensitivity to acute pathophysiological events. As demonstrated in this study, diffusion tensor imaging (DTI) and subsequent tractography are themselves especially valuable techniques in the context of congenital brain anomalies and aid considerably in pre surgical evaluation (primarily in patients with tumors and medically refractory epilepsy)</description>
+         <description type="note">Number of Subjects: 12
+Number of Studies: 15
+Number of Datasets: 84
+Size of Content: 1343407744 bytes
+
+Subject Details:
+  type: 12 animal
+  species: 12 human
+  gender: 7 female, 5 male</description>
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <subject type="local">Neuroscience</subject>
+         <subject type="local">Neuroimaging</subject>
+         <subject type="local">Magnetic Resonance Imaging (MRI)</subject>
+         <subject type="local">Diffusion Weighted Imaging (DWI)</subject>
+         <subject type="local">Diffusion Tensor Imaging (DTI)</subject>
+         <subject type="local">Brain anomaly</subject>
+         <subject type="local">Pre-surgical evaluation</subject>
+         <relatedObject>
+            <key>daris:party/email:gary.egan@monash.edu</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1004</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1.5.25</identifier>
+         <identifier type="local">1.5.25</identifier>
+         <name type="primary">
+            <namePart>Cognition in women - the effect of testosterone on the cognitive abilities of women investigated via functional Magnetic Resonance Imaging </namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Centre for Neuroscience, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3CDTF">2007-08-09</date>
+               <date type="dateTo" dateFormat="W3CDTF">2008-11-14</date>
+            </temporal>
+         </coverage>
+         <description type="full">The lifetime risk of dementia in women is double that of men, and it has been hypothesised that differences in endogenous androgen levels (male hormones, including testosterone) may contribute to this sex difference. Women and men perform differently in tests of cognitive function (brain function, including memory), and women with higher testosterone levels have performed better on specific cognitive tasks compared to those with lower levels.  Testosterone levels decline in women with advancing age, such that there is a 50percent reduction between age 20 and 40 years.  Preliminary studies suggest that testosterone administration to women may enhance cognitive performance, even in the acute setting.  Mild cognitive impairment is predictive of dementia, yet subtle changes in cognition are difficult to detect using standardised tests, which are prone to a learning effect.  This study will assess the effects of 6 months of daily transdermal (skin spray) testosterone administration on cognition in postmenopausal women aged 45 to 60 years, and to determine the time course to any changes identified.  The study will be based at the Womens Health Program, Central and Eastern Clinical School, Alfred Hospital, Victoria, and each participant will be required to attend 5 visits.  Sensitive tests of cognitive function (CogState) will be utilised in order to attempt to identify even minor changes in cognition.  In addition, functional magnetic resonance imaging (fMRI) will allow cognitive testing to occur within the MRI scanner, such that anatomical localisation of any effects of testosterone administration within the brain is possible. The cognitive tasks administered whilst in the scanner will assess verbal fluency, executive functioning, and mental rotation ability.  CogState will occur at weeks 0, 12 and 26 whilst the fMRI testing will occur at weeks 0 and 26. Blood tests for testosterone levels will be taken at the screening visit and then at weeks 6, 12 and 26.  This study will serve as a pilot study prior to a randomised placebo-controlled study of the effects of testosterone administration in postmenopausal women.  Ultimately if testosterone is found to enhance cognitive function in women, it may be a future therapeutic option in postmenopausal women at high risk of developingdementia.</description>
+         <description type="note">Number of Subjects: 12
+Number of Studies: 21
+Number of Datasets: 748
+Size of Content: 18936098816 bytes
+
+Subject Details:
+  type: 12 animal
+  species: 12 human
+  gender: 12 female</description>
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <subject type="local">Neuroscience</subject>
+         <subject type="local">Neuroimaging</subject>
+         <subject type="local">Functional Magnetic Resonance Imaging</subject>
+         <subject type="local">Cognition</subject>
+         <subject type="local">Testosterone</subject>
+         <relatedObject>
+            <key>daris:party/email:srossell@srossell.com</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1004</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1.5.31</identifier>
+         <identifier type="local">1.5.31</identifier>
+         <name type="primary">
+            <namePart>Investigating non-recovered Optic Neuritis via Magnetic  Resonance Imaging (MRI)</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Centre for Neuroscience, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3CDTF">2007-10-22</date>
+               <date type="dateTo" dateFormat="W3CDTF">2010-09-24</date>
+            </temporal>
+         </coverage>
+         <description type="full">This project will study the optic nerves of patients with nonrecovered optic neuritis via Magnetic Resonance Imaging (MRI)</description>
+         <description type="note">Number of Subjects: 37
+Number of Studies: 38
+Number of Datasets: 1364
+Size of Content: 12781188096 bytes
+
+Subject Details:
+  type: 36 animal
+  species: 37 human
+  gender: 27 female, 10 male</description>
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <subject type="local">Neuroscience</subject>
+         <subject type="local">Neuroimaging</subject>
+         <subject type="local">Magnetic Resonance Imaging (MRI)</subject>
+         <subject type="local">Non-recovered optic neuritis</subject>
+         <subject type="local">Optic nerve</subject>
+         <relatedObject>
+            <key>daris:party/email:gary.egan@monash.edu</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1004</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1.5.66</identifier>
+         <identifier type="local">1.5.66</identifier>
+         <name type="primary">
+            <namePart>Ultra-high resolution Magnetic Resonance Imaging (MRI) of the visual motion area of the brain.</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Centre for Neuroscience, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3CDTF">2010-07-07</date>
+               <date type="dateTo" dateFormat="W3CDTF">2010-11-11</date>
+            </temporal>
+         </coverage>
+         <description type="full">Ultra-high resolution Magnetic Resonance Imaging (MRI) structure functions to develop better anatomical localisation of the V5 visual motion area.</description>
+         <description type="note">Number of Subjects: 3
+Number of Studies: 11
+Number of Datasets: 304
+Size of Content: 74670211072 bytes
+
+Subject Details:
+  type: 3 animal
+  species: 3 human
+  gender: 3 male</description>
+         <description type="note">Melbourne Health Human Research Ethics Committee, ethics-id: 2010.042</description>
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <subject type="local">Neuroscience</subject>
+         <subject type="local">Neuroimaging</subject>
+         <subject type="local">Magnetic Resonance Imaging (MRI)</subject>
+         <subject type="local">Ultra-high resolution</subject>
+         <subject type="local">Visual motion area (V5)</subject>
+         <subject type="local">Structure Function</subject>
+         <relatedObject>
+            <key>daris:party/email:gary.egan@monash.edu</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1004</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1.5.34</identifier>
+         <identifier type="local">1.5.34</identifier>
+         <name type="primary">
+            <namePart>A Pilot Study of the effect of Vitamin D on Magnetic Resonance Imaging (MRI) indices of disease in Multiple Sclerosis (MS)</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Centre for Neuroscience, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3CDTF">2007-11-08</date>
+               <date type="dateTo" dateFormat="W3CDTF">2009-05-22</date>
+            </temporal>
+         </coverage>
+         <description type="full">This project aims to examine the potential effects of treatment of Vitamin D on Magnetic Resonance Imaging (MRI) disease indices in patients with Multiple Sclerosis.</description>
+         <description type="note">Number of Subjects: 26
+Number of Studies: 78
+Number of Datasets: 1562
+Size of Content: 21046788096 bytes
+
+Subject Details:
+  type: 25 animal
+  species: 26 human
+  gender: 18 female, 5 male</description>
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <subject type="local">Neuroscience</subject>
+         <subject type="local">Neuroimaging</subject>
+         <subject type="local">Magnetic Resonance Imaging (MRI)</subject>
+         <subject type="local">Multiple Sclerosis</subject>
+         <subject type="local">Vitamin D</subject>
+         <relatedObject>
+            <key>daris:party/email:gary.egan@monash.edu</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1004</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1.5.37</identifier>
+         <identifier type="local">1.5.37</identifier>
+         <name type="primary">
+            <namePart>Investigating semantic memory in ageing</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Centre for Neuroscience, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3CDTF">2008-03-06</date>
+               <date type="dateTo" dateFormat="W3CDTF">2009-02-16</date>
+            </temporal>
+         </coverage>
+         <description type="full">Semantic memory deficits are a key feature in Alzheimers disease. This project investigated some key components of semantic memory in young and old participants with the aim of understanding the breakdown in Alzheimers disease</description>
+         <description type="note">Number of Subjects: 45
+Number of Studies: 41
+Number of Datasets: 1701
+Size of Content: 41121378304 bytes
+
+Subject Details:
+  type: 45 animal
+  species: 45 human
+  gender: 13 female, 16 male</description>
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <subject type="local">Neuroscience</subject>
+         <subject type="local">Neuroimaging</subject>
+         <subject type="local">Functional Magnetic Resonance Imaging</subject>
+         <subject type="local">Semantic Memory</subject>
+         <subject type="local">Ageing</subject>
+         <subject type="local">Alzheimer's Disease</subject>
+         <relatedObject>
+            <key>daris:party/email:srossell@srossell.com</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1004</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1.5.55</identifier>
+         <identifier type="local">1.5.55</identifier>
+         <name type="primary">
+            <namePart>Testing Paraclinical Outcome Measures in Optic Neuritis via Magnetic Resonance Imaging (MRI)  - Control cohort</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Centre for Neuroscience, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3CDTF">2008-10-14</date>
+               <date type="dateTo" dateFormat="W3CDTF">2011-05-18</date>
+            </temporal>
+         </coverage>
+         <description type="full">Study of optic nerve measurement stability over 1 year (expected 2 time points)  in Optic Neuritis via Magnetic Resonance Imaging (MRI)</description>
+         <description type="note">Number of Subjects: 12
+Number of Studies: 24
+Number of Datasets: 1042
+Size of Content: 7883857408 bytes
+
+Subject Details:
+  type: 12 animal
+  species: 12 human
+  gender: 7 female, 5 male</description>
+         <description type="note">Royal Children's Hospital Human Research Ethics Committee, ethics-id: MRI 51</description>
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <subject type="local">Neuroscience</subject>
+         <subject type="local">Neuroimaging</subject>
+         <subject type="local">Magnetic Resonance Imaging (MRI)</subject>
+         <subject type="local">Optic Neuritis</subject>
+         <subject type="local">Optic Nerve stability</subject>
+         <relatedObject>
+            <key>daris:party/email:gary.egan@monash.edu</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1004</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1.5.65</identifier>
+         <identifier type="local">1.5.65</identifier>
+         <name type="primary">
+            <namePart>Brain responses associated with the urge-to-cough and coughing</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Centre for Neuroscience, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3CDTF">2009-04-16</date>
+               <date type="dateTo" dateFormat="W3CDTF">2010-01-11</date>
+            </temporal>
+         </coverage>
+         <description type="full">BOLD contrast images were collected during inhalation of two doses of capsaicin, voluntary coughing, and cough evoked by capsaicin inhalation.  BOLD contrast images were also collected during four minutes of saline inhalation and four minutes of capsaicin inhalation in order to test for the effects of airways irritation on the functional connectivity of brain regions activated by capsaicin inhalation.</description>
+         <description type="note">Number of Subjects: 21
+Number of Studies: 21
+Number of Datasets: 366
+Size of Content: 7707369472 bytes
+
+Subject Details:
+  type: 3 animal
+  species: 21 human
+  gender: 7 female, 14 male</description>
+         <description type="note">Melbourne Health Human Research Ethics Committee, ethics-id: 2008.217</description>
+         <description type="note">National Health and Medical Research Council, funding-id: 566734</description>
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <subject type="local">Functional Magnetic Resonance Imaging</subject>
+         <subject type="local">neuroscience</subject>
+         <subject type="local">respiration</subject>
+         <subject type="local">cough</subject>
+         <subject type="local">interoception</subject>
+         <subject type="local">functional connectivity</subject>
+         <subject type="local">capsaicin</subject>
+         <subject type="local">blood oxygen level-dependent</subject>
+         <relatedObject>
+            <key>daris:party/email:michael.farrell@florey.edu.au</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1004</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1.5.56</identifier>
+         <identifier type="local">1.5.56</identifier>
+         <name type="primary">
+            <namePart>Testing Paraclinical Outcome Measures in Optic Neuritis via Magnetic Resonance Imaging (MRI)  - Patient cohort</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Centre for Neuroscience, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3CDTF">2008-10-22</date>
+               <date type="dateTo" dateFormat="W3CDTF">2011-09-21</date>
+            </temporal>
+         </coverage>
+         <description type="full">Prospective study of optic nerve stability in optic neuritis patients over 1 year (expected 5 time points) via Magnetic Resonance Imaging (MRI)</description>
+         <description type="note">Number of Subjects: 45
+Number of Studies: 203
+Number of Datasets: 7843
+Size of Content: 64797691904 bytes
+
+Subject Details:
+  type: 29 animal
+  species: 45 human
+  gender: 31 female, 14 male</description>
+         <description type="note">Royal Children's Hospital Human Research Ethics Committee, ethics-id: MRI 51</description>
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <subject type="local">Neuroscience</subject>
+         <subject type="local">Neuroimaging</subject>
+         <subject type="local">Magnetic Resonance Imaging (MRI)</subject>
+         <subject type="local">Optic Neuritis</subject>
+         <subject type="local">Optic Nerve stability</subject>
+         <relatedObject>
+            <key>daris:party/email:gary.egan@monash.edu</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1004</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1.5.26</identifier>
+         <identifier type="local">1.5.26</identifier>
+         <name type="primary">
+            <namePart>Urge to Cough - Brain activity because of the urge to cough investigated via functional Magnetic Resonance Imaging  (Blood Oxygen Level Dependence signal)</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Centre for Neuroscience, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3CDTF">2006-05-03</date>
+               <date type="dateTo" dateFormat="W3CDTF">2006-06-02</date>
+            </temporal>
+         </coverage>
+         <description type="full">Brain activity associated with the urge to cough, induced by the inhalation of capsaicin, is investigated with functional Magnetic Resonance Blood Oxygen Level Dependence (BOLD) imaging. </description>
+         <description type="note">Number of Subjects: 10
+Number of Studies: 10
+Number of Datasets: 88
+Size of Content: 1992755712 bytes
+
+Subject Details:
+  type: 10 animal
+  species: 10 human
+  gender: 6 female, 4 male</description>
+         <description type="note">Melbourne Health Human Research Ethics Committee, ethics-id: 2008.217</description>
+         <description type="note">Howard Florey Institute Animal Ethics Committee, ethics-id: 05-007</description>
+         <description type="note">Derek Denton Endowment, funding-id: Unknown</description>
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <subject type="local">Neuroscience</subject>
+         <subject type="local">Neuroimaging</subject>
+         <subject type="local">Interoception</subject>
+         <subject type="local">Cough</subject>
+         <subject type="local">Functional Magnetic Resonance Imaging</subject>
+         <subject type="local">Functional Connectivity</subject>
+         <subject type="local">Blood Oxygen Level Dependence (BOLD)</subject>
+         <relatedObject>
+            <key>daris:party/email:michael.farrell@florey.edu.au</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1004</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1.5.18</identifier>
+         <identifier type="local">1.5.18</identifier>
+         <name type="primary">
+            <namePart>Victorian Infant Brain Study (VIBeS)</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Centre for Neuroscience, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3CDTF">2006-08-22</date>
+               <date type="dateTo" dateFormat="W3CDTF">2007-01-31</date>
+            </temporal>
+         </coverage>
+         <description type="full">This project utilizes 3D Magnetic resonance imaging (MRI) to quantitatively compare brain volumes between term and preterm infants and to determine the association between preterm brain volumes and perinatal risk factors.</description>
+         <description type="note">Number of Subjects: 22
+Number of Studies: 25
+Number of Datasets: 318
+Size of Content: 1337187840 bytes
+
+Subject Details:
+  type: 22 animal
+  species: 22 human
+  gender: 13 female, 9 male</description>
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <subject type="local">Neuroscience</subject>
+         <subject type="local">Neuroimaging</subject>
+         <subject type="local">Magnetic Resonance Imaging (MRI)</subject>
+         <subject type="local">Infants</subject>
+         <subject type="local">Perinatal risk factors</subject>
+         <relatedObject>
+            <key>daris:party/email:gary.egan@monash.edu</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1004</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1.5.2</identifier>
+         <identifier type="local">1.5.2</identifier>
+         <name type="primary">
+            <namePart>Investigating the effect of LIF in Experimental Autoimmune Encephalomyelitis (EAE) via the optic nerve  in mice</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Centre for Neuroscience, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3CDTF">2007-03-19</date>
+               <date type="dateTo" dateFormat="W3CDTF">2008-04-22</date>
+            </temporal>
+         </coverage>
+         <description type="full">Investigating the effect of LIF and methylprednisolone in limiting acute nervous system damage in Experimental Autoimmune Encephalomyelitis (EAE) via the optic nerve of mice</description>
+         <description type="note">Number of Subjects: 100
+Number of Studies: 99
+Number of Datasets: 119
+Size of Content: 97200296 bytes
+
+Subject Details:
+  type: 100 animal
+  species: 100 mouse
+  gender: 22 female, 19 male</description>
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <subject type="local">Neuroscience</subject>
+         <subject type="local">Neuroimaging</subject>
+         <subject type="local">Magnetic Resonance Imaging</subject>
+         <subject type="local">Experimental Autoimmune Encephalomyelitis (EAE)</subject>
+         <subject type="local">Nervous system damage</subject>
+         <subject type="local">Optic Nerve</subject>
+         <subject type="local">Mouse model</subject>
+         <subject type="local">Multiple Sclerosis</subject>
+         <relatedObject>
+            <key>daris:party/email:gary.egan@monash.edu</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1004</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1.5.68</identifier>
+         <identifier type="local">1.5.68</identifier>
+         <name type="primary">
+            <namePart>Thirst and Drinking</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Centre for Neuroscience, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3CDTF">2010-10-21</date>
+               <date type="dateTo" dateFormat="W3CDTF">2010-12-17</date>
+            </temporal>
+         </coverage>
+         <description type="full">BOLD measures of responses to drinking water during and after the satiation of thirst</description>
+         <description type="note">Number of Subjects: 15
+Number of Studies: 14
+Number of Datasets: 267
+Size of Content: 2717897216 bytes
+
+Subject Details:
+  type: 15 animal
+  species: 15 human
+  gender: 6 female, 8 male</description>
+         <description type="note">Melbourne Health Human Research Ethics Committee, ethics-id: 2010.106</description>
+         <description type="note">Derek Denton Endowment, funding-id: Unknown</description>
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <subject type="local">Neuroscience</subject>
+         <subject type="local">Neuroimaging</subject>
+         <subject type="local">Functional Magnetic Resonance Imaging</subject>
+         <subject type="local">Thirst</subject>
+         <subject type="local">Drinking</subject>
+         <subject type="local">Interoception</subject>
+         <subject type="local">Dehydration</subject>
+         <relatedObject>
+            <key>daris:party/email:michael.farrell@florey.edu.au</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1004</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">daris:project/id:1.5.39</identifier>
+         <identifier type="local">1.5.39</identifier>
+         <name type="primary">
+            <namePart>Developmental co-ordination disorder</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="addressLine">Centre for Neuroscience, The University of Melbourne</addressPart>
+                  <addressPart type="addressLine">The Alan Gilbert Building</addressPart>
+                  <addressPart type="addressLine">161 Barry Street</addressPart>
+                  <addressPart type="addressLine">Carlton South</addressPart>
+                  <addressPart type="addressLine">Victoria</addressPart>
+                  <addressPart type="addressLine">Victoria 3053</addressPart>
+                  <addressPart type="addressLine">Australia</addressPart>
+               </physical>
+            </address>
+         </location>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3CDTF">2011-06-10</date>
+               <date type="dateTo" dateFormat="W3CDTF">2011-07-14</date>
+            </temporal>
+         </coverage>
+         <description type="full">Gary Egan 2011 RCH project </description>
+         <description type="note">Number of Subjects: 30
+Number of Studies: 2
+Number of Datasets: 28
+Size of Content: 578412672 bytes
+
+Subject Details:
+  type: 30 animal
+  species: 30 human
+  gender: 1 female, 1 male</description>
+         <description type="rights">The owner of this data collection may provide access to this data collection by negotiation. You could be required to indicate your intended use of the data, to meet any costs associated with providing you with the data, and to fulfill other terms and conditions as determined by the data owner / manager. Use of the data may also be subject to legal, ethical and commercial restrictions, requiring further permission from other individuals or groups, including ethics committees, project steering groups, and research participants.</description>
+         <subject type="anzsrc-for">1109</subject>
+         <relatedObject>
+            <key>daris:party/email:gary.egan@monash.edu</key>
+            <relation type="isOwnedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>daris:repository/id:1004</key>
+            <relation type="isLocatedIn"/>
+         </relatedObject>
+      </collection>
+      <party xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="person">
+         <identifier type="local">daris:party/email:gary.egan@monash.edu</identifier>
+         <name type="primary">
+            <namePart type="title">Professor</namePart>
+            <namePart type="given">Gary</namePart>
+            <namePart type="family">Egan</namePart>
+         </name>
+         <location>
+            <address>
+               <electronic type="email">
+                  <value>gary.egan@monash.edu</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">1109</subject>
+      </party>
+      <party xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="person">
+         <identifier type="local">daris:party/email:s.mazzone@uq.edu.au</identifier>
+         <name type="primary">
+            <namePart type="title">Dr.</namePart>
+            <namePart type="given">Stuart</namePart>
+            <namePart type="family">Mazzone</namePart>
+         </name>
+         <location>
+            <address>
+               <electronic type="email">
+                  <value>s.mazzone@uq.edu.au</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">1109</subject>
+      </party>
+      <party xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="person">
+         <identifier type="local">daris:party/email:gabrielle.wilson@mcri.edu.au</identifier>
+         <name type="primary">
+            <namePart type="title">Dr.</namePart>
+            <namePart type="given">Gabrielle</namePart>
+            <namePart type="family">Wilson</namePart>
+         </name>
+         <location>
+            <address>
+               <electronic type="email">
+                  <value>gabrielle.wilson@mcri.edu.au</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">1109</subject>
+      </party>
+      <party xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="person">
+         <identifier type="local">daris:party/email:xiao-jun.du@bakeridi.edu.au</identifier>
+         <name type="primary">
+            <namePart type="title">Associate Professor</namePart>
+            <namePart type="given">Xiao-Jun</namePart>
+            <namePart type="family">Du</namePart>
+         </name>
+         <location>
+            <address>
+               <electronic type="email">
+                  <value>xiao-jun.du@bakeridi.edu.au</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">1109</subject>
+      </party>
+      <party xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="person">
+         <identifier type="local">daris:party/email:obrientj@unimelb.edu.au</identifier>
+         <name type="primary">
+            <namePart type="title">Professor</namePart>
+            <namePart type="given">Terence</namePart>
+            <namePart type="family">O'Brien</namePart>
+         </name>
+         <location>
+            <address>
+               <electronic type="email">
+                  <value>obrientj@unimelb.edu.au</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">1109</subject>
+      </party>
+      <party xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="person">
+         <identifier type="local">daris:party/email:sjoleary@unimelb.edu.au</identifier>
+         <name type="primary">
+            <namePart type="title">Professor</namePart>
+            <namePart type="given">Stephen</namePart>
+            <namePart type="family">O'Leary</namePart>
+         </name>
+         <location>
+            <address>
+               <electronic type="email">
+                  <value>sjoleary@unimelb.edu.au</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">1109</subject>
+      </party>
+      <party xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="person">
+         <identifier type="local">daris:party/email:pcrack@unimelb.edu.au</identifier>
+         <name type="primary">
+            <namePart type="title">Dr.</namePart>
+            <namePart type="given">Peter</namePart>
+            <namePart type="family">Crack</namePart>
+         </name>
+         <location>
+            <address>
+               <electronic type="email">
+                  <value>pcrack@unimelb.edu.au</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">1109</subject>
+      </party>
+      <party xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="person">
+         <identifier type="local">daris:party/email:michael.farrell@florey.edu.au</identifier>
+         <name type="primary">
+            <namePart type="title">Dr.</namePart>
+            <namePart type="given">Michael</namePart>
+            <namePart type="family">Farrell</namePart>
+         </name>
+         <location>
+            <address>
+               <electronic type="email">
+                  <value>michael.farrell@florey.edu.au</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">1109</subject>
+      </party>
+      <party xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="person">
+         <identifier type="local">daris:party/email:srossell@srossell.com</identifier>
+         <name type="primary">
+            <namePart type="title">Dr.</namePart>
+            <namePart type="given">Susan</namePart>
+            <namePart type="family">Rossell</namePart>
+         </name>
+         <location>
+            <address>
+               <electronic type="email">
+                  <value>srossell@srossell.com</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">1109</subject>
+      </party>
+   </mu:rifcsData>
+</mu:root>

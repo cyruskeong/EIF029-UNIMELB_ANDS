@@ -1,0 +1,1116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:vivo="http://vivoweb.org/ontology/core#"
+         xmlns:m2r="http://www.versi.edu.au/projects/dc3/murifcs2rdf"
+         xmlns="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rifcs="http://ands.org.au/standards/rif-cs/registryObjects">
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4749">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#ResearchCollection"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">University_of_Melbourne</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>She's Game: Women Making Australian Sporting History, The Australian Women's Register</rdfs:label>
+      <vivo:description>She's Game: Women Making Australian Sporting History contains data about the achievements of Australian women who have contributed to Australian sporting life and culture. Short historical notes, detailing the experiences of Athletes, coaches, administrators, journalists and volunteers of over 100 women, teams and organisations have been entered into a searchable database. Some contain links to further bibliographical and archival resources. Longer essays based on original research have been prepared about a selection of women and organisations.
+
+The project was funded in 2006-2007 by the Australian Government through the Women's Leadership and Development Programme.
+
+The following data is available: short essays about women, teams and organisations; alphabetical lists of athletes, organisations, coaches and administrators; alphabetical lists of women and organisations by sporting activity; alphabetical lists of archival and published resources; alphabetical lists of Olympic and Commonwealth Games medallists.
+
+Dr Nicola Henningham was principal researcher for the She's Game project. Other researchers included Joanne Evans, Helen Morgan and Ailie Smith.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">She's Game is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">AWE4749</ands:digitalDataReference>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4749/location1"/>
+      <vivo:linkURI>http://www.womenaustralia.info/exhib/sg/sport-home.html</vivo:linkURI>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/University_of_MelbourneE000016"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/University_of_MelbourneE000015"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/210303"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4749/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4749/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4749/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4749/start"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4749/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1860</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4750">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#ResearchCollection"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">University_of_Melbourne</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>The Women's Pages: Australian Women and Journalism since 1850, The Australian Women's Register</rdfs:label>
+      <vivo:description>The Women's Pages: Australian Women and Journalism since 1850 uses secondary sources and primary research to highlight the achievements of Australian women journalists and their contributions to the nation's public life and culture. Women from around the nation, across time and all forms of media, have been included. A list of women Walkley Award winners is included to demonstrate the range and quality of women's journalism that has been produced since the inaugural awards in 1956, a time that roughly coincides with the emergence of the second wave feminist movement.
+
+Short historical notes, entered into a searchable database, have been prepared for over 100 women. Some contain links to further bibliographical and archival resources. Longer essays based on original research have been prepared about a selection of women.
+
+The following data is available: essays and biographical notes about women journalists; alphabetical list of journalists sorted by media type and era in which they were active; alphabetical lists of Walkley Award Winners; alphabetical lists of archival and published resources; selected images.
+
+Dr Nicola Henningham was principal researcher for The Women's Pages. Other researchers included Joanne Evans, Barbara Lemon, Helen Morgan and Ailie Smith.
+
+The project was funded by the Copyright Agency Limited Cultural Fund.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">The Women's Pages is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">AWE4750</ands:digitalDataReference>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4750/location1"/>
+      <vivo:linkURI>http://www.womenaustralia.info/exhib/cal/cal-home.html</vivo:linkURI>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/University_of_MelbourneE000016"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/University_of_MelbourneE000015"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/210303"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4750/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4750/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4750/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4750/start"/>
+      <vivo:end rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4750/end"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4750/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1850</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4750/end">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1850</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4751">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#ResearchCollection"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">University_of_Melbourne</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Australian Women in War, The Australian Women's Register</rdfs:label>
+      <vivo:description>Australian Women in War consists of lists of Australian women and women's organisations who participated and assisted in the Boer War, World Wars and subsequent conflicts, with links to biographical, bibliographical and archival information about a small selection of them.
+
+Funding for the project which created this dataset was provided by the Australian Government Department of Veterans' Affairs and the Office of the Status of Women.
+
+Stage one of this project commenced in April 2002 when the Department of Veterans' Affairs invited ex-service women's and related associations to form a working group. Many of the military and civilian associations were established during and after World War II. Association members, along with representatives from consulting institutions, met in October and November 2002 and commenced the task of recording the history of the associations.
+
+In collaboration with the Commemorations Branch of the Department of Veterans' Affairs it was decided that the project should trace the involvement of women during Australia's military conflicts. The initial funding from the Department of Veterans' Affairs Saluting Their Service program covered entries nominated by the working group. The Office of the Status of Women provided additional funding which enabled an Australia wide focus.
+
+At the working group meetings the consulting institutions' representatives worked with association members and completed 'capturing their stories' forms, which focused not only on their service career but also the periods before and after. It was from the information obtained from these forms that the project staff compiled entries. Members were encouraged to write their own entry and also those of other members of their service or association. Copies of the form were also distributed to branches of the associations throughout Australia. A range of sources was used to supplement the detail provided, in particular records of the consulting institutions and other published resources.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">Australian Women in War is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">AWE4751</ands:digitalDataReference>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4751/location1"/>
+      <vivo:linkURI>http://www.womenaustralia.info/exhib/war/war.html</vivo:linkURI>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/University_of_MelbourneE000016"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/University_of_MelbourneE000015"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/210303"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4751/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4751/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4751/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4751/start"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4751/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1900</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4752">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#ResearchCollection"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">University_of_Melbourne</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Unbroken Spirit: Women in Broken Hill, The Australian Women's Register</rdfs:label>
+      <vivo:description>Unbroken Spirit: Women in Broken Hill documents the historical experience of women living in Broken Hill, New South Wales since the city was established. Secondary sources and primary research (using archival materials, including images, and oral interviews) have been used to create an online, searchable database containing biographical notes on over sixty Broken Hill women - past and present - along with information about relevant publications and archival resources, and a rich collection of digital images from the Outback Archives in Broken Hill. Soundbites of interviews with a number of women may be heard online through the exhibition.
+
+Dr Barbara Lemon was the principal researcher and writer for Unbroken Spirit
+
+Funding for this project was provided by the New South Wales Government Office for Women, the Australian Research Council, Monash University and the National Foundation for Australian Women. The Broken Hill City Council provided in-kind support.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">Unbroken Spirit is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">AWE4752</ands:digitalDataReference>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4752/location1"/>
+      <vivo:linkURI>http://www.womenaustralia.info/exhib/bh/bh-home.html</vivo:linkURI>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/University_of_MelbourneE000016"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/University_of_MelbourneE000015"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/210303"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4752/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4752/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4752/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4752/start"/>
+      <vivo:end rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4752/end"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4752/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1880</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4752/end">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1880</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4753">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#ResearchCollection"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">University_of_Melbourne</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Putting Skirts on the Sacred Benches, The Australian Women's Register</rdfs:label>
+      <vivo:description>Putting Skirts on the Sacred Benches lists more than 700 women candidates who stood for New South Wales Parliament, recognising their significant contributions and achievements, despite, in most cases, their lack of success. Archival materials and secondary sources have been used to create a searchable database that allows users to: browse alphabetical listings of women candidates; browse women candidates by political party; browse women candidates by seat; browse women candidates by year and browse women candidates by jurisdiction.
+
+Biographical entries about a selection of women have been prepared, some containing links to further bibliographical and archival resources.
+
+Dr Emma Grahame was principal researcher for the project and Rachel Grahame was a research associate for the project.
+
+The project was funded in 2005-2006 by the Sesquicentenary of Responsible Government Committee, an initiative of the New South Wales Government Premier's Department.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">Putting Skirts on the Sacred Benches is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">AWE4753</ands:digitalDataReference>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4753/location1"/>
+      <vivo:linkURI>http://www.womenaustralia.info/exhib/pssb/home.html</vivo:linkURI>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/University_of_MelbourneE000016"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/University_of_MelbourneE000015"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/210303"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4753/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4753/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4753/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4753/start"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4753/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1920</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4754">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#ResearchCollection"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">University_of_Melbourne</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Being Seen and Heard: Migrant Women Organising in Australia, A Documentary History, The Australian Women's Register</rdfs:label>
+      <vivo:description>Being Seen and Heard: Migrant Women Organising in Australia, A Documentary History aggregates and makes accessible to a broad audience, information about culturally and linguistically diverse (CALD) women's records in Australian repositories and private hands. It links research findings (current in 2006) to the Australian Women's Register. Researchers can search for information about a select number of CALD women, their organisations, key events and historical information about the various multicultural communities that they represent.
+
+Dr Nicola Henningham was principal researcher for the project.
+
+Funding for this project was provided by the National Archives of Australia.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">Being Seen and Heard: Migrant Women Organising in Australia, A Documentary History is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">AWE4754</ands:digitalDataReference>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4754/location1"/>
+      <vivo:linkURI>http://www.womenaustralia.info/exhib/bsah/home.html</vivo:linkURI>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/University_of_MelbourneE000016"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/University_of_MelbourneE000015"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/210303"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4754/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4754/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4754/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4754/start"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4754/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1920</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4755">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#ResearchCollection"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">University_of_Melbourne</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Brilliant Ideas and Huge Visions: ABC Radio Australian Rural Women of the Year - 1994-1997, The Australian Women's Register</rdfs:label>
+      <vivo:description>Brilliant Ideas and Huge Visions: ABC Radio Australian Rural Women of the Year - 1994-1997 provides information about women across Australia who were recognised as ABC Radio Rural Women of the Year. Between 1994 and 1997, over 150 women were recgonised at a regional, state or national level. The award was an important first step towards getting rural women the public recognition they so thoroughly deserve.
+
+Users can: read stories about selected winners; browse an alphabetical list of all nominees; browse a list of national winners; browse a list of state winners; browse alphabetical lists of selected archival and published resources. All this information is linked to the Australian women's register.
+
+This exhibition is a project of the National Foundation for Australian Women, in collaboration with the University of Melbourne, as part of the Foundation's ongoing initiative, the Australian Women's Archives Project.
+
+Work on this project was generously funded in 2010 by The Fred P Archer Charitable Trust managed by Trust Company Ltd.
+
+The principal researcher for the project was Dr Nikki Henningham. Ailie Smith and Helen Morgan from the ESRC at the University of Melbourne provided technical support.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">Brilliant Ideas and Huge Visions is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">AWE4755</ands:digitalDataReference>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4755/location1"/>
+      <vivo:linkURI>http://www.womenaustralia.info/exhib/rwya/rwya-home.html</vivo:linkURI>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/University_of_MelbourneE000016"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/University_of_MelbourneE000015"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/210303"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4755/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4755/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4755/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4755/start"/>
+      <vivo:end rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4755/end"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4755/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1990</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4755/end">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1990</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4756">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#ResearchCollection"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">University_of_Melbourne</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>In Her Gift: Women Philanthropists in Australian History, The Australian Women's Register</rdfs:label>
+      <vivo:description>In Her Gift: Women Philanthropists in Australian History aggregates and makes accessible to a broad audience, research about Australian women's philanthropy and women philanthropists since the mid nineteenth century. It links research findings (current in 2007) to the Australian Women's Register. This project links to a database containing biographical notes on over thirty Australian women philanthropists, along with details of relevant bibliographical and archival resources and a thematic essay.
+
+Users can: browse an alphabetical list of philanthropists; browse alphabetical lists of archival and published resources; browse images and search the register of Australia Women
+
+
+Dr Barbara Lemon was principal researcher for the project.
+
+Funding for this project was provided by the Australian Research Council and the National Foundation for Australian Women</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">In Her Gift is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">AWE4756</ands:digitalDataReference>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4756/location1"/>
+      <vivo:linkURI>http://www.womenaustralia.info/exhib/wiph/home.html</vivo:linkURI>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/University_of_MelbourneE000016"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/University_of_MelbourneE000015"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/210303"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4756/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4756/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4756/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4756/start"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4756/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1860</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4757">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#ResearchCollection"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">University_of_Melbourne</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Carrying On The Fight: Women Candidates in Victorian Parliamentary Elections, The Australian Women's Register</rdfs:label>
+      <vivo:description>Carrying On The Fight: Women Candidates in Victorian Parliamentary Elections lists more than 800 women candidates who stood for Victorian Parliament, recognising their significant contributions and achievements, despite, in most cases, their lack of success. Archival materials and secondary sources have been used to create a searchable database that allows users to: browse alphabetical listings of women candidates; browse women candidates by political party; browse women candidates by seat; browse women candidates by year and browse women candidates by jurisdiction. An essay about Aboriginal women's struggle for suffrage rights in Victoria is included.
+
+Biographical entries about a selection of women have been prepared, some containing links to further bibliographical and archival resources.
+
+Dr Rosemary Francis was principal researcher for the project. Ailie Smith and Helen Morgan from the ESRC at the University of Melbourne provided technical support.
+
+This exhibition is a project of the National Foundation for Women as part of the Foundation 's ongoing initiative, the Australian Women's Archives Project.
+Work on this project was funded in 2008 by a Victorian State Government Centenary of Women's Suffrage Grant.
+
+
+The project was funded in 2005-2006 by the Sesquicentenary of Responsible Government Committee, an initiative of the New South Wales Government Premier's Department.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">Carrying On The Fight: Women Candidates in Victorian Parliamentary Elections is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">AWE4757</ands:digitalDataReference>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4757/location1"/>
+      <vivo:linkURI>http://www.womenaustralia.info/exhib/cws/home.html</vivo:linkURI>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/University_of_MelbourneE000016"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/University_of_MelbourneE000015"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/210303"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4757/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4757/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4757/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4757/start"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4757/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1924</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4758">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#ResearchCollection"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">University_of_Melbourne</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Representative Women: Victorian Women Parliamentarians Since 1923, The Australian Women's Register</rdfs:label>
+      <vivo:description>Representative Women: Victorian Women Parliamentarians Since 1923 aggregates and makes accessible to a broad audience, information about Victorian women, past and present, who were elected to both the Federal and State Parliaments. It links research findings (current in 2007) to the Australian Women's Register.
+
+Users can: browse an alphabetical list of parliamentarians; browse a list of Victorian Women Representatives in the State Parliament; browse a list of Victorian Women Representatives in the Federal Parliament and search the register of Australia Women
+
+Dr Rosemary Francis was principal researcher for the project.
+
+This exhibition was created to honour Professor Patricia Grimshaw on her retirement from the History Department at the University of Melbourne in April 2006. As a member of the Board of the National Foundation for Australian Women, she has been an energetic supporter of the Australian Women's Archives Project.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">Representative Women: Victorian Women Parliamentarians Since 1923 is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">AWE4758</ands:digitalDataReference>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4758/location1"/>
+      <vivo:linkURI>http://www.womenaustralia.info/exhib/vp/vp-home.html</vivo:linkURI>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/University_of_MelbourneE000016"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/University_of_MelbourneE000015"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/210303"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4758/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4758/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4758/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4758/start"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4758/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1923</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4759">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#ResearchCollection"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">University_of_Melbourne</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Australian In My Difference: Women And Migration In Australia Since 1945, The Australian Women's Register</rdfs:label>
+      <vivo:description>Australian in My Difference: Women And Migration In Australia Since 1945 publishes the migration stories of sixteen women and lists a selection of support services for CALD women. It was current at the time of the research (2006).
+
+The project was funded in 2006 by the Australian Government: Department of Immigration, Mulicultural and Indigenous Affairs.
+
+Dr Nikki Henningham, Dr Barbara Lemon and Ms Helen Morgan were principal researchers for the project.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">Australian In My Difference: Women And Migration In Australia Since 1945 is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">AWE4759</ands:digitalDataReference>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4759/location1"/>
+      <vivo:linkURI>http://www.womenaustralia.info/exhib/aimd/home.html</vivo:linkURI>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/University_of_MelbourneE000016"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/University_of_MelbourneE000015"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/210303"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4759/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4759/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4759/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4759/start"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4759/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1945</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4760">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#ResearchCollection"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">University_of_Melbourne</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Faith Hope And Charity: Australian Women And Imperial Honours: 1901 - 1989, The Australian Women's Register</rdfs:label>
+      <vivo:description>Faith Hope And Charity: Australian Women And Imperial Honours: 1901 - 1989 lists more than 4000 women recipients of Imperial Honours in Australia during the twentieth century, recognising their significant contributions and achievements. Biographical entries on a selection of women have been prepared, containing links to further bibliographical and archival resources.
+
+Users can: browse women by award;
+browse women by year and browse alphabetical listings of women.
+
+Faith Hope And Charity is a project of the National Foundation for Australian Women as part of the Foundation's ongoing initiative, the Australian Women's Archives Project. It was funded by a 2001-2002 capacity building project grant under the Women's Development Programme administered by the Commonwealth Office of the Status of Women, and published in 2003.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">Faith Hope And Charity: Australian Women And Imperial Honours is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">AWE4760</ands:digitalDataReference>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4760/location1"/>
+      <vivo:linkURI>http://www.womenaustralia.info/exhib/honours/honours.html</vivo:linkURI>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/University_of_MelbourneE000016"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/University_of_MelbourneE000015"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/210303"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4760/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4760/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4760/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4760/start"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4760/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1901</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4761">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#ResearchCollection"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">University_of_Melbourne</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Australian Women In War, The Australian Women's Register</rdfs:label>
+      <vivo:description>Australian Women In War lists Australian women and women's organisations who participated and assisted in the Boer War, World Wars and subsequent conflicts, with links to biographical, bibliographical and archival information about a small selection of them.
+
+The exhibition lists 184 women with biographical resources, 33 organisations with further information and 15 commemorations with further information.
+
+This exhibition is a project of the National Foundation for Australian Women as part of the Foundation's ongoing initiative, the Australian Women's Archives Project. It was funded through the Australian Government's commemorations program &lt;em&gt;Saluting Their Service&lt;/em&gt; administered by the Department of Veterans' Affairs.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">Australian Women In War is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">AWE4761</ands:digitalDataReference>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4761/location1"/>
+      <vivo:linkURI>http://www.womenaustralia.info/exhib/war/war.html</vivo:linkURI>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/University_of_MelbourneE000016"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/University_of_MelbourneE000015"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/210303"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4761/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4761/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4761/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4761/start"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4761/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1900</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4762">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#ResearchCollection"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">University_of_Melbourne</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Where Are The Women in Australian Science? The Australian Women's Register</rdfs:label>
+      <vivo:description>Where Are The Women in Australian Science? provides information about women and the roles they played in the history of Australian science, technology and medicine from the earliest periods of European engagement to the present day. The exhibition links to biographical, bibliographical and archival information held in the &lt;em&gt;Encyclopedia of Australian Science&lt;/em&gt; database and allows users to create their own searches. Lists of women can be browsed, according to era and occupation. When the project was launched in 2003, there were 620 women scientists listed.
+
+This exhibition is a project of the National Foundation for Australian Women and the Australian Science and Technology Heritage Centre of the University of Melbourne. Work on this project was funded by a 2002-2003 capacity building grant under the Women's Development Programme administered by the Commonwealth Office of the Status of Women. It was published in 2003.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">Where Are The Women in Australian Science? Is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">AWE4762</ands:digitalDataReference>
+      <bibo:uri xmlns:bibo="http://purl.org/ontology/bibo/">http://www.austehc.unimelb.edu.au/wisa/wisa.html</bibo:uri>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4762/location1"/>
+      <vivo:linkURI>http://www.womenaustralia.info</vivo:linkURI>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/University_of_MelbourneE000016"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/University_of_MelbourneE000015"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/210303"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4762/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4762/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4762/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4762/start"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4762/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1796</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4763">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#ResearchCollection"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">University_of_Melbourne</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Women In The Making of Canberra, The Australian Women's Register</rdfs:label>
+      <vivo:description>Women in the Making of Canberra is a project commissioned in 2001 to aggregate information about the significant contributions that women have made to the development of Canberra. Information is organised around the following themes: Planning; Arriving; Settling; Providing and Representing. Users can also Browse alphabetical listings of women and organisations.
+
+The following lists may also be useful to users: ACT Women of the Year Awards (1990-95); ACT Women's Awards (1996-2001); ACT International Women's Day Awards (2002- ); Women included on the ACT Honour Walk.
+
+This project was supported by the ACT Office for Women and a generous donation from Christine Foley. The project was also assisted through funding made available by the ACT Government under the ACT Heritage Grants Program.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">Women In The Making of Canberra is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">AWE4763</ands:digitalDataReference>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4763/location1"/>
+      <vivo:linkURI>http://www.womenaustralia.info/exhib/wmc/wmc.html</vivo:linkURI>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/University_of_MelbourneE000016"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/University_of_MelbourneE000015"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/210303"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4763/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4763/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4763/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4763/start"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4763/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1900</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4764">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#ResearchCollection"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">University_of_Melbourne</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Seven Writers Group, The Australian Women's Register</rdfs:label>
+      <vivo:description>Seven Writers was a group of Canberra-based women writers who met regularly to debate and critique one another's work. The Australian Women's Register has aggregated data about the group, including biographical entries for the seven writers, as well has comprehensive bibliographical and archival information relating to their writing. Images are also available. The Seven Writers are/were: Barbalet, Margaret Evelyn; Dowse, Sara (1938 - ); Edgar, Suzanne (1939 - ); Eldridge, Marian Favel Clair (1936 - 1997); Halligan, Marion Mildred (1940 - ) ; Horsfield, Dorothy (1948 - ); Johnston, Dorothy (1948 - ).
+
+Funding to complete the project was provided by Christine Goode.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">The Australian Women's Register is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">AWE4764</ands:digitalDataReference>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4764/location1"/>
+      <vivo:linkURI>http://www.womenaustralia.info/biogs/AWE2108b.htm</vivo:linkURI>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/University_of_MelbourneE000016"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/University_of_MelbourneE000015"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/210303"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4764/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4764/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4764/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4764/start"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4764/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1980</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4765">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#ResearchCollection"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">University_of_Melbourne</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Women in Local Government, The Australian Women's Register</rdfs:label>
+      <vivo:description>The Australian Women's Register has aggregated data about women in local government in Australia. Users can browse lists of councillors, mayors and lord mayors to find the names of women across Australia who have served in local government. Over three hundred women are listed, many of them with links to fully developed biographical notes. Information about their activities outside local government is also available.
+
+Information is also about the Australian Women in Local Government Associations across Australia.
+
+Users can access the information from browse lists accessible via the home page of the Australian Women's Register, or through structured searches, also accessible via the home page.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">The Australian Women's Register is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">AWE4765</ands:digitalDataReference>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4765/location1"/>
+      <vivo:linkURI>http://www.womenaustralia.info</vivo:linkURI>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/University_of_MelbourneE000016"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/University_of_MelbourneE000015"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/210303"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4765/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4765/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4765/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4765/start"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4765/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1920</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4766">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#ResearchCollection"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">University_of_Melbourne</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Environmentalists, The Australian Women's Register</rdfs:label>
+      <vivo:description>The Australian Women's Register has compiled information about women in environmental movement in Australia. A list of thirty women is available, many of them with links to fully developed biographical notes. Information about their activities beyond the environmental movement is also available.
+
+It is expected that this number will increase with the completion of the Australian Women and Leadership project in 2012.
+
+Users can access the information from browse lists accessible via the home page of the Australian Women's Register, or through structured searches, also accessible via the home page.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">The Australian Women's Register is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">AWE4766</ands:digitalDataReference>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4766/location1"/>
+      <vivo:linkURI>http://www.womenaustralia.info</vivo:linkURI>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/University_of_MelbourneE000016"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/University_of_MelbourneE000015"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/210303"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4766/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4766/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4766/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4766/start"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4766/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1920</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4767">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#ResearchCollection"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">University_of_Melbourne</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Feminists, The Australian Women's Register</rdfs:label>
+      <vivo:description>The Australian Women's Register has compiled information about feminists and other women active in the women's rights movement in Australia since the mid nineteenth century. Lists of hundreds of women, many of them with links to fully developed biographical notes, are available for browsing. Information about their activities beyond the women's movement is also available.
+
+Users can access the information from browse lists accessible via the home page of the Australian Women's Register, or through structured searches, also accessible via the home page. Users should use terms such as 'feminist' or 'women's rights activist' to guide their searches.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">The Australian Women's Register is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">AWE4767</ands:digitalDataReference>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4767/location1"/>
+      <vivo:linkURI>http://www.womenaustralia.info</vivo:linkURI>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/University_of_MelbourneE000016"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/University_of_MelbourneE000015"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/210303"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4767/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4767/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4767/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4767/start"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4767/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1845</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4768">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#ResearchCollection"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">University_of_Melbourne</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Headmistresses, The Australian Women's Register</rdfs:label>
+      <vivo:description>The Australian Women's Register has compiled information about influential headmistresses in Australian since 1850. in 2012, a list of 32 women is available for browsing. Information about their activities beyond employment is also available in some instances.
+
+Users can access the information from browse lists accessible via the home page of the Australian Women's Register, or through structured searches, also accessible via the home page. Users should use the word 'headmistress' to guide their searches.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">The Australian Women's Register is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">AWE4768</ands:digitalDataReference>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4768/location1"/>
+      <vivo:linkURI>http://www.womenaustralia.info</vivo:linkURI>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/University_of_MelbourneE000016"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/University_of_MelbourneE000015"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/210303"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4768/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4768/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4768/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4768/start"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4768/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1850</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4769">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#ResearchCollection"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">University_of_Melbourne</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Women's Organisations And Lobby Groups, The Australian Women's Register</rdfs:label>
+      <vivo:description>The Australian Women's Register has compiled information about women's organisations, advocacy organisations and lobby groups since the early nineteenth century. Lists of hundreds of organisations, many of them with links to full historical notes, are available for browsing.
+
+Users can access the information from browse lists accessible via the home page of the Australian Women's Register, or through structured searches, also accessible via the home page.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">The Australian Women's Register is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">AWE4769</ands:digitalDataReference>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4769/location1"/>
+      <vivo:linkURI>http://www.womenaustralia.info</vivo:linkURI>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/University_of_MelbourneE000016"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/University_of_MelbourneE000015"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/210303"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4769/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4769/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4769/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4769/start"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4769/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1801</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4770">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#ResearchCollection"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">University_of_Melbourne</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Religious Women, The Australian Women's Register</rdfs:label>
+      <vivo:description>The Australian Women's Register has compiled information about women in religious orders since the early nineteenth century. Information about approximately 100 women is available for browsing.
+
+Users can access the information from browse lists accessible via the home page of the Australian Women's Register, or through structured searches, also accessible via the home page. Users should use terms such as 'missionaries', deaconnesses' and 'religious' to guide their searches.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">The Australian Women's Register is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">AWE4770</ands:digitalDataReference>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4770/location1"/>
+      <vivo:linkURI>http://www.womenaustralia.info</vivo:linkURI>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/University_of_MelbourneE000016"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/University_of_MelbourneE000015"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/210303"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4770/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4770/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4770/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4770/start"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4770/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1810</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4771">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#ResearchCollection"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">University_of_Melbourne</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Women in the Health Professions, The Australian Women's Register</rdfs:label>
+      <vivo:description>The Australian Women's Register has compiled information about women in the health professions since the late nineteenth century. Lists of doctors, nurses, physiotherapists and medical administrators, many of them with links to full biographical notes, are available for browsing.
+
+Users can access the information from browse lists accessible via the home page of the Australian Women's Register, or through structured searches, also accessible via the home page. Users shoud use search terms that include 'Medical Practioner', 'Surgeon' and 'Matron'.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">The Australian Women's Register is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">AWE4771</ands:digitalDataReference>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4771/location1"/>
+      <vivo:linkURI>http://www.womenaustralia.info</vivo:linkURI>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/University_of_MelbourneE000016"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/University_of_MelbourneE000015"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/210303"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4771/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4771/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4771/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4771/start"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4771/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1880</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4772">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#ResearchCollection"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">University_of_Melbourne</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Musicians, The Australian Women's Register</rdfs:label>
+      <vivo:description>The Australian Women's Register has compiled information about women musicians since the mid nineteenth century. Information about approximately 100 women is available for browsing.
+
+Users can access the information from browse lists accessible via the home page of the Australian Women's Register, or through structured searches, also accessible via the home page. Users should use terms such as 'singers', 'pianists' and 'conductor' to guide their searches.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">The Australian Women's Register is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">AWE4772</ands:digitalDataReference>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4772/location1"/>
+      <vivo:linkURI>http://www.womenaustralia.info</vivo:linkURI>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/University_of_MelbourneE000016"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/University_of_MelbourneE000015"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/210303"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4772/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4772/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4772/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4772/start"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4772/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1850</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4773">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#ResearchCollection"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">University_of_Melbourne</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Writers, The Australian Women's Register</rdfs:label>
+      <vivo:description>The Australian Women's Register has compiled information about women writers since the mid nineteenth century. Lists of writers, poets, journalists, publishers and editors, many of them with links to full biographical notes, are available for browsing.
+
+Users can access the information from browse lists accessible via the home page of the Australian Women's Register, or through structured searches, also accessible via the home page.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">The Australian Women's Register is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">AWE4773</ands:digitalDataReference>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4773/location1"/>
+      <vivo:linkURI>http://www.womenaustralia.info</vivo:linkURI>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/University_of_MelbourneE000016"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/University_of_MelbourneE000015"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/210303"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4773/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4773/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4773/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4773/start"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4773/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1850</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4774">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#ResearchCollection"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">University_of_Melbourne</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Social Workers, The Australian Women's Register</rdfs:label>
+      <vivo:description>The Australian Women's Register has compiled information about women social workers and social support organisations since the early twentieth century. Lists of women and their organisations, many of them with links to full historical notes, are available for browsing.
+
+Users can access the information from browse lists accessible via the home page of the Australian Women's Register, or through structured searches, also accessible via the home page.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">The Australian Women's Register is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">AWE4774</ands:digitalDataReference>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4774/location1"/>
+      <vivo:linkURI>http://www.womenaustralia.info</vivo:linkURI>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/University_of_MelbourneE000016"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/University_of_MelbourneE000015"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/210303"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4774/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4774/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4774/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4774/start"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4774/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1900</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4775">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#ResearchCollection"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">University_of_Melbourne</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Educators, The Australian Women's Register</rdfs:label>
+      <vivo:description>The Australian Women's Register has compiled information about women as educators since the mid nineteenth century. Lists of teachers, educators, academics and headmistresses, many of them with links to full biographical notes, are available for browsing.
+
+Users can access the information from browse lists accessible via the home page of the Australian Women's Register, or through structured searches, also accessible via the home page.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">The Australian Women's Register is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">AWE4775</ands:digitalDataReference>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4775/location1"/>
+      <vivo:linkURI>http://www.womenaustralia.info</vivo:linkURI>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/University_of_MelbourneE000016"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/University_of_MelbourneE000015"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/210303"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4775/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4775/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4775/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4775/start"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4775/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1850</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4776">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#ResearchCollection"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">University_of_Melbourne</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Trade Unionists, The Australian Women's Register</rdfs:label>
+      <vivo:description>The Australian Women's Register has compiled information about women's trade unions and unionists since the early twentieth century. Lists of unionists, union organisers and their unions, some with links to full biographical notes, are available for browsing.
+
+Users can access the information from browse lists accessible via the home page of the Australian Women's Register, or through structured searches, also accessible via the home page. Users shoud include the terms 'Trade Unionist' and 'Unionist' in their searches.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">The Australian Women's Register is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">AWE4776</ands:digitalDataReference>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4776/location1"/>
+      <vivo:linkURI>http://www.womenaustralia.info</vivo:linkURI>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/University_of_MelbourneE000016"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/University_of_MelbourneE000015"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/210303"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4776/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4776/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4776/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4776/start"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4776/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1900</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4777">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#ResearchCollection"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">University_of_Melbourne</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Indigenous Women, The Australian Women's Register</rdfs:label>
+      <vivo:description>The Australian Women's Register has compiled information about Indigenous women since the early nineteenth century ina range of contexts and activities. Many of them have links to full biographical notes and are available for browsing.
+
+Users can access the information from browse lists accessible via the home page of the Australian Women's Register, or through structured searches, also accessible via the home page. Most are accessible from the 'A' browse page, but users should use the word 'indigenous' in their searches as well.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">The Australian Women's Register is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">AWE4777</ands:digitalDataReference>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4777/location1"/>
+      <vivo:linkURI>http://www.womenaustralia.info</vivo:linkURI>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/University_of_MelbourneE000016"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/University_of_MelbourneE000015"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/210303"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4777/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4777/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4777/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4777/start"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4777/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1812</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4778">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#ResearchCollection"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">University_of_Melbourne</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Welfare Workers, The Australian Women's Register</rdfs:label>
+      <vivo:description>The Australian Women's Register has compiled information about women welfare workers and organisations since the mid nineteenth century. Lists of women and their organisations, many of them with links to full historical notes, are available for browsing.
+
+Users can access the information from browse lists accessible via the home page of the Australian Women's Register, or through structured searches, also accessible via the home page.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">The Australian Women's Register is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">AWE4778</ands:digitalDataReference>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4778/location1"/>
+      <vivo:linkURI>http://www.womenaustralia.info</vivo:linkURI>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/University_of_MelbourneE000016"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/University_of_MelbourneE000015"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/210303"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4778/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4778/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4778/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/University_of_MelbourneAWE4778/start"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_MelbourneAWE4778/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1850</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                    rdf:about="dcExport://dc3central/University_of_Melbourne"
+                    ands:dateModified="2011-10-04T23:32:52Z">
+      <ands:harvestedBy rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#ResearchRegistry"/>
+      <ands:groupDescription>University_of_Melbourne</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>The Australian Women's Register</rdfs:label>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">The Australian Women's Register is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</dcterms:rights>
+      <vivo:description>The Australian Women's Register is a an online source of biographical data about Australian women and their organisations, with links to the archival repositories and libraries where their records are held and to other sources of information. The Register is the output of a research database. It is an initiative of The National Foundation for Australian Women (NFAW) in conjunction with the University of Melbourne. The Register has been online since 2000. It includes over 5000 entities and continues to grow.</vivo:description>
+      <bibo:uri xmlns:bibo="http://purl.org/ontology/bibo/">http://www.womenaustralia.info/</bibo:uri>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/University_of_Melbourne/location1"/>
+      <ands:isManagedBy rdf:resource="dcExport://dc3central/University_of_MelbourneE000016"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/210303"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/210304"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/University_of_Melbourne/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_Melbourne/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre
+The University of Melbourne
+Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_Melbourne/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/University_of_Melbourne/start"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_Melbourne/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2000</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/University_of_Melbourne">
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">University_of_Melbourne</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+      <rdfs:label>Australian Women's Archives Project</rdfs:label>
+      <bibo:uri xmlns:bibo="http://purl.org/ontology/bibo/">http://www.womenaustralia.info/awap.html</bibo:uri>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/210303"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/University_of_Melbourne/coverage"/>
+   </rdf:Description>
+</rdf:RDF>

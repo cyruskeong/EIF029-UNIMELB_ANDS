@@ -1,0 +1,1286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mu:root fromLab="YRC_OHRM" xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects http://services.ands.org.au/documentation/rifcs/1.2.0/schema/registryObjects.xsd&#xA;            http://rdr.unimelb.edu.au/schema/murifcs http://rdr.unimelb.edu.au/schema/muRIFCS.xsd" xmlns:rifcs="http://ands.org.au/standards/rif-cs/registryObjects" xmlns:mu="http://rdr.unimelb.edu.au/schema/murifcs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<mu:rifcsData>
+		<party type="group" xmlns="http://ands.org.au/standards/rif-cs/registryObjects">
+			<identifier type="local">DCB0002</identifier>
+			<identifier type="uri">http://www.edfac.unimelb.edu.au/yrc/</identifier>
+			<name type="primary">
+				<namePart>Youth Research Centre</namePart>
+			</name>
+			<relatedObject>
+				<key>DCB0001</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<description type="full">The Youth Research Centre (YRC) was founded in 1988. The Transitions project (later, the Life Patterns Program) started at the YRC in 1995 (using data collected from 1991).</description>
+			<location xmlns="">
+				<address>
+					<physical type="streetAddress">
+						<addressPart type="text">Melbourne Graduate School of Education, 234 Queensberry Street, University of Melbourne, Victoria 3010 Australia</addressPart>
+					</physical>
+				</address>
+			</location>
+			<subject type="anzsrc-for" xmlns="">1608</subject>
+		</party>
+		<activity type="program" xmlns="http://ands.org.au/standards/rif-cs/registryObjects">
+			<identifier type="local">DCB0003</identifier>
+			<name type="primary">
+				<namePart>Life Patterns Project</namePart>
+			</name>
+			<relatedObject>
+				<key>DCB0004</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<relatedObject>
+				<key>DCB0012</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<relatedObject>
+				<key>DCB0068</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<description type="full">This project uses data collected in 1991 and 1992 and commenced surveying young people in 1995. It started with a single cohort (Generation X) and a second (Generation Y) was added in 2005. It is a longitudinal study of young Australians as they move from school into post-school education and work.</description>
+			<location xmlns="">
+				<address>
+					<physical type="streetAddress">
+						<addressPart type="text">Melbourne Graduate School of Education, 234 Queensberry Street, University of Melbourne, Victoria 3010 Australia</addressPart>
+					</physical>
+				</address>
+			</location>
+			<subject type="anzsrc-for" xmlns="">1608</subject>
+		</activity>
+		<party type="person" xmlns="http://ands.org.au/standards/rif-cs/registryObjects">
+			<identifier type="local">DCB0004</identifier>
+			<name type="primary">
+				<namePart>Dwyer, Peter</namePart>
+			</name>
+			<relatedObject>
+				<key>DCB0003</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<relatedObject>
+				<key>DCB0029</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<description type="full">Associate Professor Peter Dwyer initiated the Life Patterns research program and was a Chief Investigator on the grants that supported the program to 2002. He was Deputy Director of the Youth Research Centre and published many articles and books drawing on Life Patterns data.</description>
+			<location xmlns="">
+				<address>
+					<physical type="streetAddress">
+						<addressPart type="text">Melbourne Graduate School of Education, 234 Queensberry Street, University of Melbourne, Victoria 3010 Australia</addressPart>
+					</physical>
+				</address>
+			</location>
+			<subject type="anzsrc-for" xmlns="">1608</subject>
+		</party>
+		<party type="person" xmlns="http://ands.org.au/standards/rif-cs/registryObjects">
+			<identifier type="local">DCB0010</identifier>
+			<identifier type="uri">http://www.edfac.unimelb.edu.au/cgi-bin/public/staff_profile.cgi?id=1895</identifier>
+			<name type="primary">
+				<namePart>Wyn, Johanna</namePart>
+			</name>
+			<relatedObject>
+				<key>DCB0003</key>
+				<relation type="isManagedBy"></relation>
+			</relatedObject>
+			<relatedObject>
+				<key>DCB0029</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<relatedObject>
+				<key>DCB0040</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<description type="full">Professor Johanna Wyn is Director of the Youth Research Centre and is leader of the Education, Equity and Social Change cluster in the Melbourne Graduate School of Education at the University of Melbourne. She has led the Life Patterns project for a number of years.</description>
+			<location xmlns="">
+				<address>
+					<physical type="streetAddress">
+						<addressPart type="text">Melbourne Graduate School of Education, 234 Queensberry Street, University of Melbourne, Victoria 3010 Australia</addressPart>
+					</physical>
+				</address>
+			</location>
+			<subject type="anzsrc-for" xmlns="">1608</subject>
+		</party>
+		<party type="person" xmlns="http://ands.org.au/standards/rif-cs/registryObjects">
+			<identifier type="local">DCB0013</identifier>
+			<name type="primary">
+				<namePart>Woodman, Dan</namePart>
+			</name>
+			<relatedObject>
+				<key>DCB0040</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<description type="full">Dan Woodman is an adviser to the Life Patterns project team. He has previously been employed as a Research Fellow at the Youth Research Centre working on Life Patterns and other projects. His PhD drew on Life Patterns data.</description>
+			<location xmlns="">
+				<address>
+					<physical type="streetAddress">
+						<addressPart type="text">Melbourne Graduate School of Education, 234 Queensberry Street, University of Melbourne, Victoria 3010 Australia</addressPart>
+					</physical>
+				</address>
+			</location>
+			<subject type="anzsrc-for" xmlns="">1608</subject>
+		</party>
+		<party type="person" xmlns="http://ands.org.au/standards/rif-cs/registryObjects">
+			<identifier type="local">DCB0014</identifier>
+			<identifier type="uri">http://www.edfac.unimelb.edu.au/cgi-bin/public/staff_profile.cgi?id=15523</identifier>
+			<name type="primary">
+				<namePart>Cuervo, Hernán</namePart>
+			</name>
+			<relatedObject>
+				<key>DCB0029</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<relatedObject>
+				<key>DCB0040</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<description type="full">Hernán Cuervo is a Research Fellow in the YRC with responsibility for the management of Life Patterns data and publications as well as contributing to other Youth Research Centre projects.</description>
+			<location xmlns="">
+				<address>
+					<physical type="streetAddress">
+						<addressPart type="text">Melbourne Graduate School of Education, 234 Queensberry Street, University of Melbourne, Victoria 3010 Australia</addressPart>
+					</physical>
+				</address>
+			</location>
+			<subject type="anzsrc-for" xmlns="">1608</subject>
+		</party>
+		<collection type="dataset" xmlns="http://ands.org.au/standards/rif-cs/registryObjects">
+			<identifier type="local">DCB0016</identifier>
+			<name type="primary">
+				<namePart>SCOPE Life Patterns Project</namePart>
+			</name>
+			<coverage>
+				<temporal>
+					<date type="dateFrom" dateFormat="W3C">1991</date>
+					<date type="dateTo" dateFormat="W3C">1991</date>
+				</temporal>
+			</coverage>
+			<relatedObject>
+				<key>DCB0029</key>
+				<relation type="hasPart"></relation>
+			</relatedObject>
+			<description type="full">This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In SCOPE (Wave 0_1) 29165 participants aged about 18 years completed a survey. The questionnaire contained 7 questions covering students' expectations from work when leaving school.</description>
+			<location xmlns="">
+				<address>
+					<physical type="streetAddress">
+						<addressPart type="text">Melbourne Graduate School of Education, 234 Queensberry Street, University of Melbourne, Victoria 3010 Australia</addressPart>
+					</physical>
+				</address>
+			</location>
+			<subject type="anzsrc-for" xmlns="">1608</subject>
+			<relatedObject xmlns="">
+				<key>DCB0002</key>
+				<relation type="isManagedBy"></relation>
+			</relatedObject>
+		</collection>
+		<collection type="dataset" xmlns="http://ands.org.au/standards/rif-cs/registryObjects">
+			<identifier type="local">DCB0017</identifier>
+			<name type="primary">
+				<namePart>NEXT MOVE Life Patterns Project</namePart>
+			</name>
+			<coverage>
+				<temporal>
+					<date type="dateFrom" dateFormat="W3C">1992</date>
+					<date type="dateTo" dateFormat="W3C">1992</date>
+				</temporal>
+			</coverage>
+			<relatedObject>
+				<key>DCB0029</key>
+				<relation type="hasPart"></relation>
+			</relatedObject>
+			<description type="full">This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In NEXT MOVE (Wave 0_2) 10,986 participants aged about 19 years completed a survey. The questionnaire contained 7 questions covering work and study status.</description>
+			<location xmlns="">
+				<address>
+					<physical type="streetAddress">
+						<addressPart type="text">Melbourne Graduate School of Education, 234 Queensberry Street, University of Melbourne, Victoria 3010 Australia</addressPart>
+					</physical>
+				</address>
+			</location>
+			<subject type="anzsrc-for" xmlns="">1608</subject>
+			<relatedObject xmlns="">
+				<key>DCB0002</key>
+				<relation type="isManagedBy"></relation>
+			</relatedObject>
+		</collection>
+		<collection type="dataset" xmlns="http://ands.org.au/standards/rif-cs/registryObjects">
+			<identifier type="local">DCB0018</identifier>
+			<name type="primary">
+				<namePart>Wave 1 Life Patterns Project</namePart>
+			</name>
+			<coverage>
+				<temporal>
+					<date type="dateFrom" dateFormat="W3C">1995</date>
+					<date type="dateTo" dateFormat="W3C">1995</date>
+				</temporal>
+			</coverage>
+			<relatedObject>
+				<key>DCB0029</key>
+				<relation type="hasPart"></relation>
+			</relatedObject>
+			<description type="full">This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 1 2966 participants aged about 22 years completed a survey. The questionnaire contained 8 questions covering subjects including type of study they had engaged in since 1992; when they had left school; level of institution; area of study; and whether currently employed.</description>
+			<location xmlns="">
+				<address>
+					<physical type="streetAddress">
+						<addressPart type="text">Melbourne Graduate School of Education, 234 Queensberry Street, University of Melbourne, Victoria 3010 Australia</addressPart>
+					</physical>
+				</address>
+			</location>
+			<subject type="anzsrc-for" xmlns="">1608</subject>
+			<relatedObject xmlns="">
+				<key>DCB0002</key>
+				<relation type="isManagedBy"></relation>
+			</relatedObject>
+		</collection>
+		<collection type="dataset" xmlns="http://ands.org.au/standards/rif-cs/registryObjects">
+			<identifier type="local">DCB0019</identifier>
+			<name type="primary">
+				<namePart>Wave 2 Life Patterns Project</namePart>
+			</name>
+			<coverage>
+				<temporal>
+					<date type="dateFrom" dateFormat="W3C">1996</date>
+					<date type="dateTo" dateFormat="W3C">1996</date>
+				</temporal>
+			</coverage>
+			<relatedObject>
+				<key>DCB0029</key>
+				<relation type="hasPart"></relation>
+			</relatedObject>
+			<description type="full">This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 2, 1113 participants aged about 23 years completed a survey. The questionnaire contained 7 questions covering history of post-school employment; type of job; periods of unemployment; whether they returned to study; and the stage in life they had currently reached.</description>
+			<location xmlns="">
+				<address>
+					<physical type="streetAddress">
+						<addressPart type="text">Melbourne Graduate School of Education, 234 Queensberry Street, University of Melbourne, Victoria 3010 Australia</addressPart>
+					</physical>
+				</address>
+			</location>
+			<subject type="anzsrc-for" xmlns="">1608</subject>
+			<relatedObject xmlns="">
+				<key>DCB0002</key>
+				<relation type="isManagedBy"></relation>
+			</relatedObject>
+		</collection>
+		<collection type="dataset" xmlns="http://ands.org.au/standards/rif-cs/registryObjects">
+			<identifier type="local">DCB0020</identifier>
+			<name type="primary">
+				<namePart>Wave 3 Life Patterns Project</namePart>
+			</name>
+			<coverage>
+				<temporal>
+					<date type="dateFrom" dateFormat="W3C">1996</date>
+					<date type="dateTo" dateFormat="W3C">1996</date>
+				</temporal>
+			</coverage>
+			<relatedObject>
+				<key>DCB0029</key>
+				<relation type="hasPart"></relation>
+			</relatedObject>
+			<description type="full">This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 3, 1925 participant aged about 23 years completed a survey. The questionnaire contained 63 questions covering work/study participation; socio-economic background; current employment and study status; expectations from life; reasons for choosing particular pathways; the relationship between work and study; attitudes to work and careers; and ambitions for the future.</description>
+			<location xmlns="">
+				<address>
+					<physical type="streetAddress">
+						<addressPart type="text">Melbourne Graduate School of Education, 234 Queensberry Street, University of Melbourne, Victoria 3010 Australia</addressPart>
+					</physical>
+				</address>
+			</location>
+			<subject type="anzsrc-for" xmlns="">1608</subject>
+			<relatedObject xmlns="">
+				<key>DCB0002</key>
+				<relation type="isManagedBy"></relation>
+			</relatedObject>
+		</collection>
+		<collection type="dataset" xmlns="http://ands.org.au/standards/rif-cs/registryObjects">
+			<identifier type="local">DCB0021</identifier>
+			<name type="primary">
+				<namePart>Wave 4 Life Patterns Project</namePart>
+			</name>
+			<coverage>
+				<temporal>
+					<date type="dateFrom" dateFormat="W3C">1997</date>
+					<date type="dateTo" dateFormat="W3C">1997</date>
+				</temporal>
+			</coverage>
+			<relatedObject>
+				<key>DCB0029</key>
+				<relation type="hasPart"></relation>
+			</relatedObject>
+			<description type="full">This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 4, 1314 participants aged about 24 years completed a survey. The questionnaire contained 6 questions covering attitudes to a range of priorities in life; satisfaction with life; study or employment status; and progress in establishing a career.</description>
+			<location xmlns="">
+				<address>
+					<physical type="streetAddress">
+						<addressPart type="text">Melbourne Graduate School of Education, 234 Queensberry Street, University of Melbourne, Victoria 3010 Australia</addressPart>
+					</physical>
+				</address>
+			</location>
+			<subject type="anzsrc-for" xmlns="">1608</subject>
+			<relatedObject xmlns="">
+				<key>DCB0002</key>
+				<relation type="isManagedBy"></relation>
+			</relatedObject>
+		</collection>
+		<collection type="dataset" xmlns="http://ands.org.au/standards/rif-cs/registryObjects">
+			<identifier type="local">DCB0022</identifier>
+			<name type="primary">
+				<namePart>Wave 5 Life Patterns Project</namePart>
+			</name>
+			<coverage>
+				<temporal>
+					<date type="dateFrom" dateFormat="W3C">1998</date>
+					<date type="dateTo" dateFormat="W3C">1998</date>
+				</temporal>
+			</coverage>
+			<relatedObject>
+				<key>DCB0029</key>
+				<relation type="hasPart"></relation>
+			</relatedObject>
+			<description type="full">This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 5, 1428 participants aged about 25 years completed a survey. The questionnaire contained 23 questions covering employment of participants; their sense of personal progress; feelings and attitudes about life; study activities; attitudes to TAFE and Vocational Education and Training study; employment status; and attitudes to work, job and career.</description>
+			<location xmlns="">
+				<address>
+					<physical type="streetAddress">
+						<addressPart type="text">Melbourne Graduate School of Education, 234 Queensberry Street, University of Melbourne, Victoria 3010 Australia</addressPart>
+					</physical>
+				</address>
+			</location>
+			<subject type="anzsrc-for" xmlns="">1608</subject>
+			<relatedObject xmlns="">
+				<key>DCB0002</key>
+				<relation type="isManagedBy"></relation>
+			</relatedObject>
+		</collection>
+		<collection type="dataset" xmlns="http://ands.org.au/standards/rif-cs/registryObjects">
+			<identifier type="local">DCB0023</identifier>
+			<name type="primary">
+				<namePart>Wave 6 Life Patterns Project</namePart>
+			</name>
+			<coverage>
+				<temporal>
+					<date type="dateFrom" dateFormat="W3C">1999</date>
+					<date type="dateTo" dateFormat="W3C">1999</date>
+				</temporal>
+			</coverage>
+			<relatedObject>
+				<key>DCB0029</key>
+				<relation type="hasPart"></relation>
+			</relatedObject>
+			<description type="full">This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 6, 1295 participants aged about 26 years completed a survey. The questionnaire contained 10 questions covering pathways in employment; study and personal activities; and if employed, is it in a career job.</description>
+			<location xmlns="">
+				<address>
+					<physical type="streetAddress">
+						<addressPart type="text">Melbourne Graduate School of Education, 234 Queensberry Street, University of Melbourne, Victoria 3010 Australia</addressPart>
+					</physical>
+				</address>
+			</location>
+			<subject type="anzsrc-for" xmlns="">1608</subject>
+			<relatedObject xmlns="">
+				<key>DCB0002</key>
+				<relation type="isManagedBy"></relation>
+			</relatedObject>
+		</collection>
+		<collection type="dataset" xmlns="http://ands.org.au/standards/rif-cs/registryObjects">
+			<identifier type="local">DCB0024</identifier>
+			<name type="primary">
+				<namePart>Wave 7 Life Patterns Project</namePart>
+			</name>
+			<coverage>
+				<temporal>
+					<date type="dateFrom" dateFormat="W3C">2000</date>
+					<date type="dateTo" dateFormat="W3C">2000</date>
+				</temporal>
+			</coverage>
+			<relatedObject>
+				<key>DCB0029</key>
+				<relation type="hasPart"></relation>
+			</relatedObject>
+			<description type="full">This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 7, 1109 participants aged about 27 years completed a survey. The questionnaire contained 23 questions covering progress in study and work; self assessment of progress; general time use; and priorities in life.</description>
+			<location xmlns="">
+				<address>
+					<physical type="streetAddress">
+						<addressPart type="text">Melbourne Graduate School of Education, 234 Queensberry Street, University of Melbourne, Victoria 3010 Australia</addressPart>
+					</physical>
+				</address>
+			</location>
+			<subject type="anzsrc-for" xmlns="">1608</subject>
+			<relatedObject xmlns="">
+				<key>DCB0002</key>
+				<relation type="isManagedBy"></relation>
+			</relatedObject>
+		</collection>
+		<collection type="dataset" xmlns="http://ands.org.au/standards/rif-cs/registryObjects">
+			<identifier type="local">DCB0025</identifier>
+			<name type="primary">
+				<namePart>Wave 8 Life Patterns Project</namePart>
+			</name>
+			<coverage>
+				<temporal>
+					<date type="dateFrom" dateFormat="W3C">2002</date>
+					<date type="dateTo" dateFormat="W3C">2002</date>
+				</temporal>
+			</coverage>
+			<relatedObject>
+				<key>DCB0029</key>
+				<relation type="hasPart"></relation>
+			</relatedObject>
+			<description type="full">This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 8, 774 participants aged about 29 years completed a survey. The questionnaire contained 33 questions covering satisfaction with achievements, expectations, commitments and goals; work situations, including job type, mobility and commitment; desirable characteristics of career and life activities; life priorities; and satisfaction.</description>
+			<location xmlns="">
+				<address>
+					<physical type="streetAddress">
+						<addressPart type="text">Melbourne Graduate School of Education, 234 Queensberry Street, University of Melbourne, Victoria 3010 Australia</addressPart>
+					</physical>
+				</address>
+			</location>
+			<subject type="anzsrc-for" xmlns="">1608</subject>
+			<relatedObject xmlns="">
+				<key>DCB0002</key>
+				<relation type="isManagedBy"></relation>
+			</relatedObject>
+		</collection>
+		<collection type="dataset" xmlns="http://ands.org.au/standards/rif-cs/registryObjects">
+			<identifier type="local">DCB0026</identifier>
+			<name type="primary">
+				<namePart>Wave 9 Life Patterns Project</namePart>
+			</name>
+			<coverage>
+				<temporal>
+					<date type="dateFrom" dateFormat="W3C">2004</date>
+					<date type="dateTo" dateFormat="W3C">2004</date>
+				</temporal>
+			</coverage>
+			<relatedObject>
+				<key>DCB0029</key>
+				<relation type="hasPart"></relation>
+			</relatedObject>
+			<description type="full">This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 9, 625 participants aged about 31 years completed a survey. The questionnaire contained 20 questions covering life progress; current and last three jobs; reasons for job changes; satisfaction with life achievements, life situation, goals, commitments and work situation; and details of work history and definitions of a career.</description>
+			<location xmlns="">
+				<address>
+					<physical type="streetAddress">
+						<addressPart type="text">Melbourne Graduate School of Education, 234 Queensberry Street, University of Melbourne, Victoria 3010 Australia</addressPart>
+					</physical>
+				</address>
+			</location>
+			<subject type="anzsrc-for" xmlns="">1608</subject>
+			<relatedObject xmlns="">
+				<key>DCB0002</key>
+				<relation type="isManagedBy"></relation>
+			</relatedObject>
+		</collection>
+		<collection type="dataset" xmlns="http://ands.org.au/standards/rif-cs/registryObjects">
+			<identifier type="local">DCB0027</identifier>
+			<name type="primary">
+				<namePart>Wave 10 Life Patterns Project</namePart>
+			</name>
+			<coverage>
+				<temporal>
+					<date type="dateFrom" dateFormat="W3C">2006</date>
+					<date type="dateTo" dateFormat="W3C">2006</date>
+				</temporal>
+			</coverage>
+			<relatedObject>
+				<key>DCB0029</key>
+				<relation type="hasPart"></relation>
+			</relatedObject>
+			<description type="full">This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 10, 344 participants aged about 33 years completed a survey. The questionnaire contained 14 questions covering jobs and life priorities, including job changes; personal relationships and living arrangements; attitudes to parenting; post-school plans; advice to the younger generation; and plans for the future.</description>
+			<location xmlns="">
+				<address>
+					<physical type="streetAddress">
+						<addressPart type="text">Melbourne Graduate School of Education, 234 Queensberry Street, University of Melbourne, Victoria 3010 Australia</addressPart>
+					</physical>
+				</address>
+			</location>
+			<subject type="anzsrc-for" xmlns="">1608</subject>
+			<relatedObject xmlns="">
+				<key>DCB0002</key>
+				<relation type="isManagedBy"></relation>
+			</relatedObject>
+		</collection>
+		<collection type="dataset" xmlns="http://ands.org.au/standards/rif-cs/registryObjects">
+			<identifier type="local">DCB0028</identifier>
+			<name type="primary">
+				<namePart>Wave 11 Life Patterns Project</namePart>
+			</name>
+			<coverage>
+				<temporal>
+					<date type="dateFrom" dateFormat="W3C">2009</date>
+					<date type="dateTo" dateFormat="W3C">2009</date>
+				</temporal>
+			</coverage>
+			<relatedObject>
+				<key>DCB0029</key>
+				<relation type="hasPart"></relation>
+			</relatedObject>
+			<description type="full">This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 11, 301 participants aged about 36 years completed a survey. The questionnaire contained 34 questions covering job characteristics; living arrangements; relationships and family; educational status and motivations; time commitments and wellbeing; life satisfactions; and aspirations and health.</description>
+			<location xmlns="">
+				<address>
+					<physical type="streetAddress">
+						<addressPart type="text">Melbourne Graduate School of Education, 234 Queensberry Street, University of Melbourne, Victoria 3010 Australia</addressPart>
+					</physical>
+				</address>
+			</location>
+			<subject type="anzsrc-for" xmlns="">1608</subject>
+			<relatedObject xmlns="">
+				<key>DCB0002</key>
+				<relation type="isManagedBy"></relation>
+			</relatedObject>
+		</collection>
+		<collection type="collection" xmlns="http://ands.org.au/standards/rif-cs/registryObjects">
+			<identifier type="local">DCB0029</identifier>
+			<name type="primary">
+				<namePart>Generation X</namePart>
+			</name>
+			<coverage>
+				<temporal>
+					<date type="dateFrom" dateFormat="W3C">1991</date>
+				</temporal>
+			</coverage>
+			<relatedObject>
+				<key>DCB0003</key>
+				<relation type="hasPart"></relation>
+			</relatedObject>
+			<relatedObject>
+				<key>DCB0004</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<relatedObject>
+				<key>DCB0005</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<relatedObject>
+				<key>DCB0006</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<relatedObject>
+				<key>DCB0007</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<relatedObject>
+				<key>DCB0008</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<relatedObject>
+				<key>DCB0010</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<relatedObject>
+				<key>DCB0011</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<relatedObject>
+				<key>DCB0012</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<relatedObject>
+				<key>DCB0014</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<relatedObject>
+				<key>DCB0060</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<relatedObject>
+				<key>DCB0066</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<relatedObject>
+				<key>DCB0068</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<relatedObject>
+				<key>DCB0069</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<relatedObject>
+				<key>DCB0070</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<relatedObject>
+				<key>DCB0071</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<relatedObject>
+				<key>DCB0072</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<relatedObject>
+				<key>DCB0073</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<relatedObject>
+				<key>DCB0074</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<relatedObject>
+				<key>DCB0075</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<relatedObject>
+				<key>DCB0076</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<description type="full">Generation X cohort commenced in 1991 with data made available from the Department of Education. Since that time there have been sucessive Waves of data collections, following participants from the initial Waves.</description>
+			<location xmlns="">
+				<address>
+					<physical type="streetAddress">
+						<addressPart type="text">Melbourne Graduate School of Education, 234 Queensberry Street, University of Melbourne, Victoria 3010 Australia</addressPart>
+					</physical>
+				</address>
+			</location>
+			<subject type="anzsrc-for" xmlns="">1608</subject>
+			<relatedObject xmlns="">
+				<key>DCB0002</key>
+				<relation type="isManagedBy"></relation>
+			</relatedObject>
+		</collection>
+		<collection type="collection" xmlns="http://ands.org.au/standards/rif-cs/registryObjects">
+			<identifier type="local">DCB0040</identifier>
+			<name type="primary">
+				<namePart>Generation Y</namePart>
+			</name>
+			<coverage>
+				<temporal>
+					<date type="dateFrom" dateFormat="W3C">2005</date>
+				</temporal>
+			</coverage>
+			<relatedObject>
+				<key>DCB0003</key>
+				<relation type="hasPart"></relation>
+			</relatedObject>
+			<relatedObject>
+				<key>DCB0008</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<relatedObject>
+				<key>DCB0010</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<relatedObject>
+				<key>DCB0011</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<relatedObject>
+				<key>DCB0012</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<relatedObject>
+				<key>DCB0013</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<relatedObject>
+				<key>DCB0014</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<relatedObject>
+				<key>DCB0015</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<relatedObject>
+				<key>DCB0066</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<relatedObject>
+				<key>DCB0068</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<relatedObject>
+				<key>DCB0069</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<relatedObject>
+				<key>DCB0070</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<relatedObject>
+				<key>DCB0071</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<relatedObject>
+				<key>DCB0072</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<relatedObject>
+				<key>DCB0073</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<relatedObject>
+				<key>DCB0074</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<relatedObject>
+				<key>DCB0075</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<relatedObject>
+				<key>DCB0077</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<relatedObject>
+				<key>DCB0078</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<relatedObject>
+				<key>DCB0079</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<description type="full">Generation Y cohort commenced in 2005 with a selection of year 11 students from Victoria, New South Wales, ACT and Tasmania. It developed while the Life Patterns Generation X cohort continued to survey school leavers from 1991.</description>
+			<location xmlns="">
+				<address>
+					<physical type="streetAddress">
+						<addressPart type="text">Melbourne Graduate School of Education, 234 Queensberry Street, University of Melbourne, Victoria 3010 Australia</addressPart>
+					</physical>
+				</address>
+			</location>
+			<subject type="anzsrc-for" xmlns="">1608</subject>
+			<relatedObject xmlns="">
+				<key>DCB0002</key>
+				<relation type="isManagedBy"></relation>
+			</relatedObject>
+		</collection>
+		<collection type="dataset" xmlns="http://ands.org.au/standards/rif-cs/registryObjects">
+			<identifier type="local">DCB0041</identifier>
+			<name type="primary">
+				<namePart>Wave 1 Life Patterns Project</namePart>
+			</name>
+			<coverage>
+				<temporal>
+					<date type="dateFrom" dateFormat="W3C">2005</date>
+					<date type="dateTo" dateFormat="W3C">2005</date>
+				</temporal>
+			</coverage>
+			<relatedObject>
+				<key>DCB0040</key>
+				<relation type="hasPart"></relation>
+			</relatedObject>
+			<description type="full">This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 1, 1954 participants from New South Wales and Victoria, aged about 17 years, completed a survey. The questionnaire contained 28 questions covering plans for further study; feelings about school; job plans; issues affecting young people; thoughts about the future; and relationships with family and friends.</description>
+			<location xmlns="">
+				<address>
+					<physical type="streetAddress">
+						<addressPart type="text">Melbourne Graduate School of Education, 234 Queensberry Street, University of Melbourne, Victoria 3010 Australia</addressPart>
+					</physical>
+				</address>
+			</location>
+			<subject type="anzsrc-for" xmlns="">1608</subject>
+			<relatedObject xmlns="">
+				<key>DCB0002</key>
+				<relation type="isManagedBy"></relation>
+			</relatedObject>
+		</collection>
+		<collection type="dataset" xmlns="http://ands.org.au/standards/rif-cs/registryObjects">
+			<identifier type="local">DCB0042</identifier>
+			<name type="primary">
+				<namePart>Wave 2A Life Patterns Project</namePart>
+			</name>
+			<coverage>
+				<temporal>
+					<date type="dateFrom" dateFormat="W3C">2005</date>
+					<date type="dateTo" dateFormat="W3C">2005</date>
+				</temporal>
+			</coverage>
+			<relatedObject>
+				<key>DCB0040</key>
+				<relation type="hasPart"></relation>
+			</relatedObject>
+			<description type="full">This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 2A, 2023 participants from Tasmania and the ACT, aged about 18 years, completed a survey. The questionnaire contained 35 questions covering involvement in continuing study; positive aspects of life; sources of information and advice for further study; career issues; and attitudes towards the future.</description>
+			<location xmlns="">
+				<address>
+					<physical type="streetAddress">
+						<addressPart type="text">Melbourne Graduate School of Education, 234 Queensberry Street, University of Melbourne, Victoria 3010 Australia</addressPart>
+					</physical>
+				</address>
+			</location>
+			<subject type="anzsrc-for" xmlns="">1608</subject>
+			<relatedObject xmlns="">
+				<key>DCB0002</key>
+				<relation type="isManagedBy"></relation>
+			</relatedObject>
+		</collection>
+		<collection type="dataset" xmlns="http://ands.org.au/standards/rif-cs/registryObjects">
+			<identifier type="local">DCB0043</identifier>
+			<name type="primary">
+				<namePart>Wave 2B Life Patterns Project</namePart>
+			</name>
+			<coverage>
+				<temporal>
+					<date type="dateFrom" dateFormat="W3C">2006</date>
+					<date type="dateTo" dateFormat="W3C">2006</date>
+				</temporal>
+			</coverage>
+			<relatedObject>
+				<key>DCB0040</key>
+				<relation type="hasPart"></relation>
+			</relatedObject>
+			<description type="full">This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 2B, 1321 participants aged about 18 years completed a survey. The questionnaire contained 14 questions covering intentions of continuing post-school education; positive aspects of life; attitudes to future career employment, and to future life outcomes.</description>
+			<location xmlns="">
+				<address>
+					<physical type="streetAddress">
+						<addressPart type="text">Melbourne Graduate School of Education, 234 Queensberry Street, University of Melbourne, Victoria 3010 Australia</addressPart>
+					</physical>
+				</address>
+			</location>
+			<subject type="anzsrc-for" xmlns="">1608</subject>
+			<relatedObject xmlns="">
+				<key>DCB0002</key>
+				<relation type="isManagedBy"></relation>
+			</relatedObject>
+		</collection>
+		<collection type="dataset" xmlns="http://ands.org.au/standards/rif-cs/registryObjects">
+			<identifier type="local">DCB0044</identifier>
+			<name type="primary">
+				<namePart>Wave 3 Life Patterns Project</namePart>
+			</name>
+			<coverage>
+				<temporal>
+					<date type="dateFrom" dateFormat="W3C">2007</date>
+					<date type="dateTo" dateFormat="W3C">2007</date>
+				</temporal>
+			</coverage>
+			<relatedObject>
+				<key>DCB0040</key>
+				<relation type="hasPart"></relation>
+			</relatedObject>
+			<description type="full">This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 3, 1285 participants aged about 19 years completed a survey. The questionnaire contained 35 questions covering work and study commitments; living situations and location; whether continuing studies; type and extent of employment; work/study relationships; health and well being; future plans; and attitudes to the future.</description>
+			<location xmlns="">
+				<address>
+					<physical type="streetAddress">
+						<addressPart type="text">Melbourne Graduate School of Education, 234 Queensberry Street, University of Melbourne, Victoria 3010 Australia</addressPart>
+					</physical>
+				</address>
+			</location>
+			<subject type="anzsrc-for" xmlns="">1608</subject>
+			<relatedObject xmlns="">
+				<key>DCB0002</key>
+				<relation type="isManagedBy"></relation>
+			</relatedObject>
+		</collection>
+		<collection type="dataset" xmlns="http://ands.org.au/standards/rif-cs/registryObjects">
+			<identifier type="local">DCB0045</identifier>
+			<name type="primary">
+				<namePart>Wave 4 Life Patterns Project</namePart>
+			</name>
+			<coverage>
+				<temporal>
+					<date type="dateFrom" dateFormat="W3C">2008</date>
+					<date type="dateTo" dateFormat="W3C">2009</date>
+				</temporal>
+			</coverage>
+			<relatedObject>
+				<key>DCB0040</key>
+				<relation type="hasPart"></relation>
+			</relatedObject>
+			<description type="full">This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 4, 946 participants aged about 20 years completed a survey. The questionnaire contained 19 questions covering living situation and residence; finances; employment; study and work attitudes: positive aspects of life; time spent on various activities; and attitudes towards the future.</description>
+			<location xmlns="">
+				<address>
+					<physical type="streetAddress">
+						<addressPart type="text">Melbourne Graduate School of Education, 234 Queensberry Street, University of Melbourne, Victoria 3010 Australia</addressPart>
+					</physical>
+				</address>
+			</location>
+			<subject type="anzsrc-for" xmlns="">1608</subject>
+			<relatedObject xmlns="">
+				<key>DCB0002</key>
+				<relation type="isManagedBy"></relation>
+			</relatedObject>
+		</collection>
+		<collection type="dataset" xmlns="http://ands.org.au/standards/rif-cs/registryObjects">
+			<identifier type="local">DCB0046</identifier>
+			<name type="primary">
+				<namePart>Wave 5 Life Patterns Project</namePart>
+			</name>
+			<coverage>
+				<temporal>
+					<date type="dateFrom" dateFormat="W3C">2009</date>
+					<date type="dateTo" dateFormat="W3C">2009</date>
+				</temporal>
+			</coverage>
+			<relatedObject>
+				<key>DCB0040</key>
+				<relation type="hasPart"></relation>
+			</relatedObject>
+			<description type="full">This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 5, 348 participants (these were only TAFE students, used to build up the TAFE representation in the cohort), aged about 21 years, completed a survey. The questionnaire contained 19 questions covering demographic information; socioeconomic status of parents; and the importance of key aspects of life.</description>
+			<location xmlns="">
+				<address>
+					<physical type="streetAddress">
+						<addressPart type="text">Melbourne Graduate School of Education, 234 Queensberry Street, University of Melbourne, Victoria 3010 Australia</addressPart>
+					</physical>
+				</address>
+			</location>
+			<subject type="anzsrc-for" xmlns="">1608</subject>
+			<relatedObject xmlns="">
+				<key>DCB0002</key>
+				<relation type="isManagedBy"></relation>
+			</relatedObject>
+		</collection>
+		<collection type="dataset" xmlns="http://ands.org.au/standards/rif-cs/registryObjects">
+			<identifier type="local">DCB0047</identifier>
+			<name type="primary">
+				<namePart>Wave 6 Life Patterns Project</namePart>
+			</name>
+			<coverage>
+				<temporal>
+					<date type="dateFrom" dateFormat="W3C">2010</date>
+					<date type="dateTo" dateFormat="W3C">2010</date>
+				</temporal>
+			</coverage>
+			<relatedObject>
+				<key>DCB0040</key>
+				<relation type="hasPart"></relation>
+			</relatedObject>
+			<description type="full">This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 6, 742 participants aged about 22 years completed a survey. An online version of the survey was for the first time available. The questionnaire contained 27 questions covering living situations and residence in 2009 and 2010; relationships; means of financial support; plans for continuing study; employment; health and wellbeing; and time spent on activities.</description>
+			<location xmlns="">
+				<address>
+					<physical type="streetAddress">
+						<addressPart type="text">Melbourne Graduate School of Education, 234 Queensberry Street, University of Melbourne, Victoria 3010 Australia</addressPart>
+					</physical>
+				</address>
+			</location>
+			<subject type="anzsrc-for" xmlns="">1608</subject>
+			<relatedObject xmlns="">
+				<key>DCB0002</key>
+				<relation type="isManagedBy"></relation>
+			</relatedObject>
+		</collection>
+		<collection type="dataset" xmlns="http://ands.org.au/standards/rif-cs/registryObjects">
+			<identifier type="local">DCB0053</identifier>
+			<name type="primary">
+				<namePart>Wave 3 Qualitative Life Patterns Project</namePart>
+			</name>
+			<coverage>
+				<temporal>
+					<date type="dateFrom" dateFormat="W3C">1996</date>
+					<date type="dateTo" dateFormat="W3C">1996</date>
+				</temporal>
+			</coverage>
+			<relatedObject>
+				<key>DCB0029</key>
+				<relation type="hasPart"></relation>
+			</relatedObject>
+			<description type="full">This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 3, 77 participants from the Wave 3 survey, aged about 23 years, were interviewed on the following topics: intention to study or work; changes affecting study; perceptions of Vocational Education and Training; and things that could have been done differently.</description>
+			<location xmlns="">
+				<address>
+					<physical type="streetAddress">
+						<addressPart type="text">Melbourne Graduate School of Education, 234 Queensberry Street, University of Melbourne, Victoria 3010 Australia</addressPart>
+					</physical>
+				</address>
+			</location>
+			<subject type="anzsrc-for" xmlns="">1608</subject>
+			<relatedObject xmlns="">
+				<key>DCB0002</key>
+				<relation type="isManagedBy"></relation>
+			</relatedObject>
+		</collection>
+		<collection type="dataset" xmlns="http://ands.org.au/standards/rif-cs/registryObjects">
+			<identifier type="local">DCB0054</identifier>
+			<name type="primary">
+				<namePart>Wave 4 Qualitative Life Patterns Project</namePart>
+			</name>
+			<coverage>
+				<temporal>
+					<date type="dateFrom" dateFormat="W3C">1997</date>
+					<date type="dateTo" dateFormat="W3C">1997</date>
+				</temporal>
+			</coverage>
+			<relatedObject>
+				<key>DCB0029</key>
+				<relation type="hasPart"></relation>
+			</relatedObject>
+			<description type="full"> This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 4, 50 participants from the Wave 4 survey, aged about 24 years, were interviewed on the following topics: main priorities in life; relationship between study and work; course and work history; and study and career prospects.</description>
+			<location xmlns="">
+				<address>
+					<physical type="streetAddress">
+						<addressPart type="text">Melbourne Graduate School of Education, 234 Queensberry Street, University of Melbourne, Victoria 3010 Australia</addressPart>
+					</physical>
+				</address>
+			</location>
+			<subject type="anzsrc-for" xmlns="">1608</subject>
+			<relatedObject xmlns="">
+				<key>DCB0002</key>
+				<relation type="isManagedBy"></relation>
+			</relatedObject>
+		</collection>
+		<collection type="dataset" xmlns="http://ands.org.au/standards/rif-cs/registryObjects">
+			<identifier type="local">DCB0055</identifier>
+			<name type="primary">
+				<namePart>Wave 5 Qualitative Life Patterns Project</namePart>
+			</name>
+			<coverage>
+				<temporal>
+					<date type="dateFrom" dateFormat="W3C">1998</date>
+					<date type="dateTo" dateFormat="W3C">1998</date>
+				</temporal>
+			</coverage>
+			<relatedObject>
+				<key>DCB0029</key>
+				<relation type="hasPart"></relation>
+			</relatedObject>
+			<description type="full">This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 5, 100 participants from the Wave 5 survey, aged about 25 years, were interviewed on the following topics: current life and work situation; reasons for changes; and goals in life.</description>
+			<location xmlns="">
+				<address>
+					<physical type="streetAddress">
+						<addressPart type="text">Melbourne Graduate School of Education, 234 Queensberry Street, University of Melbourne, Victoria 3010 Australia</addressPart>
+					</physical>
+				</address>
+			</location>
+			<subject type="anzsrc-for" xmlns="">1608</subject>
+			<relatedObject xmlns="">
+				<key>DCB0002</key>
+				<relation type="isManagedBy"></relation>
+			</relatedObject>
+		</collection>
+		<collection type="dataset" xmlns="http://ands.org.au/standards/rif-cs/registryObjects">
+			<identifier type="local">DCB0056</identifier>
+			<name type="primary">
+				<namePart>Wave 6 Qualitative Life Patterns Project</namePart>
+			</name>
+			<coverage>
+				<temporal>
+					<date type="dateFrom" dateFormat="W3C">1999</date>
+					<date type="dateTo" dateFormat="W3C">1999</date>
+				</temporal>
+			</coverage>
+			<relatedObject>
+				<key>DCB0029</key>
+				<relation type="hasPart"></relation>
+			</relatedObject>
+			<description type="full">This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 6, 48 participants from the Wave 6 survey, aged about 26 years, were interviewed on the following topics: accommodation; past goals; balance between future goals and study priorities; and career issues.</description>
+			<location xmlns="">
+				<address>
+					<physical type="streetAddress">
+						<addressPart type="text">Melbourne Graduate School of Education, 234 Queensberry Street, University of Melbourne, Victoria 3010 Australia</addressPart>
+					</physical>
+				</address>
+			</location>
+			<subject type="anzsrc-for" xmlns="">1608</subject>
+			<relatedObject xmlns="">
+				<key>DCB0002</key>
+				<relation type="isManagedBy"></relation>
+			</relatedObject>
+		</collection>
+		<collection type="dataset" xmlns="http://ands.org.au/standards/rif-cs/registryObjects">
+			<identifier type="local">DCB0057</identifier>
+			<name type="primary">
+				<namePart>Wave 7 Qualitative Life Patterns Project</namePart>
+			</name>
+			<coverage>
+				<temporal>
+					<date type="dateFrom" dateFormat="W3C">2000</date>
+					<date type="dateTo" dateFormat="W3C">2000</date>
+				</temporal>
+			</coverage>
+			<relatedObject>
+				<key>DCB0029</key>
+				<relation type="hasPart"></relation>
+			</relatedObject>
+			<description type="full">This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 7, 24 participants from the Wave 7 survey, aged about 27 years, were interviewed on the following topics: life aims and goals; relationship between work and family; and the balance between priorities including career.</description>
+			<location xmlns="">
+				<address>
+					<physical type="streetAddress">
+						<addressPart type="text">Melbourne Graduate School of Education, 234 Queensberry Street, University of Melbourne, Victoria 3010 Australia</addressPart>
+					</physical>
+				</address>
+			</location>
+			<subject type="anzsrc-for" xmlns="">1608</subject>
+			<relatedObject xmlns="">
+				<key>DCB0002</key>
+				<relation type="isManagedBy"></relation>
+			</relatedObject>
+		</collection>
+		<collection type="dataset" xmlns="http://ands.org.au/standards/rif-cs/registryObjects">
+			<identifier type="local">DCB0058</identifier>
+			<name type="primary">
+				<namePart>Wave 8 Qualitative Life Patterns Project</namePart>
+			</name>
+			<coverage>
+				<temporal>
+					<date type="dateFrom" dateFormat="W3C">2002</date>
+					<date type="dateTo" dateFormat="W3C">2002</date>
+				</temporal>
+			</coverage>
+			<relatedObject>
+				<key>DCB0029</key>
+				<relation type="hasPart"></relation>
+			</relatedObject>
+			<description type="full">This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 8, 24 participants from the Wave 8 survey, aged about 29 years, were interviewed on the following topics: current and future work prospects; links between work and study; career aspirations; role of the family; factors in personal development; influences in life; and criteria for success.</description>
+			<location xmlns="">
+				<address>
+					<physical type="streetAddress">
+						<addressPart type="text">Melbourne Graduate School of Education, 234 Queensberry Street, University of Melbourne, Victoria 3010 Australia</addressPart>
+					</physical>
+				</address>
+			</location>
+			<subject type="anzsrc-for" xmlns="">1608</subject>
+			<relatedObject xmlns="">
+				<key>DCB0002</key>
+				<relation type="isManagedBy"></relation>
+			</relatedObject>
+		</collection>
+		<collection type="dataset" xmlns="http://ands.org.au/standards/rif-cs/registryObjects">
+			<identifier type="local">DCB0060</identifier>
+			<name type="primary">
+				<namePart>Wave 10 Qualitative Life Patterns Project</namePart>
+			</name>
+			<coverage>
+				<temporal>
+					<date type="dateFrom" dateFormat="W3C">2006</date>
+					<date type="dateTo" dateFormat="W3C">2006</date>
+				</temporal>
+			</coverage>
+			<relatedObject>
+				<key>DCB0029</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<description type="full">This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 10, 10 participants from the Wave 10 survey, aged about 33 years, were interviewed on the following topics: work and study history; relationships; lifestyle and lifestyle aspirations; travel; accommodation; values; and role of family.</description>
+			<location xmlns="">
+				<address>
+					<physical type="streetAddress">
+						<addressPart type="text">Melbourne Graduate School of Education, 234 Queensberry Street, University of Melbourne, Victoria 3010 Australia</addressPart>
+					</physical>
+				</address>
+			</location>
+			<subject type="anzsrc-for" xmlns="">1608</subject>
+			<relatedObject xmlns="">
+				<key>DCB0002</key>
+				<relation type="isManagedBy"></relation>
+			</relatedObject>
+		</collection>
+		<collection type="dataset" xmlns="http://ands.org.au/standards/rif-cs/registryObjects">
+			<identifier type="local">DCB0063</identifier>
+			<name type="primary">
+				<namePart>Wave 2B Qualitative Life Patterns Project</namePart>
+			</name>
+			<coverage>
+				<temporal>
+					<date type="dateFrom" dateFormat="W3C">2007</date>
+					<date type="dateTo" dateFormat="W3C">2007</date>
+				</temporal>
+			</coverage>
+			<relatedObject>
+				<key>DCB0040</key>
+				<relation type="hasPart"></relation>
+			</relatedObject>
+			<description type="full">This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 2B, 30 participants from the Wave 2B survey, aged about 19 years, were interviewed on the following topics: experiences at school; experience of further study; long-term plans; current work; living arrangements; health and wellbeing; and sport and leisure.</description>
+			<location xmlns="">
+				<address>
+					<physical type="streetAddress">
+						<addressPart type="text">Melbourne Graduate School of Education, 234 Queensberry Street, University of Melbourne, Victoria 3010 Australia</addressPart>
+					</physical>
+				</address>
+			</location>
+			<subject type="anzsrc-for" xmlns="">1608</subject>
+			<relatedObject xmlns="">
+				<key>DCB0002</key>
+				<relation type="isManagedBy"></relation>
+			</relatedObject>
+		</collection>
+		<collection type="dataset" xmlns="http://ands.org.au/standards/rif-cs/registryObjects">
+			<identifier type="local">DCB0064</identifier>
+			<name type="primary">
+				<namePart>Wave 4 Qualitative Life Patterns Project</namePart>
+			</name>
+			<coverage>
+				<temporal>
+					<date type="dateFrom" dateFormat="W3C">2008</date>
+					<date type="dateTo" dateFormat="W3C">2009</date>
+				</temporal>
+			</coverage>
+			<relatedObject>
+				<key>DCB0040</key>
+				<relation type="hasPart"></relation>
+			</relatedObject>
+			<description type="full">This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 4, 50 participants from the Wave 4 survey, aged about 20 years, were interviewed on the following topics: progress during the past year; advice for others; whether plans for this year changed; plans for five and ten years' time; likelihood of achieving goals; and factors influencing future plans.</description>
+			<location xmlns="">
+				<address>
+					<physical type="streetAddress">
+						<addressPart type="text">Melbourne Graduate School of Education, 234 Queensberry Street, University of Melbourne, Victoria 3010 Australia</addressPart>
+					</physical>
+				</address>
+			</location>
+			<subject type="anzsrc-for" xmlns="">1608</subject>
+			<relatedObject xmlns="">
+				<key>DCB0002</key>
+				<relation type="isManagedBy"></relation>
+			</relatedObject>
+		</collection>
+		<collection type="dataset" xmlns="http://ands.org.au/standards/rif-cs/registryObjects">
+			<identifier type="local">DCB0065</identifier>
+			<name type="primary">
+				<namePart>Wave 6 Qualitative Life Patterns Project</namePart>
+			</name>
+			<coverage>
+				<temporal>
+					<date type="dateFrom" dateFormat="W3C">2010</date>
+					<date type="dateTo" dateFormat="W3C">2011</date>
+				</temporal>
+			</coverage>
+			<relatedObject>
+				<key>DCB0040</key>
+				<relation type="hasPart"></relation>
+			</relatedObject>
+			<description type="full">This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 6, 52 participants from the Wave 6 survey, aged about 22 years, were interviewed. They were interviewed on the following topics: future study plans; events of the previous year; advice for others; relationship between work, study and rest of life; whether plans for the current year had changed; accommodation; recreation; plans for five and ten years' time; factors influencing future plans; likelihood of achieving goals; family support; social life; relationships; and health and fitness.</description>
+			<location xmlns="">
+				<address>
+					<physical type="streetAddress">
+						<addressPart type="text">Melbourne Graduate School of Education, 234 Queensberry Street, University of Melbourne, Victoria 3010 Australia</addressPart>
+					</physical>
+				</address>
+			</location>
+			<subject type="anzsrc-for" xmlns="">1608</subject>
+			<relatedObject xmlns="">
+				<key>DCB0002</key>
+				<relation type="isManagedBy"></relation>
+			</relatedObject>
+		</collection>
+		<collection type="dataset" xmlns="http://ands.org.au/standards/rif-cs/registryObjects">
+			<identifier type="local">DCB0076</identifier>
+			<name type="primary">
+				<namePart>Wave 12 Life Patterns Project</namePart>
+			</name>
+			<coverage>
+				<temporal>
+					<date type="dateFrom" dateFormat="W3C">2011</date>
+					<date type="dateTo" dateFormat="W3C">2011</date>
+				</temporal>
+			</coverage>
+			<relatedObject>
+				<key>DCB0029</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<description type="full">Life Patterns is a longitudinal study. This data was collected as part of the Life Patterns project based at the Youth Research Centre, the University of Melbourne. In Wave 12, 284 participants, aged about 38 years completed a survey. The questionnaire contained 38 questions covering the following topics: current study status, qualifications, study history and plans, type of employment, job conditions, living arrangements, family and parenting, how time is used, life satisfactions and health and wellbeing.</description>
+			<location xmlns="">
+				<address>
+					<physical type="streetAddress">
+						<addressPart type="text">Melbourne Graduate School of Education, 234 Queensberry Street, University of Melbourne, Victoria 3010 Australia</addressPart>
+					</physical>
+				</address>
+			</location>
+			<subject type="anzsrc-for" xmlns="">1608</subject>
+			<relatedObject xmlns="">
+				<key>DCB0002</key>
+				<relation type="isManagedBy"></relation>
+			</relatedObject>
+		</collection>
+		<collection type="dataset" xmlns="http://ands.org.au/standards/rif-cs/registryObjects">
+			<identifier type="local">DCB0077</identifier>
+			<name type="primary">
+				<namePart>Wave 7 Life Patterns Project</namePart>
+			</name>
+			<coverage>
+				<temporal>
+					<date type="dateFrom" dateFormat="W3C">2011</date>
+					<date type="dateTo" dateFormat="W3C">2011</date>
+				</temporal>
+			</coverage>
+			<relatedObject>
+				<key>DCB0040</key>
+				<relation type="isAssoicatedWith"></relation>
+			</relatedObject>
+			<description type="full">Life Patterns is a longitudinal study. This data was collected as part of the Life Patterns project based at the Youth Research Centre, the University of Melbourne. In Wave 7, 722 participants aged about 23 years completed a survey. The questionnaire contained 53 questions covering current residence; recent activities; relationships; financial supports; study status; factors affecting study; combining work and study; employment status; work future; disability; positive aspects of life; activities in five years' time; health and wellbeing; and attitudes towards the future.</description>
+			<location xmlns="">
+				<address>
+					<physical type="streetAddress">
+						<addressPart type="text">Melbourne Graduate School of Education, 234 Queensberry Street, University of Melbourne, Victoria 3010 Australia</addressPart>
+					</physical>
+				</address>
+			</location>
+			<subject type="anzsrc-for" xmlns="">1608</subject>
+			<relatedObject xmlns="">
+				<key>DCB0002</key>
+				<relation type="isManagedBy"></relation>
+			</relatedObject>
+		</collection>
+	</mu:rifcsData>
+</mu:root>

@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:vivo="http://vivoweb.org/ontology/core#"
+         xmlns:m2r="http://www.versi.edu.au/projects/dc3/murifcs2rdf"
+         xmlns="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rifcs="http://ands.org.au/standards/rif-cs/registryObjects">
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004855">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#ResearchRegistry"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">EOAS_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Encyclopedia of Australian Science</rdfs:label>
+      <vivo:description>The Encyclopedia of Australian Science is an online register of people, corporations, research institutions, scientific societies and other organisations that have contributed to Australia's scientific, technological and medical heritage.
+
+It incorporates the following data on people and organisations: name; alternative names; date and place of birth and death if known; occupations or fields of specialisation; a summary note outlining their life and work; a timeline of career positions or events; a list of other registered people, organisations and archival holdings and published resources they are connected to.
+
+The registry is currently managed by the eScholarship Research Centre at the University of Melbourne. The registry was formed in February 2010 with the amalgamation of two previously separate databases, Bright Sparcs (1994-2010) and Australian Science at Work (1999-2010).</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">Except where otherwise stated, content on this site is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Australia License.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">P004855</ands:digitalDataReference>
+      <bibo:uri xmlns:bibo="http://purl.org/ontology/bibo/">http://www.eoas.info</bibo:uri>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/EOAS_OHRMP004855/location1"/>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/EOAS_OHRMA002361"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/220206"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/EOAS_OHRMP004855/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004855/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, Level 2, Thomas Cherry Building, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004855/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/EOAS_OHRMP004855/start"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004855/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2010</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004856">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#ResearchRegistry"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">EOAS_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Bright Sparcs</rdfs:label>
+      <vivo:description>Bright Sparcs was an online register of people involved in the development of science, technology, engineering and medicine in Australia, including references to their archival materials and bibliographic resources.
+
+The registry was first conceived and managed by the Australian Science Archives Project (1994-1999). It was subsequently managed by its successor organisations, the Australian Science and Technology Heritage Centre (1999-2006) and the eScholarship Research Centre (from 2007 onwards) at the University of Melbourne.
+
+In February 2010, Bright Sparcs and the Australian Science at Work database were amalgamated to create the basis of the Encyclopedia of Australian Science.
+
+When the register was established its parameters were to register the names and existing archival records of influential Australian scientists. As time progressed technological capacity increased and the potential for wider data parameters was realised. By the time of its closure the register included the following data on influential Australian scientists: name; alternate names; date and place of birth and death if known; occupations or fields of specialisation; a summary note outlining their life and work; a timeline of career positions; a list of other registered people, organisations and archival holdings and published resources they are connected to.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">Except where otherwise stated, content on this site is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Australia License.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">P004856</ands:digitalDataReference>
+      <bibo:uri xmlns:bibo="http://purl.org/ontology/bibo/">http://www.eoas.info/bib/ASBS01939.htm</bibo:uri>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/EOAS_OHRMP004856/location1"/>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/EOAS_OHRMA002361"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/220206"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/EOAS_OHRMP004856/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004856/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, Level 2, Thomas Cherry Building, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004856/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/EOAS_OHRMP004856/start"/>
+      <vivo:end rdf:resource="dcExport://dc3central/EOAS_OHRMP004856/end"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004856/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1994</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004856/end">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2010</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004857">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#ResearchRegistry"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">EOAS_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Australian Science at Work</rdfs:label>
+      <vivo:description>Australian Science at Work was a registry that was developed to complement the data held within the registry called Bright Sparcs. Australian Science at Work is a national historic register of industries, corporations, research institutions, scientific societies and other organisations.
+
+In February 2010, Bright Sparcs and the Australian Science at Work database were amalgamated to create the basis of the Encyclopedia of Australian Science.
+
+The registry was initially a project of the Australian Science and Technology Heritage Centre (1999-2006) and was subsequently managed by its successor organisation the eScholarship Research Centre at the University of Melbourne.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">Except where otherwise stated, content on this site is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Australia License.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">P004857</ands:digitalDataReference>
+      <bibo:uri xmlns:bibo="http://purl.org/ontology/bibo/">http://www.eoas.info/bib/ASBS01940.htm</bibo:uri>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/EOAS_OHRMP004857/location1"/>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/EOAS_OHRMA002361"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/220206"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/EOAS_OHRMP004857/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004857/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, Level 2, Thomas Cherry Building, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004857/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/EOAS_OHRMP004857/start"/>
+      <vivo:end rdf:resource="dcExport://dc3central/EOAS_OHRMP004857/end"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004857/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1999</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004857/end">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2010</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004858">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">EOAS_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Australian Scientists in History</rdfs:label>
+      <vivo:description>This dataset is the outcome of research that began in 1985 and is ongoing. It encompasses the biographical and professional profiles of scientists who worked in the fields of science and technology in Australia, between the mid-19th century and current day.
+
+Data collected on the scientists includes: name and alternative names; date and place of birth and death, if known; occupations or fields of specialisation; a summary note outlining their life and work; a timeline of career positions; reference to related people, organisations and archival holdings; and a list of relevant published resources.
+
+The data was structured to comply with ISAAR (CPF) guidelines.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">Except where otherwise stated, content on this site is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Australia License.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">P004858</ands:digitalDataReference>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/EOAS_OHRMP004858/location1"/>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/EOAS_OHRMA002361"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/EOAS_OHRMP004855"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/220206"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/EOAS_OHRMP004858/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004858/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, Level 2, Thomas Cherry Building, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004858/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/EOAS_OHRMP004858/start"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004858/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1985</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004859">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">EOAS_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Australian Scientific Organisations</rdfs:label>
+      <vivo:description>This dataset is the outcome of research that began in 1985 and is ongoing. It describes the historical details of thousands of organisations, societies and corporate bodies with significance to the history of Australian science.
+
+Parameters of the data collected are as follows: Name and alternative names, date and place of establishment and closure - if applicable, summary of history and events, timeline of previous and subsequent organisations, list of related organisations and individuals and list of relevant published resources.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">Except where otherwise stated, content on this site is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Australia License.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">P004859</ands:digitalDataReference>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/EOAS_OHRMP004859/location1"/>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/EOAS_OHRMA002361"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/EOAS_OHRMP004855"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/220206"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/EOAS_OHRMP004859/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004859/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, Level 2, Thomas Cherry Building, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004859/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/EOAS_OHRMP004859/start"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004859/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1999</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004860">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">EOAS_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Australian Scientific Archives and Collections</rdfs:label>
+      <vivo:description>This dataset is the product of research that began in 1985 and is ongoing. It contains data on a large number of collections and archival resources that are significant to the history of Australian science, whether they be specimen collections or the personal papers of Australian scientists.
+
+The parameters of the data on each collection are as follows: date range; repository location; a list of related people, organisations and published resources, registered in the same database; and details on accessing the collections.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">Except where otherwise stated, content on this site is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Australia License.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">P004860</ands:digitalDataReference>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/EOAS_OHRMP004860/location1"/>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/EOAS_OHRMA002361"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/EOAS_OHRMP004855"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/220206"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/EOAS_OHRMP004860/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004860/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, Level 2, Thomas Cherry Building, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004860/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/EOAS_OHRMP004860/start"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004860/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1985</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004861">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">EOAS_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Bibliography of Australian Science, Technology and Medicine</rdfs:label>
+      <vivo:description>This dataset registers many thousands of publications that are significant to the history of Australian science, technology and medicine, all of which were used as reference in compiling the Encyclopedia of Australian Science. The sources range from books and scientific journals to websites and newspapers.
+
+Each publication is profiled along the following parameters: author, title, date and place of publication, subject, description, source, and for online resources web address and date of access.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">Except where otherwise stated, content on this site is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Australia License.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">P004861</ands:digitalDataReference>
+      <bibo:uri xmlns:bibo="http://purl.org/ontology/bibo/">http://www.eoas.info/bib/browsea_bib.htm</bibo:uri>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/EOAS_OHRMP004861/location1"/>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/EOAS_OHRMA002361"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/EOAS_OHRMP004855"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/220206"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/EOAS_OHRMP004861/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004861/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, Level 2, Thomas Cherry Building, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004861/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/EOAS_OHRMP004861/start"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004861/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1995</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004862">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">EOAS_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Australian Science Archives by Repository</rdfs:label>
+      <vivo:description>This dataset is the outcome of research that commenced in 1985 and is ongoing. The dataset contains information on the location and subject matter of science-related archival materials in Australia.
+
+The dataset registers organisations and institutions that act as archival repositories and the archival collections they hold.
+
+Each archival collection is described along the following parameters: collection title; name of repository; date range of collection; description of contents; quantity (e.g. number of boxes); access details; a list of related people, organisations and published resources which are registered in the same database.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">Except where otherwise stated, content on this site is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Australia License.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">P004862</ands:digitalDataReference>
+      <bibo:uri xmlns:bibo="http://purl.org/ontology/bibo/">http://www.eoas.info/browsea_repository.htm</bibo:uri>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/EOAS_OHRMP004862/location1"/>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/EOAS_OHRMA002361"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/EOAS_OHRMP004855"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/220206"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/EOAS_OHRMP004862/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004862/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, Level 2, Thomas Cherry Building, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004862/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/EOAS_OHRMP004862/start"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004862/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1985</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004863">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">EOAS_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Images of Australian Science</rdfs:label>
+      <vivo:description>This dataset is the outcome of research conducted in compiling Bright Sparcs and Australian Science at Work databases. The dataset is held within the database of the Encyclopedia of Australia Science and contains a growing amount of images of Australian scientists and documents significant in telling the history of Australian science.
+
+Each image or 'digital object' is accompanied by the following data, where known: title, description and a list of the database-registered persons who the image depicts or relates to.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">Except where otherwise stated, content on this site is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Australia License.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">P004863</ands:digitalDataReference>
+      <bibo:uri xmlns:bibo="http://purl.org/ontology/bibo/">http://www.eoas.info/browsea_dobjects.htm</bibo:uri>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/EOAS_OHRMP004863/location1"/>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/EOAS_OHRMA002361"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/EOAS_OHRMP004855"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/220206"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/EOAS_OHRMP004863/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004863/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, Level 2, Thomas Cherry Building, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004863/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/EOAS_OHRMP004863/start"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004863/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2003</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004864">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">EOAS_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Women in Australian Science</rdfs:label>
+      <vivo:description>This dataset is the result of research that began in 1985 and is ongoing. The dataset contains profiles of women who were influential in the fields of science, technology and medicine in Australia from 1836 to current day.
+
+ The biographical and professional data in each individual's entry are as follows: Name and alternative names, date and place of birth and death if known, occupations or fields of specialisation, a summary note outlining their life and work, a timeline of career positions, reference to related people, organisations and archival holdings and a list of published resources.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">Except where otherwise stated, content on this site is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Australia License.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">P004864</ands:digitalDataReference>
+      <bibo:uri xmlns:bibo="http://purl.org/ontology/bibo/">http://www.austehc.unimelb.edu.au/wisa/wisa.html</bibo:uri>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/EOAS_OHRMP004864/location1"/>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/EOAS_OHRMA002361"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/EOAS_OHRMP004855"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/220206"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/EOAS_OHRMP004864/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004864/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, Level 2, Thomas Cherry Building, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004864/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/EOAS_OHRMP004864/start"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004864/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1985</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004865">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">EOAS_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Men in Australian Science</rdfs:label>
+      <vivo:description>This dataset contains profiles of men and their achievements and influences in the scientific and technological professions throughout the 19th and 20th centuries.
+
+ The biographical and professional details listed in each individual's entry are as follows: Name and alternative names, date and place of birth and death if known, occupations or fields of specialisation, a summary note outlining their life and work, a timeline of career positions, reference to related people, organisations and archival holdings and a list of published resources.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">Except where otherwise stated, content on this site is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Australia License.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">P004865</ands:digitalDataReference>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/EOAS_OHRMP004865/location1"/>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/EOAS_OHRMA002361"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/EOAS_OHRMP004855"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/220206"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/EOAS_OHRMP004865/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004865/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, Level 2, Thomas Cherry Building, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004865/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/EOAS_OHRMP004865/start"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004865/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1985</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004866">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">EOAS_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Cooperative Research Centres</rdfs:label>
+      <vivo:description>This dataset contains data on the Cooperative Research Centres (CRCs) created since the establishment of the Commonwealth-supported Cooperative Research Centre Program in 1990. It aims to capture and chart the history and evolution of this program.
+
+The profile of each CRC contains the following data: Name and alternative names; date of establishment and closure; functions, or disciplines it relates to; web address; a brief summary of the CRC's work; a timeline of previous and subsequent related CRCs and a list of other related organisations.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">Except where otherwise stated, content on this site is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Australia License.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">P004866</ands:digitalDataReference>
+      <bibo:uri xmlns:bibo="http://purl.org/ontology/bibo/">http://www.eoas.info/biogs/A001898b.htm</bibo:uri>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/EOAS_OHRMP004866/location1"/>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/EOAS_OHRMA002361"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/EOAS_OHRMP004855"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/220206"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/EOAS_OHRMP004866/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004866/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, Level 2, Thomas Cherry Building, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004866/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/EOAS_OHRMP004866/start"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004866/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1994</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004867">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">EOAS_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Chemistry in Australia Bibliography</rdfs:label>
+      <vivo:description>This dataset is outcome of ongoing research conducted by David Collins (Adjunct Honorary Senior Research Fellow, School of Chemistry, Monash University &amp; Honorary Senior Fellow, School of Philosophy, Anthropology and Social Enquiry (History and Philosophy of Science Group), University of Melbourne) in order to establish a comprehensive register of significant texts relating to the history of Chemistry in Australia.
+
+Collins is currently compiling the next set of data to be included in this dataset, a bibliography of works published between 1900 and 1945.
+
+Each publication is profiled along the following parameters: author, title, date and place of publication, subject, description, source, and for online resources web address and date of access.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">Except where otherwise stated, content on this site is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Australia License.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">P004867</ands:digitalDataReference>
+      <bibo:uri xmlns:bibo="http://purl.org/ontology/bibo/">http://www.eoas.info/ciab.html</bibo:uri>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/EOAS_OHRMP004867/location1"/>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/EOAS_OHRMA002361"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/EOAS_OHRMP004855"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/220206"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/EOAS_OHRMP004867/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004867/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, Level 2, Thomas Cherry Building, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004867/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/EOAS_OHRMP004867/start"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004867/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2006</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004868">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">EOAS_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Technology in Australia</rdfs:label>
+      <vivo:description>This data set contains profiles people and organisations influential in Australian technological development, as described in the resource &lt;i&gt;Technology in Australia1788-1988&lt;/i&gt;. It serves as a document of the history of technology and its development and makes links between prominent practitioners and organisations.
+
+ The biographical and professional details listed in each individual's entry are as follows: Name and alternative names, date and place of birth and death if known, occupations or fields of specialisation, a summary note outlining their life and work, a timeline of career positions, reference to related people, organisations and archival holdings and a list of published resources.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">Except where otherwise stated, content on this site is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Australia License.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">P004868</ands:digitalDataReference>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/EOAS_OHRMP004868/location1"/>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/EOAS_OHRMA002361"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/EOAS_OHRMP004855"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/220206"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/EOAS_OHRMP004868/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004868/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, Level 2, Thomas Cherry Building, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004868/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/EOAS_OHRMP004868/start"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004868/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1999</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004869">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">EOAS_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Australian Ornithologists</rdfs:label>
+      <vivo:description> This dataset is the result of research that began in 1985 and is ongoing. The dataset contains biographical and professional profiles of significant Australian ornithologists.
+
+ The biographical and professional details listed in each individual's entry are as follows: Name and alternative names, date and place of birth and death if known, occupations or fields of specialisation, a summary note outlining their life and work, a timeline of career positions, reference to related people, organisations and archival holdings and a list of published resources.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">Except where otherwise stated, content on this site is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Australia License.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">P004869</ands:digitalDataReference>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/EOAS_OHRMP004869/location1"/>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/EOAS_OHRMA002361"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/EOAS_OHRMP004855"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/220206"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/EOAS_OHRMP004869/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004869/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, Level 2, Thomas Cherry Building, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004869/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/EOAS_OHRMP004869/start"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004869/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1985</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004870">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">EOAS_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Federation and Meteorology</rdfs:label>
+      <vivo:description>Federation and Meteorology is an online resource drawing on the rich and authoritative historical resources of the Bureau of Meteorology, publishing on the Web for the first time major articles on meteorology that have been difficult to access until now.
+
+Through the web-publication of seminal meteorological articles, totalling over 600,00 words, the story of the establishment of the Australian Bureau of Meteorology has been told.
+
+ The project was generously funded by the National Council for the Centenary of Federation, based on the observation that the emergence of Australian meteorology as a science parallels closely the story of Federation and was both influenced by and contributed to the ambition of nationhood.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">Except where otherwise stated, content on this site is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Australia License.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">P004870</ands:digitalDataReference>
+      <bibo:uri xmlns:bibo="http://purl.org/ontology/bibo/">http://www.austehc.unimelb.edu.au/fam/</bibo:uri>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/EOAS_OHRMP004870/location1"/>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/EOAS_OHRMA002361"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/EOAS_OHRMP004855"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/220206"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/EOAS_OHRMP004870/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004870/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, Level 2, Thomas Cherry Building, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004870/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/EOAS_OHRMP004870/start"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004870/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2001</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004871">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">EOAS_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Presidents and Notable Fellows of the Royal Society of Victoria</rdfs:label>
+      <vivo:description>This dataset contains data highlighting the achievements of former presidents and fellows of the Royal Society of Victoria established in 1859. An exhibition displaying this data &lt;i&gt; Science and the Making of Victoria&lt;/i&gt; was created in celebration of the Centenary of Federation, 2001.
+
+ The biographical and professional details listed in each individual's entry are as follows: Name and alternative names, date and place of birth and death if known, occupations or fields of specialisation, a summary note outlining their life and work, a timeline of career positions, reference to related people, organisations and archival holdings and a list of published resources.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">Except where otherwise stated, content on this site is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Australia License.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">P004871</ands:digitalDataReference>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/EOAS_OHRMP004871/location1"/>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/EOAS_OHRMA002361"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/EOAS_OHRMP004855"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/220206"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/EOAS_OHRMP004871/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004871/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, Level 2, Thomas Cherry Building, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004871/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/EOAS_OHRMP004871/start"/>
+      <vivo:end rdf:resource="dcExport://dc3central/EOAS_OHRMP004871/end"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004871/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2000</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004871/end">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2001</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004872">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">EOAS_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Research in Victorian Universities 1996-2001</rdfs:label>
+      <vivo:description>This dataset profiles industry-focused research projects that were conducted in Victorian universities between 1996 and 2001.
+
+Data was collected on projects relating to the following Victorian industries:
+
+Advanced Manufacturing Technologies
+Advanced Materials
+Biotechnology (Non-Medical)
+Cleaner Production and Waste Management
+Construction, Infrastructure and Maintenance
+Energy/Alternative Energy
+Food Processing
+Information, Computer and Communication Technologies
+Instrumentation
+Manufacturing Technology
+Medical Biotechnology
+Multimedia
+Ornamental Horticulture
+Packaging
+Sport and Recreation
+Textiles
+Tourism
+
+Data was collected the Victorian Government Department of Innovation, Industry and Rural Development from the following Victorian Universities: Deakin University; La Trobe University; Monash University; RMIT University; Swinburne University; The University of Ballarat; The University of Melbourne; and Victoria University.
+
+The data was then published online in a way that illustrated each institution's involvement in each industry area. The project descriptions, listed by discipline, included the following data: Research project name; name of chief researcher; and Field of Research codes</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">Except where otherwise stated, content on this site is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Australia License.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">P004872</ands:digitalDataReference>
+      <bibo:uri xmlns:bibo="http://purl.org/ontology/bibo/">http://www.austehc.unimelb.edu.au/asaw/exhib/awvs/awvs.htm</bibo:uri>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/EOAS_OHRMP004872/location1"/>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/EOAS_OHRMA002361"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/EOAS_OHRMP004855"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/220206"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/EOAS_OHRMP004872/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004872/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, Level 2, Thomas Cherry Building, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004872/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/EOAS_OHRMP004872/start"/>
+      <vivo:end rdf:resource="dcExport://dc3central/EOAS_OHRMP004872/end"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004872/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2000</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004872/end">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2001</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004903">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">EOAS_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>CSIRO Research Divisions Over Time</rdfs:label>
+      <vivo:description>This dataset is the result of research that began in 1985 and is ongoing. The dataset contains details on the various research divisions and flagships established since the inception of the CSIR in 1926, through to its current day incarnation, the CSIRO.
+
+The data was collected on the premise of providing a comprehensive map of the CSIRO and its subsidiary organisations. As it stands the dataset is a document of the history and evolution of the CSIR, CSIRO's and thus the Commonwealth Government's research foci. It serves as a reflection of the changing issues facing Australian industry and society and how research was used to address them.
+
+The parameters of data collected on each division or research facility are as follows:
+Name of facility or division; dates of establishment and closure, where applicable; facility location; facility web address; note summarising work of facility; list of related people and organisations - previous, subsequent, superior or subordinate; and a list of relevant publications.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">Except where otherwise stated, content on this site is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Australia License.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">P004903</ands:digitalDataReference>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/EOAS_OHRMP004903/location1"/>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/EOAS_OHRMA002361"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/EOAS_OHRMP004855"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/220206"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/EOAS_OHRMP004903/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004903/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, Level 2, Thomas Cherry Building, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004903/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/EOAS_OHRMP004903/start"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004903/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1985</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004904">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">EOAS_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Notable Fellows of the Australian Academy of Science</rdfs:label>
+      <vivo:description>This dataset is the result of research that began in 1985 and is ongoing. It contains professional and biographical profiles of Australian Academy of Science (1954-) Fellows influential in the fields of science, technology and medicine. The many hundreds of fellows profiled create a picture of the scientific landscape in Australia and the issues that were faced and addressed by our most notable scientists.
+
+It incorporates the following data relating to each Fellow: name; alternative names; date and place of birth and death if known; occupations or fields of specialisation; a summary note outlining their life and work; a timeline of career positions or events; a list of other registered people, organisations and archival holdings and published resources they are connected to.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">Except where otherwise stated, content on this site is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Australia License.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">P004904</ands:digitalDataReference>
+      <vivo:mailingAddress rdf:resource="dcExport://dc3central/EOAS_OHRMP004904/location1"/>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/EOAS_OHRMA002361"/>
+      <ands:isPartOf xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                     rdf:resource="dcExport://dc3central/EOAS_OHRMP004855"/>
+      <vivo:hasSubjectArea rdf:resource="http://purl.org/asc/1297.0/2008/for/220206"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/EOAS_OHRMP004904/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004904/location1">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Address"/>
+      <rdfs:label>eScholarship Research Centre, Level 2, Thomas Cherry Building, The University of Melbourne, Parkville, VIC 3010</rdfs:label>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004904/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/EOAS_OHRMP004904/start"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMP004904/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1985</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/EOAS_OHRMA002361">
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">EOAS_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+      <rdfs:label>eScholarship Research Centre</rdfs:label>
+      <vivo:description>The University of Melbourne eScholarship Research Centre (ESRC) functions both as an academic centre and a focus of infrastructure design testing and deployment. It was created from the Australian Science and Technology Heritage Centre and innovative staff in Information Services, to work collaboratively with researchers, research teams and projects across the University. The Centre comprises a mixture of academic researchers, archivists, librarians, systems analysts, technology developers and programmers, project managers, information technology support staff, web design and useability experts and as a rule these are not separate individuals.</vivo:description>
+      <dcterms:rights xmlns:dcterms="http://purl.org/dc/terms/">Except where otherwise stated, content on this site is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Australia License.</dcterms:rights>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">A002361</ands:digitalDataReference>
+      <bibo:uri xmlns:bibo="http://purl.org/ontology/bibo/">http://www.esrc.unimelb.edu.au</bibo:uri>
+      <vivo:linkURI>http://www.esrc.unimelb.edu.au</vivo:linkURI>
+   </rdf:Description>
+</rdf:RDF>

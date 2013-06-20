@@ -1,0 +1,1317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mu:root xmlns:rifcs="http://ands.org.au/standards/rif-cs/registryObjects"
+         xmlns:mu="http://rdr.unimelb.edu.au/schema/murifcs"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         fromLab="University of Melbourne"
+         xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects http://services.ands.org.au/documentation/rifcs/1.2.0/schema/registryObjects.xsd             http://rdr.unimelb.edu.au/schema/murifcs http://rdr.unimelb.edu.au/schema/muRIFCS.xsd">
+   <mu:rifcsData>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">AWE4749</identifier>
+         <name type="primary">
+            <namePart>She's Game: Women Making Australian Sporting History, The Australian Women's Register</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">1860</date>
+            </temporal>
+         </coverage>
+         
+         <description type="full">She's Game: Women Making Australian Sporting History contains data about the achievements of Australian women who have contributed to Australian sporting life and culture. Short historical notes, detailing the experiences of Athletes, coaches, administrators, journalists and volunteers of over 100 women, teams and organisations have been entered into a searchable database. Some contain links to further bibliographical and archival resources. Longer essays based on original research have been prepared about a selection of women and organisations.
+
+The project was funded in 2006-2007 by the Australian Government through the Women's Leadership and Development Programme.
+
+The following data is available: short essays about women, teams and organisations; alphabetical lists of athletes, organisations, coaches and administrators; alphabetical lists of women and organisations by sporting activity; alphabetical lists of archival and published resources; alphabetical lists of Olympic and Commonwealth Games medallists.
+
+Dr Nicola Henningham was principal researcher for the She's Game project. Other researchers included Joanne Evans, Helen Morgan and Ailie Smith.</description>
+         <description type="rights">She's Game is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</description>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="text">eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</addressPart>
+               </physical>
+            </address>
+                  </location>
+
+         <location>
+            <address>
+               <electronic type="url">
+                  <value>http://www.womenaustralia.info/exhib/sg/sport-home.html</value>
+               </electronic>
+            </address>
+                  </location>
+
+         <subject type="anzsrc-for">210303</subject>
+         <relatedObject>
+            <key>E000016</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>E000015</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">AWE4750</identifier>
+         
+         <name type="primary">
+            <namePart>The Women's Pages: Australian Women and Journalism since 1850, The Australian Women's Register</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">1850</date>
+               <date type="dateTo" dateFormat="W3C">1850</date>
+            </temporal>
+         </coverage>
+         
+         <description type="full">The Women's Pages: Australian Women and Journalism since 1850 uses secondary sources and primary research to highlight the achievements of Australian women journalists and their contributions to the nation's public life and culture. Women from around the nation, across time and all forms of media, have been included. A list of women Walkley Award winners is included to demonstrate the range and quality of women's journalism that has been produced since the inaugural awards in 1956, a time that roughly coincides with the emergence of the second wave feminist movement.
+
+Short historical notes, entered into a searchable database, have been prepared for over 100 women. Some contain links to further bibliographical and archival resources. Longer essays based on original research have been prepared about a selection of women.
+
+The following data is available: essays and biographical notes about women journalists; alphabetical list of journalists sorted by media type and era in which they were active; alphabetical lists of Walkley Award Winners; alphabetical lists of archival and published resources; selected images.
+
+Dr Nicola Henningham was principal researcher for The Women's Pages. Other researchers included Joanne Evans, Barbara Lemon, Helen Morgan and Ailie Smith.
+
+The project was funded by the Copyright Agency Limited Cultural Fund.</description>
+         <description type="rights">The Women's Pages is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</description>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="text">eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</addressPart>
+               </physical>
+            </address>
+                  </location>
+         <location>
+            <address>
+               <electronic type="url">
+                  <value>http://www.womenaustralia.info/exhib/cal/cal-home.html</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">210303</subject>
+         <relatedObject>
+            <key>E000016</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>E000015</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">AWE4751</identifier>
+         
+         <name type="primary">
+            <namePart>Australian Women in War, The Australian Women's Register</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">1900</date>
+            </temporal>
+         </coverage>
+         
+         <description type="full">Australian Women in War consists of lists of Australian women and women's organisations who participated and assisted in the Boer War, World Wars and subsequent conflicts, with links to biographical, bibliographical and archival information about a small selection of them.
+
+Funding for the project which created this dataset was provided by the Australian Government Department of Veterans' Affairs and the Office of the Status of Women.
+
+Stage one of this project commenced in April 2002 when the Department of Veterans' Affairs invited ex-service women's and related associations to form a working group. Many of the military and civilian associations were established during and after World War II. Association members, along with representatives from consulting institutions, met in October and November 2002 and commenced the task of recording the history of the associations.
+
+In collaboration with the Commemorations Branch of the Department of Veterans' Affairs it was decided that the project should trace the involvement of women during Australia's military conflicts. The initial funding from the Department of Veterans' Affairs Saluting Their Service program covered entries nominated by the working group. The Office of the Status of Women provided additional funding which enabled an Australia wide focus.
+
+At the working group meetings the consulting institutions' representatives worked with association members and completed 'capturing their stories' forms, which focused not only on their service career but also the periods before and after. It was from the information obtained from these forms that the project staff compiled entries. Members were encouraged to write their own entry and also those of other members of their service or association. Copies of the form were also distributed to branches of the associations throughout Australia. A range of sources was used to supplement the detail provided, in particular records of the consulting institutions and other published resources.</description>
+         <description type="rights">Australian Women in War is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</description>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="text">eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</addressPart>
+               </physical>
+            </address>
+                  </location>
+         <location>
+            <address>
+               <electronic type="url">
+                  <value>http://www.womenaustralia.info/exhib/war/war.html</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">210303</subject>
+         <relatedObject>
+            <key>E000016</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>E000015</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">AWE4752</identifier>
+         
+         <name type="primary">
+            <namePart>Unbroken Spirit: Women in Broken Hill, The Australian Women's Register</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">1880</date>
+               <date type="dateTo" dateFormat="W3C">1880</date>
+            </temporal>
+         </coverage>
+         
+         <description type="full">Unbroken Spirit: Women in Broken Hill documents the historical experience of women living in Broken Hill, New South Wales since the city was established. Secondary sources and primary research (using archival materials, including images, and oral interviews) have been used to create an online, searchable database containing biographical notes on over sixty Broken Hill women - past and present - along with information about relevant publications and archival resources, and a rich collection of digital images from the Outback Archives in Broken Hill. Soundbites of interviews with a number of women may be heard online through the exhibition.
+
+Dr Barbara Lemon was the principal researcher and writer for Unbroken Spirit
+
+Funding for this project was provided by the New South Wales Government Office for Women, the Australian Research Council, Monash University and the National Foundation for Australian Women. The Broken Hill City Council provided in-kind support.</description>
+         <description type="rights">Unbroken Spirit is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</description>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="text">eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</addressPart>
+               </physical>
+            </address>
+                  </location>
+         <location>
+            <address>
+               <electronic type="url">
+                  <value>http://www.womenaustralia.info/exhib/bh/bh-home.html</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">210303</subject>
+         <relatedObject>
+            <key>E000016</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>E000015</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">AWE4753</identifier>
+         
+         <name type="primary">
+            <namePart>Putting Skirts on the Sacred Benches, The Australian Women's Register</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">1920</date>
+            </temporal>
+         </coverage>
+         
+         <description type="full">Putting Skirts on the Sacred Benches lists more than 700 women candidates who stood for New South Wales Parliament, recognising their significant contributions and achievements, despite, in most cases, their lack of success. Archival materials and secondary sources have been used to create a searchable database that allows users to: browse alphabetical listings of women candidates; browse women candidates by political party; browse women candidates by seat; browse women candidates by year and browse women candidates by jurisdiction.
+
+Biographical entries about a selection of women have been prepared, some containing links to further bibliographical and archival resources.
+
+Dr Emma Grahame was principal researcher for the project and Rachel Grahame was a research associate for the project.
+
+The project was funded in 2005-2006 by the Sesquicentenary of Responsible Government Committee, an initiative of the New South Wales Government Premier's Department.</description>
+         <description type="rights">Putting Skirts on the Sacred Benches is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</description>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="text">eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</addressPart>
+               </physical>
+            </address>
+                  </location>
+         <location>
+            <address>
+               <electronic type="url">
+                  <value>http://www.womenaustralia.info/exhib/pssb/home.html</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">210303</subject>
+         <relatedObject>
+            <key>E000016</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>E000015</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">AWE4754</identifier>
+         
+         <name type="primary">
+            <namePart>Being Seen and Heard: Migrant Women Organising in Australia, A Documentary History, The Australian Women's Register</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">1920</date>
+            </temporal>
+         </coverage>
+         
+         <description type="full">Being Seen and Heard: Migrant Women Organising in Australia, A Documentary History aggregates and makes accessible to a broad audience, information about culturally and linguistically diverse (CALD) women's records in Australian repositories and private hands. It links research findings (current in 2006) to the Australian Women's Register. Researchers can search for information about a select number of CALD women, their organisations, key events and historical information about the various multicultural communities that they represent.
+
+Dr Nicola Henningham was principal researcher for the project.
+
+Funding for this project was provided by the National Archives of Australia.</description>
+         <description type="rights">Being Seen and Heard: Migrant Women Organising in Australia, A Documentary History is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</description>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="text">eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</addressPart>
+               </physical>
+            </address>
+                  </location>
+         <location>
+            <address>
+               <electronic type="url">
+                  <value>http://www.womenaustralia.info/exhib/bsah/home.html</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">210303</subject>
+         <relatedObject>
+            <key>E000016</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>E000015</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">AWE4755</identifier>
+         
+         <name type="primary">
+            <namePart>Brilliant Ideas and Huge Visions: ABC Radio Australian Rural Women of the Year - 1994-1997, The Australian Women's Register</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">1990</date>
+               <date type="dateTo" dateFormat="W3C">1990</date>
+            </temporal>
+         </coverage>
+         
+         <description type="full">Brilliant Ideas and Huge Visions: ABC Radio Australian Rural Women of the Year - 1994-1997 provides information about women across Australia who were recognised as ABC Radio Rural Women of the Year. Between 1994 and 1997, over 150 women were recgonised at a regional, state or national level. The award was an important first step towards getting rural women the public recognition they so thoroughly deserve.
+
+Users can: read stories about selected winners; browse an alphabetical list of all nominees; browse a list of national winners; browse a list of state winners; browse alphabetical lists of selected archival and published resources. All this information is linked to the Australian women's register.
+
+This exhibition is a project of the National Foundation for Australian Women, in collaboration with the University of Melbourne, as part of the Foundation's ongoing initiative, the Australian Women's Archives Project.
+
+Work on this project was generously funded in 2010 by The Fred P Archer Charitable Trust managed by Trust Company Ltd.
+
+The principal researcher for the project was Dr Nikki Henningham. Ailie Smith and Helen Morgan from the ESRC at the University of Melbourne provided technical support.</description>
+         <description type="rights">Brilliant Ideas and Huge Visions is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</description>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="text">eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</addressPart>
+               </physical>
+            </address>
+                  </location>
+         <location>
+            <address>
+               <electronic type="url">
+                  <value>http://www.womenaustralia.info/exhib/rwya/rwya-home.html</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">210303</subject>
+         <relatedObject>
+            <key>E000016</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>E000015</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">AWE4756</identifier>
+         
+         <name type="primary">
+            <namePart>In Her Gift: Women Philanthropists in Australian History, The Australian Women's Register</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">1860</date>
+            </temporal>
+         </coverage>
+         
+         <description type="full">In Her Gift: Women Philanthropists in Australian History aggregates and makes accessible to a broad audience, research about Australian women's philanthropy and women philanthropists since the mid nineteenth century. It links research findings (current in 2007) to the Australian Women's Register. This project links to a database containing biographical notes on over thirty Australian women philanthropists, along with details of relevant bibliographical and archival resources and a thematic essay.
+
+Users can: browse an alphabetical list of philanthropists; browse alphabetical lists of archival and published resources; browse images and search the register of Australia Women
+
+
+Dr Barbara Lemon was principal researcher for the project.
+
+Funding for this project was provided by the Australian Research Council and the National Foundation for Australian Women</description>
+         <description type="rights">In Her Gift is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</description>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="text">eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</addressPart>
+               </physical>
+            </address>
+                  </location>
+         <location>
+            <address>
+               <electronic type="url">
+                  <value>http://www.womenaustralia.info/exhib/wiph/home.html</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">210303</subject>
+         <relatedObject>
+            <key>E000016</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>E000015</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">AWE4757</identifier>
+         
+         <name type="primary">
+            <namePart>Carrying On The Fight: Women Candidates in Victorian Parliamentary Elections, The Australian Women's Register</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">1924</date>
+            </temporal>
+         </coverage>
+         
+         <description type="full">Carrying On The Fight: Women Candidates in Victorian Parliamentary Elections lists more than 800 women candidates who stood for Victorian Parliament, recognising their significant contributions and achievements, despite, in most cases, their lack of success. Archival materials and secondary sources have been used to create a searchable database that allows users to: browse alphabetical listings of women candidates; browse women candidates by political party; browse women candidates by seat; browse women candidates by year and browse women candidates by jurisdiction. An essay about Aboriginal women's struggle for suffrage rights in Victoria is included.
+
+Biographical entries about a selection of women have been prepared, some containing links to further bibliographical and archival resources.
+
+Dr Rosemary Francis was principal researcher for the project. Ailie Smith and Helen Morgan from the ESRC at the University of Melbourne provided technical support.
+
+This exhibition is a project of the National Foundation for Women as part of the Foundation 's ongoing initiative, the Australian Women's Archives Project.
+Work on this project was funded in 2008 by a Victorian State Government Centenary of Women's Suffrage Grant.
+
+
+The project was funded in 2005-2006 by the Sesquicentenary of Responsible Government Committee, an initiative of the New South Wales Government Premier's Department.</description>
+         <description type="rights">Carrying On The Fight: Women Candidates in Victorian Parliamentary Elections is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</description>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="text">eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</addressPart>
+               </physical>
+            </address>
+                  </location>
+         <location>
+            <address>
+               <electronic type="url">
+                  <value>http://www.womenaustralia.info/exhib/cws/home.html</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">210303</subject>
+         <relatedObject>
+            <key>E000016</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>E000015</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">AWE4758</identifier>
+         
+         <name type="primary">
+            <namePart>Representative Women: Victorian Women Parliamentarians Since 1923, The Australian Women's Register</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">1923</date>
+            </temporal>
+         </coverage>
+         
+         <description type="full">Representative Women: Victorian Women Parliamentarians Since 1923 aggregates and makes accessible to a broad audience, information about Victorian women, past and present, who were elected to both the Federal and State Parliaments. It links research findings (current in 2007) to the Australian Women's Register.
+
+Users can: browse an alphabetical list of parliamentarians; browse a list of Victorian Women Representatives in the State Parliament; browse a list of Victorian Women Representatives in the Federal Parliament and search the register of Australia Women
+
+Dr Rosemary Francis was principal researcher for the project.
+
+This exhibition was created to honour Professor Patricia Grimshaw on her retirement from the History Department at the University of Melbourne in April 2006. As a member of the Board of the National Foundation for Australian Women, she has been an energetic supporter of the Australian Women's Archives Project.</description>
+         <description type="rights">Representative Women: Victorian Women Parliamentarians Since 1923 is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</description>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="text">eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</addressPart>
+               </physical>
+            </address>
+                  </location>
+         <location>
+            <address>
+               <electronic type="url">
+                  <value>http://www.womenaustralia.info/exhib/vp/vp-home.html</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">210303</subject>
+         <relatedObject>
+            <key>E000016</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>E000015</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">AWE4759</identifier>
+         
+         <name type="primary">
+            <namePart>Australian In My Difference: Women And Migration In Australia Since 1945, The Australian Women's Register</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">1945</date>
+            </temporal>
+         </coverage>
+         
+         <description type="full">Australian in My Difference: Women And Migration In Australia Since 1945 publishes the migration stories of sixteen women and lists a selection of support services for CALD women. It was current at the time of the research (2006).
+
+The project was funded in 2006 by the Australian Government: Department of Immigration, Mulicultural and Indigenous Affairs.
+
+Dr Nikki Henningham, Dr Barbara Lemon and Ms Helen Morgan were principal researchers for the project.</description>
+         <description type="rights">Australian In My Difference: Women And Migration In Australia Since 1945 is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</description>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="text">eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</addressPart>
+               </physical>
+            </address>
+                  </location>
+         <location>
+            <address>
+               <electronic type="url">
+                  <value>http://www.womenaustralia.info/exhib/aimd/home.html</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">210303</subject>
+         <relatedObject>
+            <key>E000016</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>E000015</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">AWE4760</identifier>
+         
+         <name type="primary">
+            <namePart>Faith Hope And Charity: Australian Women And Imperial Honours: 1901 - 1989, The Australian Women's Register</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">1901</date>
+            </temporal>
+         </coverage>
+         
+         <description type="full">Faith Hope And Charity: Australian Women And Imperial Honours: 1901 - 1989 lists more than 4000 women recipients of Imperial Honours in Australia during the twentieth century, recognising their significant contributions and achievements. Biographical entries on a selection of women have been prepared, containing links to further bibliographical and archival resources.
+
+Users can: browse women by award;
+browse women by year and browse alphabetical listings of women.
+
+Faith Hope And Charity is a project of the National Foundation for Australian Women as part of the Foundation's ongoing initiative, the Australian Women's Archives Project. It was funded by a 2001-2002 capacity building project grant under the Women's Development Programme administered by the Commonwealth Office of the Status of Women, and published in 2003.</description>
+         <description type="rights">Faith Hope And Charity: Australian Women And Imperial Honours is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</description>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="text">eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</addressPart>
+               </physical>
+            </address>
+                  </location>
+         <location>
+            <address>
+               <electronic type="url">
+                  <value>http://www.womenaustralia.info/exhib/honours/honours.html</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">210303</subject>
+         <relatedObject>
+            <key>E000016</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>E000015</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">AWE4761</identifier>
+         
+         <name type="primary">
+            <namePart>Australian Women In War, The Australian Women's Register</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">1900</date>
+            </temporal>
+         </coverage>
+         
+         <description type="full">Australian Women In War lists Australian women and women's organisations who participated and assisted in the Boer War, World Wars and subsequent conflicts, with links to biographical, bibliographical and archival information about a small selection of them.
+
+The exhibition lists 184 women with biographical resources, 33 organisations with further information and 15 commemorations with further information.
+
+This exhibition is a project of the National Foundation for Australian Women as part of the Foundation's ongoing initiative, the Australian Women's Archives Project. It was funded through the Australian Government's commemorations program &lt;em&gt;Saluting Their Service&lt;/em&gt; administered by the Department of Veterans' Affairs.</description>
+         <description type="rights">Australian Women In War is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</description>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="text">eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</addressPart>
+               </physical>
+            </address>
+                  </location>
+         <location>
+            <address>
+               <electronic type="url">
+                  <value>http://www.womenaustralia.info/exhib/war/war.html</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">210303</subject>
+         <relatedObject>
+            <key>E000016</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>E000015</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">AWE4762</identifier>
+         <identifier type="uri">http://www.austehc.unimelb.edu.au/wisa/wisa.html</identifier>
+         <name type="primary">
+            <namePart>Where Are The Women in Australian Science? The Australian Women's Register</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">1796</date>
+            </temporal>
+         </coverage>
+         
+         <description type="full">Where Are The Women in Australian Science? provides information about women and the roles they played in the history of Australian science, technology and medicine from the earliest periods of European engagement to the present day. The exhibition links to biographical, bibliographical and archival information held in the &lt;em&gt;Encyclopedia of Australian Science&lt;/em&gt; database and allows users to create their own searches. Lists of women can be browsed, according to era and occupation. When the project was launched in 2003, there were 620 women scientists listed.
+
+This exhibition is a project of the National Foundation for Australian Women and the Australian Science and Technology Heritage Centre of the University of Melbourne. Work on this project was funded by a 2002-2003 capacity building grant under the Women's Development Programme administered by the Commonwealth Office of the Status of Women. It was published in 2003.</description>
+         <description type="rights">Where Are The Women in Australian Science? Is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</description>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="text">eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</addressPart>
+               </physical>
+            </address>
+                  </location>
+         <location>
+            <address>
+               <electronic type="url">
+                  <value>http://www.womenaustralia.info</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">210303</subject>
+         <relatedObject>
+            <key>E000016</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>E000015</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">AWE4763</identifier>
+         
+         <name type="primary">
+            <namePart>Women In The Making of Canberra, The Australian Women's Register</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">1900</date>
+            </temporal>
+         </coverage>
+         
+         <description type="full">Women in the Making of Canberra is a project commissioned in 2001 to aggregate information about the significant contributions that women have made to the development of Canberra. Information is organised around the following themes: Planning; Arriving; Settling; Providing and Representing. Users can also Browse alphabetical listings of women and organisations.
+
+The following lists may also be useful to users: ACT Women of the Year Awards (1990-95); ACT Women's Awards (1996-2001); ACT International Women's Day Awards (2002- ); Women included on the ACT Honour Walk.
+
+This project was supported by the ACT Office for Women and a generous donation from Christine Foley. The project was also assisted through funding made available by the ACT Government under the ACT Heritage Grants Program.</description>
+         <description type="rights">Women In The Making of Canberra is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</description>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="text">eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</addressPart>
+               </physical>
+            </address>
+                  </location>
+         <location>
+            <address>
+               <electronic type="url">
+                  <value>http://www.womenaustralia.info/exhib/wmc/wmc.html</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">210303</subject>
+         <relatedObject>
+            <key>E000016</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>E000015</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">AWE4764</identifier>
+         
+         <name type="primary">
+            <namePart>Seven Writers Group, The Australian Women's Register</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">1980</date>
+            </temporal>
+         </coverage>
+         
+         <description type="full">Seven Writers was a group of Canberra-based women writers who met regularly to debate and critique one another's work. The Australian Women's Register has aggregated data about the group, including biographical entries for the seven writers, as well has comprehensive bibliographical and archival information relating to their writing. Images are also available. The Seven Writers are/were: Barbalet, Margaret Evelyn; Dowse, Sara (1938 - ); Edgar, Suzanne (1939 - ); Eldridge, Marian Favel Clair (1936 - 1997); Halligan, Marion Mildred (1940 - ) ; Horsfield, Dorothy (1948 - ); Johnston, Dorothy (1948 - ).
+
+Funding to complete the project was provided by Christine Goode.</description>
+         <description type="rights">The Australian Women's Register is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</description>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="text">eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</addressPart>
+               </physical>
+            </address>
+                  </location>
+         <location>
+            <address>
+               <electronic type="url">
+                  <value>http://www.womenaustralia.info/biogs/AWE2108b.htm</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">210303</subject>
+         <relatedObject>
+            <key>E000016</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>E000015</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">AWE4765</identifier>
+         
+         <name type="primary">
+            <namePart>Women in Local Government, The Australian Women's Register</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">1920</date>
+            </temporal>
+         </coverage>
+         
+         <description type="full">The Australian Women's Register has aggregated data about women in local government in Australia. Users can browse lists of councillors, mayors and lord mayors to find the names of women across Australia who have served in local government. Over three hundred women are listed, many of them with links to fully developed biographical notes. Information about their activities outside local government is also available.
+
+Information is also about the Australian Women in Local Government Associations across Australia.
+
+Users can access the information from browse lists accessible via the home page of the Australian Women's Register, or through structured searches, also accessible via the home page.</description>
+         <description type="rights">The Australian Women's Register is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</description>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="text">eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</addressPart>
+               </physical>
+            </address>
+                  </location>
+         <location>
+            <address>
+               <electronic type="url">
+                  <value>http://www.womenaustralia.info</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">210303</subject>
+         <relatedObject>
+            <key>E000016</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>E000015</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">AWE4766</identifier>
+         
+         <name type="primary">
+            <namePart>Environmentalists, The Australian Women's Register</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">1920</date>
+            </temporal>
+         </coverage>
+         
+         <description type="full">The Australian Women's Register has compiled information about women in environmental movement in Australia. A list of thirty women is available, many of them with links to fully developed biographical notes. Information about their activities beyond the environmental movement is also available.
+
+It is expected that this number will increase with the completion of the Australian Women and Leadership project in 2012.
+
+Users can access the information from browse lists accessible via the home page of the Australian Women's Register, or through structured searches, also accessible via the home page.</description>
+         <description type="rights">The Australian Women's Register is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</description>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="text">eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</addressPart>
+               </physical>
+            </address>
+                  </location>
+         <location>
+            <address>
+               <electronic type="url">
+                  <value>http://www.womenaustralia.info</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">210303</subject>
+         <relatedObject>
+            <key>E000016</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>E000015</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">AWE4767</identifier>
+         
+         <name type="primary">
+            <namePart>Feminists, The Australian Women's Register</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">1845</date>
+            </temporal>
+         </coverage>
+         
+         <description type="full">The Australian Women's Register has compiled information about feminists and other women active in the women's rights movement in Australia since the mid nineteenth century. Lists of hundreds of women, many of them with links to fully developed biographical notes, are available for browsing. Information about their activities beyond the women's movement is also available.
+
+Users can access the information from browse lists accessible via the home page of the Australian Women's Register, or through structured searches, also accessible via the home page. Users should use terms such as 'feminist' or 'women's rights activist' to guide their searches.</description>
+         <description type="rights">The Australian Women's Register is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</description>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="text">eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</addressPart>
+               </physical>
+            </address>
+                  </location>
+         <location>
+            <address>
+               <electronic type="url">
+                  <value>http://www.womenaustralia.info</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">210303</subject>
+         <relatedObject>
+            <key>E000016</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>E000015</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">AWE4768</identifier>
+         
+         <name type="primary">
+            <namePart>Headmistresses, The Australian Women's Register</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">1850</date>
+            </temporal>
+         </coverage>
+         
+         <description type="full">The Australian Women's Register has compiled information about influential headmistresses in Australian since 1850. in 2012, a list of 32 women is available for browsing. Information about their activities beyond employment is also available in some instances.
+
+Users can access the information from browse lists accessible via the home page of the Australian Women's Register, or through structured searches, also accessible via the home page. Users should use the word 'headmistress' to guide their searches.</description>
+         <description type="rights">The Australian Women's Register is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</description>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="text">eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</addressPart>
+               </physical>
+            </address>
+                  </location>
+         <location>
+            <address>
+               <electronic type="url">
+                  <value>http://www.womenaustralia.info</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">210303</subject>
+         <relatedObject>
+            <key>E000016</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>E000015</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">AWE4769</identifier>
+         
+         <name type="primary">
+            <namePart>Women's Organisations And Lobby Groups, The Australian Women's Register</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">1801</date>
+            </temporal>
+         </coverage>
+         
+         <description type="full">The Australian Women's Register has compiled information about women's organisations, advocacy organisations and lobby groups since the early nineteenth century. Lists of hundreds of organisations, many of them with links to full historical notes, are available for browsing.
+
+Users can access the information from browse lists accessible via the home page of the Australian Women's Register, or through structured searches, also accessible via the home page.</description>
+         <description type="rights">The Australian Women's Register is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</description>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="text">eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</addressPart>
+               </physical>
+            </address>
+                  </location>
+         <location>
+            <address>
+               <electronic type="url">
+                  <value>http://www.womenaustralia.info</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">210303</subject>
+         <relatedObject>
+            <key>E000016</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>E000015</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">AWE4770</identifier>
+         
+         <name type="primary">
+            <namePart>Religious Women, The Australian Women's Register</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">1810</date>
+            </temporal>
+         </coverage>
+         
+         <description type="full">The Australian Women's Register has compiled information about women in religious orders since the early nineteenth century. Information about approximately 100 women is available for browsing.
+
+Users can access the information from browse lists accessible via the home page of the Australian Women's Register, or through structured searches, also accessible via the home page. Users should use terms such as 'missionaries', deaconnesses' and 'religious' to guide their searches.</description>
+         <description type="rights">The Australian Women's Register is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</description>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="text">eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</addressPart>
+               </physical>
+            </address>
+                  </location>
+         <location>
+            <address>
+               <electronic type="url">
+                  <value>http://www.womenaustralia.info</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">210303</subject>
+         <relatedObject>
+            <key>E000016</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>E000015</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">AWE4771</identifier>
+         
+         <name type="primary">
+            <namePart>Women in the Health Professions, The Australian Women's Register</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">1880</date>
+            </temporal>
+         </coverage>
+         
+         <description type="full">The Australian Women's Register has compiled information about women in the health professions since the late nineteenth century. Lists of doctors, nurses, physiotherapists and medical administrators, many of them with links to full biographical notes, are available for browsing.
+
+Users can access the information from browse lists accessible via the home page of the Australian Women's Register, or through structured searches, also accessible via the home page. Users shoud use search terms that include 'Medical Practioner', 'Surgeon' and 'Matron'.</description>
+         <description type="rights">The Australian Women's Register is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</description>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="text">eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</addressPart>
+               </physical>
+            </address>
+                  </location>
+         <location>
+            <address>
+               <electronic type="url">
+                  <value>http://www.womenaustralia.info</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">210303</subject>
+         <relatedObject>
+            <key>E000016</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>E000015</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">AWE4772</identifier>
+         
+         <name type="primary">
+            <namePart>Musicians, The Australian Women's Register</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">1850</date>
+            </temporal>
+         </coverage>
+         
+         <description type="full">The Australian Women's Register has compiled information about women musicians since the mid nineteenth century. Information about approximately 100 women is available for browsing.
+
+Users can access the information from browse lists accessible via the home page of the Australian Women's Register, or through structured searches, also accessible via the home page. Users should use terms such as 'singers', 'pianists' and 'conductor' to guide their searches.</description>
+         <description type="rights">The Australian Women's Register is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</description>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="text">eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</addressPart>
+               </physical>
+            </address>
+                  </location>
+         <location>
+            <address>
+               <electronic type="url">
+                  <value>http://www.womenaustralia.info</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">210303</subject>
+         <relatedObject>
+            <key>E000016</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>E000015</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">AWE4773</identifier>
+         
+         <name type="primary">
+            <namePart>Writers, The Australian Women's Register</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">1850</date>
+            </temporal>
+         </coverage>
+         
+         <description type="full">The Australian Women's Register has compiled information about women writers since the mid nineteenth century. Lists of writers, poets, journalists, publishers and editors, many of them with links to full biographical notes, are available for browsing.
+
+Users can access the information from browse lists accessible via the home page of the Australian Women's Register, or through structured searches, also accessible via the home page.</description>
+         <description type="rights">The Australian Women's Register is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</description>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="text">eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</addressPart>
+               </physical>
+            </address>
+                  </location>
+         <location>
+            <address>
+               <electronic type="url">
+                  <value>http://www.womenaustralia.info</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">210303</subject>
+         <relatedObject>
+            <key>E000016</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>E000015</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">AWE4774</identifier>
+         
+         <name type="primary">
+            <namePart>Social Workers, The Australian Women's Register</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">1900</date>
+            </temporal>
+         </coverage>
+         
+         <description type="full">The Australian Women's Register has compiled information about women social workers and social support organisations since the early twentieth century. Lists of women and their organisations, many of them with links to full historical notes, are available for browsing.
+
+Users can access the information from browse lists accessible via the home page of the Australian Women's Register, or through structured searches, also accessible via the home page.</description>
+         <description type="rights">The Australian Women's Register is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</description>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="text">eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</addressPart>
+               </physical>
+            </address>
+                  </location>
+         <location>
+            <address>
+               <electronic type="url">
+                  <value>http://www.womenaustralia.info</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">210303</subject>
+         <relatedObject>
+            <key>E000016</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>E000015</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">AWE4775</identifier>
+         
+         <name type="primary">
+            <namePart>Educators, The Australian Women's Register</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">1850</date>
+            </temporal>
+         </coverage>
+         
+         <description type="full">The Australian Women's Register has compiled information about women as educators since the mid nineteenth century. Lists of teachers, educators, academics and headmistresses, many of them with links to full biographical notes, are available for browsing.
+
+Users can access the information from browse lists accessible via the home page of the Australian Women's Register, or through structured searches, also accessible via the home page.</description>
+         <description type="rights">The Australian Women's Register is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</description>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="text">eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</addressPart>
+               </physical>
+            </address>
+                  </location>
+         <location>
+            <address>
+               <electronic type="url">
+                  <value>http://www.womenaustralia.info</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">210303</subject>
+         <relatedObject>
+            <key>E000016</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>E000015</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">AWE4776</identifier>
+         
+         <name type="primary">
+            <namePart>Trade Unionists, The Australian Women's Register</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">1900</date>
+            </temporal>
+         </coverage>
+         
+         <description type="full">The Australian Women's Register has compiled information about women's trade unions and unionists since the early twentieth century. Lists of unionists, union organisers and their unions, some with links to full biographical notes, are available for browsing.
+
+Users can access the information from browse lists accessible via the home page of the Australian Women's Register, or through structured searches, also accessible via the home page. Users shoud include the terms 'Trade Unionist' and 'Unionist' in their searches.</description>
+         <description type="rights">The Australian Women's Register is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</description>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="text">eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</addressPart>
+               </physical>
+            </address>
+                  </location>
+         <location>
+            <address>
+               <electronic type="url">
+                  <value>http://www.womenaustralia.info</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">210303</subject>
+         <relatedObject>
+            <key>E000016</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>E000015</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">AWE4777</identifier>
+         
+         <name type="primary">
+            <namePart>Indigenous Women, The Australian Women's Register</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">1812</date>
+            </temporal>
+         </coverage>
+         
+         <description type="full">The Australian Women's Register has compiled information about Indigenous women since the early nineteenth century ina range of contexts and activities. Many of them have links to full biographical notes and are available for browsing.
+
+Users can access the information from browse lists accessible via the home page of the Australian Women's Register, or through structured searches, also accessible via the home page. Most are accessible from the 'A' browse page, but users should use the word 'indigenous' in their searches as well.</description>
+         <description type="rights">The Australian Women's Register is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</description>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="text">eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</addressPart>
+               </physical>
+            </address>
+                  </location>
+         <location>
+            <address>
+               <electronic type="url">
+                  <value>http://www.womenaustralia.info</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">210303</subject>
+         <relatedObject>
+            <key>E000016</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>E000015</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="collection">
+         <identifier type="local">AWE4778</identifier>
+         
+         <name type="primary">
+            <namePart>Welfare Workers, The Australian Women's Register</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">1850</date>
+            </temporal>
+         </coverage>
+         
+         <description type="full">The Australian Women's Register has compiled information about women welfare workers and organisations since the mid nineteenth century. Lists of women and their organisations, many of them with links to full historical notes, are available for browsing.
+
+Users can access the information from browse lists accessible via the home page of the Australian Women's Register, or through structured searches, also accessible via the home page.</description>
+         <description type="rights">The Australian Women's Register is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Rights to images used in the exhibition vary. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</description>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="text">eScholarship Research Centre, The University of Melbourne, Parkville, VIC 3010</addressPart>
+               </physical>
+            </address>
+                  </location>
+         <location>
+            <address>
+               <electronic type="url">
+                  <value>http://www.womenaustralia.info</value>
+               </electronic>
+            </address>
+         </location>
+         <subject type="anzsrc-for">210303</subject>
+         <relatedObject>
+            <key>E000016</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>E000015</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="registry"
+                  dateModified="2011-10-04T23:32:52Z">
+         <identifier type="uri">http://www.womenaustralia.info/</identifier>
+         <name type="primary">
+            <namePart>The Australian Women's Register</namePart>
+         </name>
+         <location>
+            <address>
+               <physical type="streetAddress">
+                  <addressPart type="text">eScholarship Research Centre
+The University of Melbourne
+Parkville, VIC 3010</addressPart>
+               </physical>
+            </address>
+         </location>
+         <relatedObject>
+            <key>E000016</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">2000</date>
+            </temporal>
+         </coverage>
+         
+         <subject type="anzsrc-for">210303</subject>
+         <subject type="anzsrc-for">210304</subject>
+         <description type="rights">The Australian Women's Register is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Australia License. Please contact the Australian Women's Archives Project for details: http://www.womenaustralia.info/contact.html.</description>
+         <description type="full">The Australian Women's Register is a an online source of biographical data about Australian women and their organisations, with links to the archival repositories and libraries where their records are held and to other sources of information. The Register is the output of a research database. It is an initiative of The National Foundation for Australian Women (NFAW) in conjunction with the University of Melbourne. The Register has been online since 2000. It includes over 5000 entities and continues to grow.</description>
+
+      </collection>
+      <party xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="group">
+               <identifier type="uri">http://www.womenaustralia.info/awap.html</identifier>
+               <name type="primary">
+                  <namePart>Australian Women's Archives Project</namePart>
+               </name>
+               <coverage>
+                  <temporal>
+                     <date type="dateFrom" dateFormat="W3C">2000</date>
+                  </temporal>
+               </coverage>
+               <subject type="anzsrc-for">210303</subject>
+
+            </party>
+   </mu:rifcsData>
+</mu:root>

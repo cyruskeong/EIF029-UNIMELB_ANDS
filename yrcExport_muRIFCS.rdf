@@ -1,0 +1,941 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:vivo="http://vivoweb.org/ontology/core#"
+         xmlns:m2r="http://www.versi.edu.au/projects/dc3/murifcs2rdf"
+         xmlns="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rifcs="http://ands.org.au/standards/rif-cs/registryObjects">
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0016">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">YRC_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>SCOPE Life Patterns Project</rdfs:label>
+      <vivo:description>This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In SCOPE (Wave 0_1) 29165 participants aged about 18 years completed a survey. The questionnaire contained 7 questions covering students' expectations from work when leaving school.</vivo:description>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">DCB0016</ands:digitalDataReference>
+      <ands:hasPart xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                    rdf:resource="dcExport://dc3central/YRC_OHRMDCB0029"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/YRC_OHRMDCB0016/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0016/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/YRC_OHRMDCB0016/start"/>
+      <vivo:end rdf:resource="dcExport://dc3central/YRC_OHRMDCB0016/end"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0016/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1991</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0016/end">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1991</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0017">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">YRC_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>NEXT MOVE Life Patterns Project</rdfs:label>
+      <vivo:description>This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In NEXT MOVE (Wave 0_2) 10,986 participants aged about 19 years completed a survey. The questionnaire contained 7 questions covering work and study status.</vivo:description>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">DCB0017</ands:digitalDataReference>
+      <ands:hasPart xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                    rdf:resource="dcExport://dc3central/YRC_OHRMDCB0029"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/YRC_OHRMDCB0017/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0017/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/YRC_OHRMDCB0017/start"/>
+      <vivo:end rdf:resource="dcExport://dc3central/YRC_OHRMDCB0017/end"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0017/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1992</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0017/end">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1992</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0018">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">YRC_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Wave 1 Life Patterns Project</rdfs:label>
+      <vivo:description>This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 1 2966 participants aged about 22 years completed a survey. The questionnaire contained 8 questions covering subjects including type of study they had engaged in since 1992; when they had left school; level of institution; area of study; and whether currently employed.</vivo:description>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">DCB0018</ands:digitalDataReference>
+      <ands:hasPart xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                    rdf:resource="dcExport://dc3central/YRC_OHRMDCB0029"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/YRC_OHRMDCB0018/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0018/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/YRC_OHRMDCB0018/start"/>
+      <vivo:end rdf:resource="dcExport://dc3central/YRC_OHRMDCB0018/end"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0018/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1995</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0018/end">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1995</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0019">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">YRC_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Wave 2 Life Patterns Project</rdfs:label>
+      <vivo:description>This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 2, 1113 participants aged about 23 years completed a survey. The questionnaire contained 7 questions covering history of post-school employment; type of job; periods of unemployment; whether they returned to study; and the stage in life they had currently reached.</vivo:description>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">DCB0019</ands:digitalDataReference>
+      <ands:hasPart xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                    rdf:resource="dcExport://dc3central/YRC_OHRMDCB0029"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/YRC_OHRMDCB0019/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0019/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/YRC_OHRMDCB0019/start"/>
+      <vivo:end rdf:resource="dcExport://dc3central/YRC_OHRMDCB0019/end"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0019/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1996</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0019/end">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1996</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0020">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">YRC_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Wave 3 Life Patterns Project</rdfs:label>
+      <vivo:description>This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 3, 1925 participant aged about 23 years completed a survey. The questionnaire contained 63 questions covering work/study participation; socio-economic background; current employment and study status; expectations from life; reasons for choosing particular pathways; the relationship between work and study; attitudes to work and careers; and ambitions for the future.</vivo:description>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">DCB0020</ands:digitalDataReference>
+      <ands:hasPart xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                    rdf:resource="dcExport://dc3central/YRC_OHRMDCB0029"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/YRC_OHRMDCB0020/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0020/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/YRC_OHRMDCB0020/start"/>
+      <vivo:end rdf:resource="dcExport://dc3central/YRC_OHRMDCB0020/end"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0020/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1996</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0020/end">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1996</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0021">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">YRC_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Wave 4 Life Patterns Project</rdfs:label>
+      <vivo:description>This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 4, 1314 participants aged about 24 years completed a survey. The questionnaire contained 6 questions covering attitudes to a range of priorities in life; satisfaction with life; study or employment status; and progress in establishing a career.</vivo:description>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">DCB0021</ands:digitalDataReference>
+      <ands:hasPart xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                    rdf:resource="dcExport://dc3central/YRC_OHRMDCB0029"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/YRC_OHRMDCB0021/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0021/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/YRC_OHRMDCB0021/start"/>
+      <vivo:end rdf:resource="dcExport://dc3central/YRC_OHRMDCB0021/end"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0021/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1997</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0021/end">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1997</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0022">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">YRC_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Wave 5 Life Patterns Project</rdfs:label>
+      <vivo:description>This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 5, 1428 participants aged about 25 years completed a survey. The questionnaire contained 23 questions covering employment of participants; their sense of personal progress; feelings and attitudes about life; study activities; attitudes to TAFE and Vocational Education and Training study; employment status; and attitudes to work, job and career.</vivo:description>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">DCB0022</ands:digitalDataReference>
+      <ands:hasPart xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                    rdf:resource="dcExport://dc3central/YRC_OHRMDCB0029"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/YRC_OHRMDCB0022/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0022/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/YRC_OHRMDCB0022/start"/>
+      <vivo:end rdf:resource="dcExport://dc3central/YRC_OHRMDCB0022/end"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0022/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1998</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0022/end">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1998</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0023">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">YRC_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Wave 6 Life Patterns Project</rdfs:label>
+      <vivo:description>This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 6, 1295 participants aged about 26 years completed a survey. The questionnaire contained 10 questions covering pathways in employment; study and personal activities; and if employed, is it in a career job.</vivo:description>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">DCB0023</ands:digitalDataReference>
+      <ands:hasPart xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                    rdf:resource="dcExport://dc3central/YRC_OHRMDCB0029"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/YRC_OHRMDCB0023/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0023/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/YRC_OHRMDCB0023/start"/>
+      <vivo:end rdf:resource="dcExport://dc3central/YRC_OHRMDCB0023/end"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0023/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1999</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0023/end">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1999</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0024">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">YRC_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Wave 7 Life Patterns Project</rdfs:label>
+      <vivo:description>This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 7, 1109 participants aged about 27 years completed a survey. The questionnaire contained 23 questions covering progress in study and work; self assessment of progress; general time use; and priorities in life.</vivo:description>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">DCB0024</ands:digitalDataReference>
+      <ands:hasPart xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                    rdf:resource="dcExport://dc3central/YRC_OHRMDCB0029"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/YRC_OHRMDCB0024/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0024/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/YRC_OHRMDCB0024/start"/>
+      <vivo:end rdf:resource="dcExport://dc3central/YRC_OHRMDCB0024/end"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0024/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2000</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0024/end">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2000</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0025">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">YRC_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Wave 8 Life Patterns Project</rdfs:label>
+      <vivo:description>This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 8, 774 participants aged about 29 years completed a survey. The questionnaire contained 33 questions covering satisfaction with achievements, expectations, commitments and goals; work situations, including job type, mobility and commitment; desirable characteristics of career and life activities; life priorities; and satisfaction.</vivo:description>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">DCB0025</ands:digitalDataReference>
+      <ands:hasPart xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                    rdf:resource="dcExport://dc3central/YRC_OHRMDCB0029"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/YRC_OHRMDCB0025/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0025/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/YRC_OHRMDCB0025/start"/>
+      <vivo:end rdf:resource="dcExport://dc3central/YRC_OHRMDCB0025/end"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0025/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2002</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0025/end">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2002</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0026">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">YRC_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Wave 9 Life Patterns Project</rdfs:label>
+      <vivo:description>This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 9, 625 participants aged about 31 years completed a survey. The questionnaire contained 20 questions covering life progress; current and last three jobs; reasons for job changes; satisfaction with life achievements, life situation, goals, commitments and work situation; and details of work history and definitions of a career.</vivo:description>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">DCB0026</ands:digitalDataReference>
+      <ands:hasPart xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                    rdf:resource="dcExport://dc3central/YRC_OHRMDCB0029"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/YRC_OHRMDCB0026/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0026/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/YRC_OHRMDCB0026/start"/>
+      <vivo:end rdf:resource="dcExport://dc3central/YRC_OHRMDCB0026/end"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0026/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2004</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0026/end">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2004</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0027">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">YRC_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Wave 10 Life Patterns Project</rdfs:label>
+      <vivo:description>This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 10, 344 participants aged about 33 years completed a survey. The questionnaire contained 14 questions covering jobs and life priorities, including job changes; personal relationships and living arrangements; attitudes to parenting; post-school plans; advice to the younger generation; and plans for the future.</vivo:description>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">DCB0027</ands:digitalDataReference>
+      <ands:hasPart xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                    rdf:resource="dcExport://dc3central/YRC_OHRMDCB0029"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/YRC_OHRMDCB0027/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0027/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/YRC_OHRMDCB0027/start"/>
+      <vivo:end rdf:resource="dcExport://dc3central/YRC_OHRMDCB0027/end"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0027/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2006</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0027/end">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2006</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0028">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">YRC_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Wave 11 Life Patterns Project</rdfs:label>
+      <vivo:description>This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 11, 301 participants aged about 36 years completed a survey. The questionnaire contained 34 questions covering job characteristics; living arrangements; relationships and family; educational status and motivations; time commitments and wellbeing; life satisfactions; and aspirations and health.</vivo:description>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">DCB0028</ands:digitalDataReference>
+      <ands:hasPart xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                    rdf:resource="dcExport://dc3central/YRC_OHRMDCB0029"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/YRC_OHRMDCB0028/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0028/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/YRC_OHRMDCB0028/start"/>
+      <vivo:end rdf:resource="dcExport://dc3central/YRC_OHRMDCB0028/end"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0028/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2009</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0028/end">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2009</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0029">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#ResearchCollection"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">YRC_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Generation X</rdfs:label>
+      <vivo:description>Generation X cohort commenced in 1991 with data made available from the Department of Education. Since that time there have been sucessive Waves of data collections, following participants from the initial Waves.</vivo:description>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">DCB0029</ands:digitalDataReference>
+      <ands:hasPart xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                    rdf:resource="dcExport://dc3central/YRC_OHRMDCB0003"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/YRC_OHRMDCB0029/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0029/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/YRC_OHRMDCB0029/start"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0029/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1991</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0040">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#ResearchCollection"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">YRC_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Generation Y</rdfs:label>
+      <vivo:description>Generation Y cohort commenced in 2005 with a selection of year 11 students from Victoria, New South Wales, ACT and Tasmania. It developed while the Life Patterns Generation X cohort continued to survey school leavers from 1991.</vivo:description>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">DCB0040</ands:digitalDataReference>
+      <ands:hasPart xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                    rdf:resource="dcExport://dc3central/YRC_OHRMDCB0003"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/YRC_OHRMDCB0040/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0040/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/YRC_OHRMDCB0040/start"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0040/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2005</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0041">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">YRC_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Wave 1 Life Patterns Project</rdfs:label>
+      <vivo:description>This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 1, 1954 participants from New South Wales and Victoria, aged about 17 years, completed a survey. The questionnaire contained 28 questions covering plans for further study; feelings about school; job plans; issues affecting young people; thoughts about the future; and relationships with family and friends.</vivo:description>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">DCB0041</ands:digitalDataReference>
+      <ands:hasPart xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                    rdf:resource="dcExport://dc3central/YRC_OHRMDCB0040"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/YRC_OHRMDCB0041/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0041/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/YRC_OHRMDCB0041/start"/>
+      <vivo:end rdf:resource="dcExport://dc3central/YRC_OHRMDCB0041/end"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0041/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2005</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0041/end">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2005</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0042">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">YRC_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Wave 2A Life Patterns Project</rdfs:label>
+      <vivo:description>This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 2A, 2023 participants from Tasmania and the ACT, aged about 18 years, completed a survey. The questionnaire contained 35 questions covering involvement in continuing study; positive aspects of life; sources of information and advice for further study; career issues; and attitudes towards the future.</vivo:description>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">DCB0042</ands:digitalDataReference>
+      <ands:hasPart xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                    rdf:resource="dcExport://dc3central/YRC_OHRMDCB0040"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/YRC_OHRMDCB0042/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0042/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/YRC_OHRMDCB0042/start"/>
+      <vivo:end rdf:resource="dcExport://dc3central/YRC_OHRMDCB0042/end"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0042/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2005</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0042/end">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2005</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0043">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">YRC_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Wave 2B Life Patterns Project</rdfs:label>
+      <vivo:description>This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 2B, 1321 participants aged about 18 years completed a survey. The questionnaire contained 14 questions covering intentions of continuing post-school education; positive aspects of life; attitudes to future career employment, and to future life outcomes.</vivo:description>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">DCB0043</ands:digitalDataReference>
+      <ands:hasPart xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                    rdf:resource="dcExport://dc3central/YRC_OHRMDCB0040"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/YRC_OHRMDCB0043/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0043/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/YRC_OHRMDCB0043/start"/>
+      <vivo:end rdf:resource="dcExport://dc3central/YRC_OHRMDCB0043/end"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0043/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2006</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0043/end">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2006</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0044">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">YRC_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Wave 3 Life Patterns Project</rdfs:label>
+      <vivo:description>This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 3, 1285 participants aged about 19 years completed a survey. The questionnaire contained 35 questions covering work and study commitments; living situations and location; whether continuing studies; type and extent of employment; work/study relationships; health and well being; future plans; and attitudes to the future.</vivo:description>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">DCB0044</ands:digitalDataReference>
+      <ands:hasPart xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                    rdf:resource="dcExport://dc3central/YRC_OHRMDCB0040"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/YRC_OHRMDCB0044/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0044/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/YRC_OHRMDCB0044/start"/>
+      <vivo:end rdf:resource="dcExport://dc3central/YRC_OHRMDCB0044/end"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0044/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2007</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0044/end">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2007</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0045">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">YRC_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Wave 4 Life Patterns Project</rdfs:label>
+      <vivo:description>This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 4, 946 participants aged about 20 years completed a survey. The questionnaire contained 19 questions covering living situation and residence; finances; employment; study and work attitudes: positive aspects of life; time spent on various activities; and attitudes towards the future.</vivo:description>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">DCB0045</ands:digitalDataReference>
+      <ands:hasPart xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                    rdf:resource="dcExport://dc3central/YRC_OHRMDCB0040"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/YRC_OHRMDCB0045/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0045/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/YRC_OHRMDCB0045/start"/>
+      <vivo:end rdf:resource="dcExport://dc3central/YRC_OHRMDCB0045/end"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0045/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2008</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0045/end">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2009</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0046">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">YRC_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Wave 5 Life Patterns Project</rdfs:label>
+      <vivo:description>This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 5, 348 participants (these were only TAFE students, used to build up the TAFE representation in the cohort), aged about 21 years, completed a survey. The questionnaire contained 19 questions covering demographic information; socioeconomic status of parents; and the importance of key aspects of life.</vivo:description>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">DCB0046</ands:digitalDataReference>
+      <ands:hasPart xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                    rdf:resource="dcExport://dc3central/YRC_OHRMDCB0040"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/YRC_OHRMDCB0046/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0046/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/YRC_OHRMDCB0046/start"/>
+      <vivo:end rdf:resource="dcExport://dc3central/YRC_OHRMDCB0046/end"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0046/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2009</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0046/end">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2009</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0047">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">YRC_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Wave 6 Life Patterns Project</rdfs:label>
+      <vivo:description>This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 6, 742 participants aged about 22 years completed a survey. An online version of the survey was for the first time available. The questionnaire contained 27 questions covering living situations and residence in 2009 and 2010; relationships; means of financial support; plans for continuing study; employment; health and wellbeing; and time spent on activities.</vivo:description>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">DCB0047</ands:digitalDataReference>
+      <ands:hasPart xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                    rdf:resource="dcExport://dc3central/YRC_OHRMDCB0040"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/YRC_OHRMDCB0047/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0047/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/YRC_OHRMDCB0047/start"/>
+      <vivo:end rdf:resource="dcExport://dc3central/YRC_OHRMDCB0047/end"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0047/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2010</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0047/end">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2010</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0053">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">YRC_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Wave 3 Qualitative Life Patterns Project</rdfs:label>
+      <vivo:description>This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 3, 77 participants from the Wave 3 survey, aged about 23 years, were interviewed on the following topics: intention to study or work; changes affecting study; perceptions of Vocational Education and Training; and things that could have been done differently.</vivo:description>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">DCB0053</ands:digitalDataReference>
+      <ands:hasPart xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                    rdf:resource="dcExport://dc3central/YRC_OHRMDCB0029"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/YRC_OHRMDCB0053/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0053/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/YRC_OHRMDCB0053/start"/>
+      <vivo:end rdf:resource="dcExport://dc3central/YRC_OHRMDCB0053/end"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0053/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1996</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0053/end">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1996</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0054">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">YRC_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Wave 4 Qualitative Life Patterns Project</rdfs:label>
+      <vivo:description> This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 4, 50 participants from the Wave 4 survey, aged about 24 years, were interviewed on the following topics: main priorities in life; relationship between study and work; course and work history; and study and career prospects.</vivo:description>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">DCB0054</ands:digitalDataReference>
+      <ands:hasPart xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                    rdf:resource="dcExport://dc3central/YRC_OHRMDCB0029"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/YRC_OHRMDCB0054/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0054/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/YRC_OHRMDCB0054/start"/>
+      <vivo:end rdf:resource="dcExport://dc3central/YRC_OHRMDCB0054/end"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0054/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1997</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0054/end">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1997</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0055">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">YRC_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Wave 5 Qualitative Life Patterns Project</rdfs:label>
+      <vivo:description>This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 5, 100 participants from the Wave 5 survey, aged about 25 years, were interviewed on the following topics: current life and work situation; reasons for changes; and goals in life.</vivo:description>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">DCB0055</ands:digitalDataReference>
+      <ands:hasPart xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                    rdf:resource="dcExport://dc3central/YRC_OHRMDCB0029"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/YRC_OHRMDCB0055/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0055/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/YRC_OHRMDCB0055/start"/>
+      <vivo:end rdf:resource="dcExport://dc3central/YRC_OHRMDCB0055/end"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0055/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1998</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0055/end">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1998</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0056">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">YRC_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Wave 6 Qualitative Life Patterns Project</rdfs:label>
+      <vivo:description>This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 6, 48 participants from the Wave 6 survey, aged about 26 years, were interviewed on the following topics: accommodation; past goals; balance between future goals and study priorities; and career issues.</vivo:description>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">DCB0056</ands:digitalDataReference>
+      <ands:hasPart xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                    rdf:resource="dcExport://dc3central/YRC_OHRMDCB0029"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/YRC_OHRMDCB0056/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0056/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/YRC_OHRMDCB0056/start"/>
+      <vivo:end rdf:resource="dcExport://dc3central/YRC_OHRMDCB0056/end"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0056/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1999</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0056/end">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>1999</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0057">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">YRC_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Wave 7 Qualitative Life Patterns Project</rdfs:label>
+      <vivo:description>This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 7, 24 participants from the Wave 7 survey, aged about 27 years, were interviewed on the following topics: life aims and goals; relationship between work and family; and the balance between priorities including career.</vivo:description>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">DCB0057</ands:digitalDataReference>
+      <ands:hasPart xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                    rdf:resource="dcExport://dc3central/YRC_OHRMDCB0029"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/YRC_OHRMDCB0057/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0057/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/YRC_OHRMDCB0057/start"/>
+      <vivo:end rdf:resource="dcExport://dc3central/YRC_OHRMDCB0057/end"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0057/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2000</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0057/end">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2000</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0058">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">YRC_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Wave 8 Qualitative Life Patterns Project</rdfs:label>
+      <vivo:description>This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 8, 24 participants from the Wave 8 survey, aged about 29 years, were interviewed on the following topics: current and future work prospects; links between work and study; career aspirations; role of the family; factors in personal development; influences in life; and criteria for success.</vivo:description>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">DCB0058</ands:digitalDataReference>
+      <ands:hasPart xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                    rdf:resource="dcExport://dc3central/YRC_OHRMDCB0029"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/YRC_OHRMDCB0058/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0058/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/YRC_OHRMDCB0058/start"/>
+      <vivo:end rdf:resource="dcExport://dc3central/YRC_OHRMDCB0058/end"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0058/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2002</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0058/end">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2002</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0060">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">YRC_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Wave 10 Qualitative Life Patterns Project</rdfs:label>
+      <vivo:description>This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 10, 10 participants from the Wave 10 survey, aged about 33 years, were interviewed on the following topics: work and study history; relationships; lifestyle and lifestyle aspirations; travel; accommodation; values; and role of family.</vivo:description>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">DCB0060</ands:digitalDataReference>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/YRC_OHRMDCB0060/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0060/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/YRC_OHRMDCB0060/start"/>
+      <vivo:end rdf:resource="dcExport://dc3central/YRC_OHRMDCB0060/end"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0060/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2006</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0060/end">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2006</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0063">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">YRC_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Wave 2B Qualitative Life Patterns Project</rdfs:label>
+      <vivo:description>This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 2B, 30 participants from the Wave 2B survey, aged about 19 years, were interviewed on the following topics: experiences at school; experience of further study; long-term plans; current work; living arrangements; health and wellbeing; and sport and leisure.</vivo:description>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">DCB0063</ands:digitalDataReference>
+      <ands:hasPart xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                    rdf:resource="dcExport://dc3central/YRC_OHRMDCB0040"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/YRC_OHRMDCB0063/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0063/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/YRC_OHRMDCB0063/start"/>
+      <vivo:end rdf:resource="dcExport://dc3central/YRC_OHRMDCB0063/end"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0063/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2007</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0063/end">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2007</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0064">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">YRC_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Wave 4 Qualitative Life Patterns Project</rdfs:label>
+      <vivo:description>This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 4, 50 participants from the Wave 4 survey, aged about 20 years, were interviewed on the following topics: progress during the past year; advice for others; whether plans for this year changed; plans for five and ten years' time; likelihood of achieving goals; and factors influencing future plans.</vivo:description>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">DCB0064</ands:digitalDataReference>
+      <ands:hasPart xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                    rdf:resource="dcExport://dc3central/YRC_OHRMDCB0040"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/YRC_OHRMDCB0064/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0064/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/YRC_OHRMDCB0064/start"/>
+      <vivo:end rdf:resource="dcExport://dc3central/YRC_OHRMDCB0064/end"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0064/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2008</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0064/end">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2009</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0065">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">YRC_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Wave 6 Qualitative Life Patterns Project</rdfs:label>
+      <vivo:description>This data was collected as part of the longitudinal 'Life Patterns' study based at the Youth Research Centre, the University of Melbourne. In Wave 6, 52 participants from the Wave 6 survey, aged about 22 years, were interviewed. They were interviewed on the following topics: future study plans; events of the previous year; advice for others; relationship between work, study and rest of life; whether plans for the current year had changed; accommodation; recreation; plans for five and ten years' time; factors influencing future plans; likelihood of achieving goals; family support; social life; relationships; and health and fitness.</vivo:description>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">DCB0065</ands:digitalDataReference>
+      <ands:hasPart xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                    rdf:resource="dcExport://dc3central/YRC_OHRMDCB0040"/>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/YRC_OHRMDCB0065/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0065/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/YRC_OHRMDCB0065/start"/>
+      <vivo:end rdf:resource="dcExport://dc3central/YRC_OHRMDCB0065/end"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0065/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2010</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0065/end">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2011</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0076">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">YRC_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Wave 12 Life Patterns Project</rdfs:label>
+      <vivo:description>Life Patterns is a longitudinal study. This data was collected as part of the Life Patterns project based at the Youth Research Centre, the University of Melbourne. In Wave 12, 284 participants, aged about 38 years completed a survey. The questionnaire contained 38 questions covering the following topics: current study status, qualifications, study history and plans, type of employment, job conditions, living arrangements, family and parenting, how time is used, life satisfactions and health and wellbeing.</vivo:description>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">DCB0076</ands:digitalDataReference>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/YRC_OHRMDCB0076/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0076/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/YRC_OHRMDCB0076/start"/>
+      <vivo:end rdf:resource="dcExport://dc3central/YRC_OHRMDCB0076/end"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0076/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2011</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0076/end">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2011</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0077">
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#researchDataSet"/>
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">YRC_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <rdfs:label>Wave 7 Life Patterns Project</rdfs:label>
+      <vivo:description>Life Patterns is a longitudinal study. This data was collected as part of the Life Patterns project based at the Youth Research Centre, the University of Melbourne. In Wave 7, 722 participants aged about 23 years completed a survey. The questionnaire contained 53 questions covering current residence; recent activities; relationships; financial supports; study status; factors affecting study; combining work and study; employment status; work future; disability; positive aspects of life; activities in five years' time; health and wellbeing; and attitudes towards the future.</vivo:description>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">DCB0077</ands:digitalDataReference>
+      <vivo:dateTimeInterval rdf:resource="dcExport://dc3central/YRC_OHRMDCB0077/coverage"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0077/coverage">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+      <vivo:start rdf:resource="dcExport://dc3central/YRC_OHRMDCB0077/start"/>
+      <vivo:end rdf:resource="dcExport://dc3central/YRC_OHRMDCB0077/end"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0077/start">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2011</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0077/end">
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeValue"/>
+      <vivo:dateTime>2011</vivo:dateTime>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0002">
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">YRC_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+      <rdfs:label>Youth Research Centre</rdfs:label>
+      <vivo:description>The Youth Research Centre (YRC) was founded in 1988. The Transitions project (later, the Life Patterns Program) started at the YRC in 1995 (using data collected from 1991).</vivo:description>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">DCB0002</ands:digitalDataReference>
+      <bibo:uri xmlns:bibo="http://purl.org/ontology/bibo/">http://www.edfac.unimelb.edu.au/yrc/</bibo:uri>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0004">
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">YRC_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+      <rdfs:label>Dwyer, Peter</rdfs:label>
+      <vivo:description>Associate Professor Peter Dwyer initiated the Life Patterns research program and was a Chief Investigator on the grants that supported the program to 2002. He was Deputy Director of the Youth Research Centre and published many articles and books drawing on Life Patterns data.</vivo:description>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">DCB0004</ands:digitalDataReference>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0010">
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">YRC_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+      <rdfs:label>Wyn, Johanna</rdfs:label>
+      <vivo:description>Professor Johanna Wyn is Director of the Youth Research Centre and is leader of the Education, Equity and Social Change cluster in the Melbourne Graduate School of Education at the University of Melbourne. She has led the Life Patterns project for a number of years.</vivo:description>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">DCB0010</ands:digitalDataReference>
+      <bibo:uri xmlns:bibo="http://purl.org/ontology/bibo/">http://www.edfac.unimelb.edu.au/cgi-bin/public/staff_profile.cgi?id=1895</bibo:uri>
+      <ands:isManagedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="dcExport://dc3central/YRC_OHRMDCB0003"/>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0013">
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">YRC_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+      <rdfs:label>Woodman, Dan</rdfs:label>
+      <vivo:description>Dan Woodman is an adviser to the Life Patterns project team. He has previously been employed as a Research Fellow at the Youth Research Centre working on Life Patterns and other projects. His PhD drew on Life Patterns data.</vivo:description>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">DCB0013</ands:digitalDataReference>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0014">
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">YRC_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+      <rdfs:label>Cuervo, Hernán</rdfs:label>
+      <vivo:description>Hernán Cuervo is a Research Fellow in the YRC with responsibility for the management of Life Patterns data and publications as well as contributing to other Youth Research Centre projects.</vivo:description>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">DCB0014</ands:digitalDataReference>
+      <bibo:uri xmlns:bibo="http://purl.org/ontology/bibo/">http://www.edfac.unimelb.edu.au/cgi-bin/public/staff_profile.cgi?id=15523</bibo:uri>
+   </rdf:Description>
+   <rdf:Description rdf:about="dcExport://dc3central/YRC_OHRMDCB0003">
+      <ands:groupDescription xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">YRC_OHRM</ands:groupDescription>
+      <rdf:type rdf:resource="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#OAIVITROHarvest"/>
+      <ands:harvestedBy xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#"
+                        rdf:resource="https://rdr.unimelb.edu.au/vivo/n5820"/>
+      <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Program"/>
+      <rdfs:label>Life Patterns Project</rdfs:label>
+      <vivo:description>This project uses data collected in 1991 and 1992 and commenced surveying young people in 1995. It started with a single cohort (Generation X) and a second (Generation Y) was added in 2005. It is a longitudinal study of young Australians as they move from school into post-school education and work.</vivo:description>
+      <ands:digitalDataReference xmlns:ands="http://www.ands.org.au/ontologies/ns/0.1/VITRO-ANDS.owl#">DCB0003</ands:digitalDataReference>
+   </rdf:Description>
+</rdf:RDF>

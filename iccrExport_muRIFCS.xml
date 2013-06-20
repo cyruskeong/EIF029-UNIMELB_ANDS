@@ -1,0 +1,1809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mu:root xmlns:rifcs="http://ands.org.au/standards/rif-cs/registryObjects"
+         xmlns:mu="http://rdr.unimelb.edu.au/schema/murifcs"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         fromLab="International Centre for Classroom Research"
+         xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects http://services.ands.org.au/documentation/rifcs/1.2.0/schema/registryObjects.xsd             http://rdr.unimelb.edu.au/schema/murifcs http://rdr.unimelb.edu.au/schema/muRIFCS.xsd">
+   <mu:rifcsData>
+      <rifcs:party type="group">
+         <rifcs:identifier type="local">http://www.iccr.edu.au/</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>International Centre for Classroom Research</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:identifier type="uri">http://www.iccr.edu.au/</rifcs:identifier>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:electronic type="url">
+                  <rifcs:value>http://www.iccr.edu.au/</rifcs:value>
+               </rifcs:electronic>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.findanexpert.unimelb.edu.au/researcher/person16139.html</rifcs:key>
+            <rifcs:relation type="isManagedBy"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">The International Centre for Classroom Research (ICCR) was conceived as a major international facility to support the collection, storage and analysis of data (particularly video data) related to the study of learning and teaching in classrooms. The ICCR houses one of the largest collections of classroom data ever accumulated. Its establishment was a consequence of the need to accommodate data from the Learner's Perspective Study (an international study of well-taught mathematics classrooms, currently being undertaken in 16 countries). The ICCR data set now includes video data from secondary mathematics and science classrooms, primary schools, clinical teaching in hospitals, early childhood settings, and a variety of IT-supported learning environments including tertiary settings. Initially funded with an Australian Research Council Linkage-Infrastructure grant and with the generous support of the University of Melbourne, the ICCR was established at 109 Barry Street, Carlton. The ICCR is affiliated with the Melbourne Graduate School of Education of the University of Melbourne, and the Australian Council for Educational Research (ACER).</rifcs:description>
+      </rifcs:party>
+      <rifcs:activity type="project">
+         <rifcs:identifier type="local">iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Learner's Perspective Study: An International Research Collaboration in Mathematics Education</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:identifier type="uri">http://www.lps.iccr.edu.au/</rifcs:identifier>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:electronic type="url">
+                  <rifcs:value>http://www.lps.iccr.edu.au/</rifcs:value>
+               </rifcs:electronic>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.iccr.edu.au/</rifcs:key>
+            <rifcs:relation type="isManagedBy"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">The Learner’s Perspective Study examines the patterns of participation in competently-taught eighth grade mathematics classrooms in sixteen countries in a more integrated and comprehensive fashion than has been attempted in previous international studies. Research teams now participating in the Learner’s’ Perspective study are based in universities in Australia, China, the Czech Republic, Germany, Israel, Japan, Korea, New Zealand, Norway, The Philippines, Portugal, Singapore, South Africa, Sweden, the United Kingdom and the USA.
+
+The results of the Learner's Perspective Study are reported in a Book Series, published by Sense Publishers . The first two volumes are:
+Mathematics Classrooms in Twelve Countries: The Insider's Perspective, and Making Connections: Comparing Mathematics Classrooms Around the World. New volumes will be released in the future to further enhance the series.</rifcs:description>
+         <rifcs:subject type="anzsrc-for">130309</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1301</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1302</rifcs:subject>
+      </rifcs:activity>
+      <rifcs:collection type="dataset">
+         <rifcs:identifier type="local">iccr:countryCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/Germany</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Research Data: Germany, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.iccr.edu.au/</rifcs:key>
+            <rifcs:relation type="isManagedBy"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isOutputOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.lps.iccr.edu.au/index.php/research-teams/5-research-teams-germany</rifcs:key>
+            <rifcs:relation type="hasCollector"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">This collection consists of data collected in Germany (1999-2000) as part of the Learner's Perspective Study, a sixteen-country international project to document "well-taught" mathematics classrooms. Data was collected through the use of three cameras (on the teacher, class as a whole and a student group), supplemented by post-lesson video-stimulated interviews (audio and video records) with students and teachers, test data, teacher questionnaires, and copies of student and teacher written material.
+
+Data was collected from three schools and from a sequence of at least ten year 8 mathematics lessons in each school, which were generally focussed on the same topic e.g. algebra.
+
+This collection includes: video files (format: H.264); lesson materials (jpg, pdf), including a seating plan for the classroom with names of students (de-identified); lesson form table, a detailed deconstruction of the lesson; teacher questionnaire; time-coded transcriptions and translations (where relevant); student's work from the lesson (scanned pdf file); researcher field notes; consent forms; syllabus; school timetables; research team bi-annual meeting minutes.
+
+The collection is housed on RAID5 fibre channel array connected to the videoportal server. The ICCR also maintains hard copies (DVD/CD/Pocket Hard Disk) of all data as it was originally delivered.
+
+Collection size: 60GB</rifcs:description>
+         <rifcs:description type="rights">Contact the International Centre for Classroom Research directly for terms and conditions of access.</rifcs:description>
+         <rifcs:subject type="anzsrc-for">130309</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1301</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1302</rifcs:subject>
+      </rifcs:collection>
+      <rifcs:party type="group">
+         <rifcs:identifier type="local">http://www.lps.iccr.edu.au/index.php/research-teams/5-research-teams-germany</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Research Team: Germany, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:identifier type="uri">http://www.lps.iccr.edu.au/index.php/research-teams/5-research-teams-germany</rifcs:identifier>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:electronic type="url">
+                  <rifcs:value>http://www.lps.iccr.edu.au/index.php/research-teams/5-research-teams-germany</rifcs:value>
+               </rifcs:electronic>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isParticipantIn"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">The German Research Team for the Learner's Perspective Study includes: Christine Keitel (LPS team leader in Germany, Freie Universität Berlin), Dr. Eva Jablonka (Freie Universität Berlin), Astrid Begehr (LPS Data Coordinator, Freie Universität Berlin).</rifcs:description>
+      </rifcs:party>
+      <rifcs:collection type="dataset">
+         <rifcs:identifier type="local">iccr:schoolCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/Germany/Classroom_video_data:_Germany,_School_3</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Classroom video data: Germany, School 3, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.iccr.edu.au/</rifcs:key>
+            <rifcs:relation type="isManagedBy"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isOutputOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:countryCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/Germany</rifcs:key>
+            <rifcs:relation type="isPartOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.lps.iccr.edu.au/index.php/research-teams/5-research-teams-germany</rifcs:key>
+            <rifcs:relation type="hasCollector"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">This School level collection is part of the Research Data Germany Collection, taken from the Learner’s Perspective Study project. This Government school in Berlin participated in a sequence of 11 lessons on the topic of Volume.</rifcs:description>
+         <rifcs:description type="rights">Contact the International Centre for Classroom Research directly for terms and conditions of access.</rifcs:description>
+         <rifcs:subject type="anzsrc-for">130309</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1301</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1302</rifcs:subject>
+      </rifcs:collection>
+      <rifcs:collection type="dataset">
+         <rifcs:identifier type="local">iccr:schoolCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/Germany/Classroom_video_data:_Germany,_School_2</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Classroom video data: Germany, School 2, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.iccr.edu.au/</rifcs:key>
+            <rifcs:relation type="isManagedBy"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isOutputOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:countryCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/Germany</rifcs:key>
+            <rifcs:relation type="isPartOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.lps.iccr.edu.au/index.php/research-teams/5-research-teams-germany</rifcs:key>
+            <rifcs:relation type="hasCollector"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">This School level collection is part of the Research Data Germany Collection, taken from the Learner’s Perspective Study project. This Government school in Berlin participated in a sequence of 11 lessons on the topic of Linear Equations.</rifcs:description>
+         <rifcs:description type="rights">Contact the International Centre for Classroom Research directly for terms and conditions of access.</rifcs:description>
+         <rifcs:subject type="anzsrc-for">130309</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1301</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1302</rifcs:subject>
+      </rifcs:collection>
+      <rifcs:collection type="dataset">
+         <rifcs:identifier type="local">iccr:schoolCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/Germany/Classroom_video_data:_Germany,_School_1</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Classroom video data: Germany, School 1, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.iccr.edu.au/</rifcs:key>
+            <rifcs:relation type="isManagedBy"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isOutputOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:countryCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/Germany</rifcs:key>
+            <rifcs:relation type="isPartOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.lps.iccr.edu.au/index.php/research-teams/5-research-teams-germany</rifcs:key>
+            <rifcs:relation type="hasCollector"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">This School level collection is part of the Research Data Germany Collection, taken from the Learner’s Perspective Study project. This Government school in Berlin participated in a sequence of 10 lessons on the topic of Algebra.</rifcs:description>
+         <rifcs:description type="rights">Contact the International Centre for Classroom Research directly for terms and conditions of access.</rifcs:description>
+         <rifcs:subject type="anzsrc-for">130309</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1301</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1302</rifcs:subject>
+      </rifcs:collection>
+      <rifcs:collection type="dataset">
+         <rifcs:identifier type="local">iccr:countryCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/USA</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Research Team: United States, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.iccr.edu.au/</rifcs:key>
+            <rifcs:relation type="isManagedBy"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isOutputOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.lps.iccr.edu.au/index.php/research-teams/15-research-team-usa</rifcs:key>
+            <rifcs:relation type="hasCollector"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">This collection consists of data collected in the United States (2000) as part of the Learner's Perspective Study, a sixteen-country international project to document "well-taught" mathematics classrooms. Data was collected through the use of three cameras (on the teacher, class as a whole and a student group), supplemented by post-lesson video-stimulated interviews (audio and video records) with students and teachers, test data, teacher questionnaires, and copies of student and teacher written material.
+
+Data was collected from three schools and from a sequence of at least ten year 8 mathematics lessons in each school, which were generally focussed on the same topic e.g. algebra.
+
+This collection includes: video files (format: H.264); lesson materials (jpg, pdf), including a seating plan for the classroom with names of students (de-identified); lesson form table, a detailed deconstruction of the lesson; teacher questionnaire; time-coded transcriptions and translations (where relevant); student's work from the lesson (scanned pdf file); researcher field notes; consent forms; syllabus; school timetables; research team bi-annual meeting minutes.
+
+The collection is housed on RAID5 fibre channel array connected to the videoportal server. The ICCR also maintains hard copies (DVD/CD/Pocket Hard Disk) of all data as it was originally delivered.
+
+Collection size: 113GB</rifcs:description>
+         <rifcs:description type="rights">Contact the International Centre for Classroom Research directly for terms and conditions of access.</rifcs:description>
+         <rifcs:subject type="anzsrc-for">130309</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1301</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1302</rifcs:subject>
+      </rifcs:collection>
+      <rifcs:party type="group">
+         <rifcs:identifier type="local">http://www.lps.iccr.edu.au/index.php/research-teams/15-research-team-usa</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Research Team: United States, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:identifier type="uri">http://www.lps.iccr.edu.au/index.php/research-teams/15-research-team-usa</rifcs:identifier>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:electronic type="url">
+                  <rifcs:value>http://www.lps.iccr.edu.au/index.php/research-teams/15-research-team-usa</rifcs:value>
+               </rifcs:electronic>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isParticipantIn"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">The United States Research Team for the Learner's Perspective Study included: TERRY WOOD (Purdue University), JOANNE LOBATO (LPS team leader, San Diego State University).</rifcs:description>
+      </rifcs:party>
+      <rifcs:collection type="dataset">
+         <rifcs:identifier type="local">iccr:schoolCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/USA/Classroom_video_data:_USA,_School_3</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Classroom video data: USA, School 3, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.iccr.edu.au/</rifcs:key>
+            <rifcs:relation type="isManagedBy"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isOutputOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:countryCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/USA</rifcs:key>
+            <rifcs:relation type="isPartOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.lps.iccr.edu.au/index.php/research-teams/15-research-team-usa</rifcs:key>
+            <rifcs:relation type="hasCollector"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">This School level collection is part of the Research Data United States Collection, taken from the Learner’s Perspective Study project. This Government school in the USA participated in a sequence of 10 lessons on the topic of Algebra.</rifcs:description>
+         <rifcs:description type="rights">Contact the International Centre for Classroom Research directly for terms and conditions of access.</rifcs:description>
+         <rifcs:subject type="anzsrc-for">130309</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1301</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1302</rifcs:subject>
+      </rifcs:collection>
+      <rifcs:collection type="dataset">
+         <rifcs:identifier type="local">iccr:schoolCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/USA/Classroom_video_data:_USA,_School_2</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Classroom video data: USA, School 2, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.iccr.edu.au/</rifcs:key>
+            <rifcs:relation type="isManagedBy"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isOutputOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:countryCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/USA</rifcs:key>
+            <rifcs:relation type="isPartOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.lps.iccr.edu.au/index.php/research-teams/15-research-team-usa</rifcs:key>
+            <rifcs:relation type="hasCollector"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">This School level collection is part of the Research Data United States Collection, taken from the Learner’s Perspective Study project. This Government school in the USA participated in a sequence of 10 lessons on the topic of Functions, Relations and Patterns. Equations, Inequalities and Formulas. Problem Solving Strategies.</rifcs:description>
+         <rifcs:description type="rights">Contact the International Centre for Classroom Research directly for terms and conditions of access.</rifcs:description>
+         <rifcs:subject type="anzsrc-for">130309</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1301</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1302</rifcs:subject>
+      </rifcs:collection>
+      <rifcs:collection type="dataset">
+         <rifcs:identifier type="local">iccr:schoolCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/USA/Classroom_video_data:_USA,_School_1</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Classroom video data: USA, School 1, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.iccr.edu.au/</rifcs:key>
+            <rifcs:relation type="isManagedBy"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isOutputOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:countryCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/USA</rifcs:key>
+            <rifcs:relation type="isPartOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.lps.iccr.edu.au/index.php/research-teams/15-research-team-usa</rifcs:key>
+            <rifcs:relation type="hasCollector"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">This School level collection is part of the Research Data United States Collection, taken from the Learner’s Perspective Study project. This Government school in the USA participated in a sequence of 10 lessons on the topic of Pre Algebra.</rifcs:description>
+         <rifcs:description type="rights">Contact the International Centre for Classroom Research directly for terms and conditions of access.</rifcs:description>
+         <rifcs:subject type="anzsrc-for">130309</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1301</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1302</rifcs:subject>
+      </rifcs:collection>
+      <rifcs:collection type="dataset">
+         <rifcs:identifier type="local">iccr:countryCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/Australia</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Research Data: Australia, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.iccr.edu.au/</rifcs:key>
+            <rifcs:relation type="isManagedBy"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isOutputOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.lps.iccr.edu.au/index.php/research-teams/2-research-teams-australia</rifcs:key>
+            <rifcs:relation type="hasCollector"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">This collection consists of data collected in Australia, 2000-2001, as part of the Learner's Perspective Study, a sixteen-country international project to document "well-taught" mathematics classrooms. Data was collected through the use of three cameras (on the teacher, class as a whole and a student group), supplemented by post-lesson video-stimulated interviews (audio and video records) with students and teachers, test data, teacher questionnaires, and copies of student and teacher written material.
+
+Data was collected from three schools and from a sequence of ten year 8 mathematics lessons, which were generally focussed on the same topic e.g. algebra.
+
+This collection includes: video files (format: H.264); lesson materials (jpg, pdf), including a seating plan for the classroom with names of students (de-identified); lesson form table, a detailed deconstruction of the lesson; teacher questionnaire; time-coded transcriptions and translations (where relevant); student's work from the lesson (scanned pdf file); researcher field notes; consent forms; syllabus; school timetables; research team bi-annual meeting minutes.
+
+The collection is housed on RAID5 fibre channel array connected to the videoportal server. The ICCR also maintains hard copies (DVD/CD/Pocket Hard Disk) of all data as it was originally delivered. All Australian data includes original VHS/DV tapes, audio tapes and hard copy scans.
+
+Collection size: 95GB
+
+Data was collected from three schools and from a sequence of at least ten year 8 mathematics lessons in each school, which were generally focussed on the same topic e.g. algebra.
+
+This collection includes: video files (format: H.264); lesson materials (jpg, pdf), including a seating plan for the classroom with names of students (de-identified); lesson form table, a detailed deconstruction of the lesson; teacher questionnaire; time-coded transcriptions and translations (where relevant); student's work from the lesson (scanned pdf file); researcher field notes; consent forms; syllabus; school timetables; research team bi-annual meeting minutes.
+
+The collection is housed on RAID5 fibre channel array connected to the videoportal server. The ICCR also maintains hard copies (DVD/CD/Pocket Hard Disk) of all data as it was originally delivered.
+
+Collection size: 113GB</rifcs:description>
+         <rifcs:description type="rights">Contact the International Centre for Classroom Research directly for terms and conditions of access.</rifcs:description>
+         <rifcs:subject type="anzsrc-for">130309</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1301</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1302</rifcs:subject>
+      </rifcs:collection>
+      <rifcs:party type="group">
+         <rifcs:identifier type="local">http://www.lps.iccr.edu.au/index.php/research-teams/2-research-teams-australia</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Research Team: Australia, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:identifier type="uri">http://www.lps.iccr.edu.au/index.php/research-teams/2-research-teams-australia</rifcs:identifier>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:electronic type="url">
+                  <rifcs:value>http://www.lps.iccr.edu.au/index.php/research-teams/2-research-teams-australia</rifcs:value>
+               </rifcs:electronic>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isParticipantIn"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">The Australian Research Team for the Learner's Perspective Study includes: David Clarke (Project Co-ordinator, University of Melbourne), Gaye Williams (Deakin University), Catherine O'Keefe (University of Melbourne), Carmel Mesiti (University of Melbourne), Katja Kofod Svan (Denmark) and Derek Holton (University of Otago).</rifcs:description>
+      </rifcs:party>
+      <rifcs:collection type="dataset">
+         <rifcs:identifier type="local">iccr:schoolCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/Australia/Classroom_video_data:_Australia,_School_4</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Classroom video data: Australia, School 4, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.iccr.edu.au/</rifcs:key>
+            <rifcs:relation type="isManagedBy"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isOutputOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:countryCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/Australia</rifcs:key>
+            <rifcs:relation type="isPartOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.lps.iccr.edu.au/index.php/research-teams/2-research-teams-australia</rifcs:key>
+            <rifcs:relation type="hasCollector"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">This School level collection is part of the Research Data Australia Collection, taken from the Learner’s Perspective Study project. This Government school in Melbourne's outer Eastern Suburbs, participated in a sequence of 10 lessons on the topic of Geometry.</rifcs:description>
+         <rifcs:description type="rights">Contact the International Centre for Classroom Research directly for terms and conditions of access.</rifcs:description>
+         <rifcs:subject type="anzsrc-for">130309</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1301</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1302</rifcs:subject>
+      </rifcs:collection>
+      <rifcs:collection type="dataset">
+         <rifcs:identifier type="local">iccr:schoolCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/Australia/Classroom_video_data:_Australia,_School_3</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Classroom video data: Australia, School 3, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.iccr.edu.au/</rifcs:key>
+            <rifcs:relation type="isManagedBy"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isOutputOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:countryCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/Australia</rifcs:key>
+            <rifcs:relation type="isPartOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.lps.iccr.edu.au/index.php/research-teams/2-research-teams-australia</rifcs:key>
+            <rifcs:relation type="hasCollector"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">This School level collection is part of the Research Data Australia Collection, taken from the Learner’s Perspective Study project. This Government school in Melbourne's Northern Suburbs, participated in a sequence of 10 lessons on the topic of percentages.</rifcs:description>
+         <rifcs:description type="rights">Contact the International Centre for Classroom Research directly for terms and conditions of access.</rifcs:description>
+         <rifcs:description type="note">Funding body: The Spencer Foundation, The Australian Research Council</rifcs:description>
+         <rifcs:subject type="anzsrc-for">130309</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1301</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1302</rifcs:subject>
+      </rifcs:collection>
+      <rifcs:collection type="dataset">
+         <rifcs:identifier type="local">iccr:schoolCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/Australia/Classroom_video_data:_Australia,_School_2</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Classroom video data: Australia, School 2, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.iccr.edu.au/</rifcs:key>
+            <rifcs:relation type="isManagedBy"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isOutputOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:countryCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/Australia</rifcs:key>
+            <rifcs:relation type="isPartOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.lps.iccr.edu.au/index.php/research-teams/2-research-teams-australia</rifcs:key>
+            <rifcs:relation type="hasCollector"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">This School level collection is part of the Research Data Australia Collection, taken from the Learner’s Perspective Study project. This Government school in Melbourne participated in a sequence of 10 lessons on the topic of  algebra.</rifcs:description>
+         <rifcs:description type="rights">Contact the International Centre for Classroom Research directly for terms and conditions of access.</rifcs:description>
+         <rifcs:description type="note">Funding body: The Spencer Foundation, The Australian Research Council</rifcs:description>
+         <rifcs:subject type="anzsrc-for">130309</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1301</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1302</rifcs:subject>
+      </rifcs:collection>
+      <rifcs:collection type="dataset">
+         <rifcs:identifier type="local">iccr:schoolCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/Australia/Classroom_video_data:_Australia,_School_1</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Classroom video data: Australia, School 1, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.iccr.edu.au/</rifcs:key>
+            <rifcs:relation type="isManagedBy"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isOutputOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:countryCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/Australia</rifcs:key>
+            <rifcs:relation type="isPartOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.lps.iccr.edu.au/index.php/research-teams/2-research-teams-australia</rifcs:key>
+            <rifcs:relation type="hasCollector"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">This School level collection is part of the Research Data Australia Collection, taken from the Learner’s Perspective Study project. This Government school in Melbourne's East participated in a sequence of 10 lessons on the topic of  measurement.</rifcs:description>
+         <rifcs:description type="rights">Contact the International Centre for Classroom Research directly for terms and conditions of access.</rifcs:description>
+         <rifcs:description type="note">Funding body: The Spencer Foundation, The Australian Research Council</rifcs:description>
+         <rifcs:subject type="anzsrc-for">130309</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1301</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1302</rifcs:subject>
+      </rifcs:collection>
+      <rifcs:collection type="dataset">
+         <rifcs:identifier type="local">iccr:countryCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/Sweden</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Research Team: Sweden, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.iccr.edu.au/</rifcs:key>
+            <rifcs:relation type="isManagedBy"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isOutputOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.lps.iccr.edu.au/index.php/research-teams/13-research-teams-sweden</rifcs:key>
+            <rifcs:relation type="hasCollector"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">This collection consists of data collected in Sweden (2003-4) as part of the Learner's Perspective Study, a sixteen-country international project to document "well-taught" mathematics classrooms. Data was collected through the use of three cameras (on the teacher, class as a whole and a student group), supplemented by post-lesson video-stimulated interviews (audio and video records) with students and teachers, test data, teacher questionnaires, and copies of student and teacher written material.
+
+Data was collected from three schools and from a sequence of at least ten year 8 mathematics lessons in each school, which were generally focussed on the same topic e.g. algebra.
+
+This collection includes: video files (format: H.264); lesson materials (jpg, pdf), including a seating plan for the classroom with names of students (de-identified); lesson form table, a detailed deconstruction of the lesson; teacher questionnaire; time-coded transcriptions and translations (where relevant); student's work from the lesson (scanned pdf file); researcher field notes; consent forms; syllabus; school timetables; research team bi-annual meeting minutes.
+
+The collection is housed on RAID5 fibre channel array connected to the videoportal server. The ICCR also maintains hard copies (DVD/CD/Pocket Hard Disk) of all data as it was originally delivered.
+
+Collection size: 31GB</rifcs:description>
+         <rifcs:description type="rights">Contact the International Centre for Classroom Research directly for terms and conditions of access.</rifcs:description>
+         <rifcs:subject type="anzsrc-for">130309</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1301</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1302</rifcs:subject>
+      </rifcs:collection>
+      <rifcs:party type="group">
+         <rifcs:identifier type="local">http://www.lps.iccr.edu.au/index.php/research-teams/13-research-teams-sweden</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Research Team: Sweden, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:identifier type="uri">http://www.lps.iccr.edu.au/index.php/research-teams/13-research-teams-sweden</rifcs:identifier>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:electronic type="url">
+                  <rifcs:value>http://www.lps.iccr.edu.au/index.php/research-teams/13-research-teams-sweden</rifcs:value>
+               </rifcs:electronic>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isParticipantIn"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">The Swedish Research Team for the Learner's Perspective Study includes: FERENCE MARTON (LPS team leader, Göteborgs universitet), SVERKER LINDBLAD (Göteborg University), JONAS EMANUELSSON (Göteborgs universitet),  Livia Norström (Göteborgs universitet), JOSEFIN HAGGBLOM (Uppsala University), FRITJOF SAHLSTROM (LPS Team Leader in Uppsala), Johan Haggström (Göteborgs universitet), Bengt Johansson (Göteborgs universitet), Johan Liljestrand (Göteborgs universitet), Ulla Runesson (Göteborgs universitet).</rifcs:description>
+      </rifcs:party>
+      <rifcs:collection type="dataset">
+         <rifcs:identifier type="local">iccr:schoolCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/Sweden/Classroom_video_data:_Sweden,_School_2</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Classroom video data: Sweden, School 2, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.iccr.edu.au/</rifcs:key>
+            <rifcs:relation type="isManagedBy"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isOutputOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:countryCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/Sweden</rifcs:key>
+            <rifcs:relation type="isPartOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.lps.iccr.edu.au/index.php/research-teams/13-research-teams-sweden</rifcs:key>
+            <rifcs:relation type="hasCollector"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">This School level collection is part of the Research Data Sweden Collection, taken from the Learner’s Perspective Study project. This Government school in Sweden participated in a sequence of 12 lessons on the topic of Algebra.</rifcs:description>
+         <rifcs:description type="rights">Contact the International Centre for Classroom Research directly for terms and conditions of access.</rifcs:description>
+         <rifcs:subject type="anzsrc-for">130309</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1301</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1302</rifcs:subject>
+      </rifcs:collection>
+      <rifcs:collection type="dataset">
+         <rifcs:identifier type="local">iccr:schoolCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/Sweden/Classroom_video_data:_Sweden,_School_1</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Classroom video data: Sweden, School 1, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.iccr.edu.au/</rifcs:key>
+            <rifcs:relation type="isManagedBy"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isOutputOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:countryCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/Sweden</rifcs:key>
+            <rifcs:relation type="isPartOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.lps.iccr.edu.au/index.php/research-teams/13-research-teams-sweden</rifcs:key>
+            <rifcs:relation type="hasCollector"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">This School level collection is part of the Research Data Sweden Collection, taken from the Learner’s Perspective Study project. This Government school in Sweden participated in a sequence of 15 lessons on the topic of Graphs, Coordinates and Proportionality.</rifcs:description>
+         <rifcs:description type="rights">Contact the International Centre for Classroom Research directly for terms and conditions of access.</rifcs:description>
+         <rifcs:subject type="anzsrc-for">130309</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1301</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1302</rifcs:subject>
+      </rifcs:collection>
+      <rifcs:collection type="dataset">
+         <rifcs:identifier type="local">iccr:countryCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/Singapore</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Research Team: Singapore, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.iccr.edu.au/</rifcs:key>
+            <rifcs:relation type="isManagedBy"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isOutputOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.lps.iccr.edu.au/index.php/research-teams/11-research-teams-singapore</rifcs:key>
+            <rifcs:relation type="hasCollector"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">This collection consists of data collected in Singapore (2005-6) as part of the Learner's Perspective Study, a sixteen-country international project to document "well-taught" mathematics classrooms. Data was collected through the use of three cameras (on the teacher, class as a whole and a student group), supplemented by post-lesson video-stimulated interviews (audio and video records) with students and teachers, test data, teacher questionnaires, and copies of student and teacher written material.
+
+Data was collected from three schools and from a sequence of at least ten year 8 mathematics lessons in each school, which were generally focussed on the same topic e.g. algebra.
+
+This collection includes: video files (format: H.264); lesson materials (jpg, pdf), including a seating plan for the classroom with names of students (de-identified); lesson form table, a detailed deconstruction of the lesson; teacher questionnaire; time-coded transcriptions and translations (where relevant); student's work from the lesson (scanned pdf file); researcher field notes; consent forms; syllabus; school timetables; research team bi-annual meeting minutes.
+
+The collection is housed on RAID5 fibre channel array connected to the videoportal server. The ICCR also maintains hard copies (DVD/CD/Pocket Hard Disk) of all data as it was originally delivered.
+
+Collection size: 46GB</rifcs:description>
+         <rifcs:description type="rights">Contact the International Centre for Classroom Research directly for terms and conditions of access.</rifcs:description>
+         <rifcs:subject type="anzsrc-for">130309</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1301</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1302</rifcs:subject>
+      </rifcs:collection>
+      <rifcs:party type="group">
+         <rifcs:identifier type="local">http://www.lps.iccr.edu.au/index.php/research-teams/11-research-teams-singapore</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Research Team: Singapore, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:identifier type="uri">http://www.lps.iccr.edu.au/index.php/research-teams/11-research-teams-singapore</rifcs:identifier>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:electronic type="url">
+                  <rifcs:value>http://www.lps.iccr.edu.au/index.php/research-teams/11-research-teams-singapore</rifcs:value>
+               </rifcs:electronic>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isParticipantIn"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">The Singapore Research Team for the Learner's Perspective Study includes: BERINDERJEET KAUR (LPS team leader, NIE)</rifcs:description>
+      </rifcs:party>
+      <rifcs:collection type="dataset">
+         <rifcs:identifier type="local">iccr:schoolCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/Singapore/Classroom_video_data:_Singapore,_School_3</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Classroom video data: Singapore, School 3, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.iccr.edu.au/</rifcs:key>
+            <rifcs:relation type="isManagedBy"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isOutputOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:countryCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/Singapore</rifcs:key>
+            <rifcs:relation type="isPartOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.lps.iccr.edu.au/index.php/research-teams/11-research-teams-singapore</rifcs:key>
+            <rifcs:relation type="hasCollector"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">This School level collection is part of the Research Data Singapore Collection, taken from the Learner’s Perspective Study project. This Government school in Singapore participated in a sequence of 10 lessons.</rifcs:description>
+         <rifcs:description type="rights">Contact the International Centre for Classroom Research directly for terms and conditions of access.</rifcs:description>
+         <rifcs:subject type="anzsrc-for">130309</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1301</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1302</rifcs:subject>
+      </rifcs:collection>
+      <rifcs:collection type="dataset">
+         <rifcs:identifier type="local">iccr:schoolCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/Singapore/Classroom_video_data:_Singapore,_School_2</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Classroom video data: Singapore, School 2, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.iccr.edu.au/</rifcs:key>
+            <rifcs:relation type="isManagedBy"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isOutputOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:countryCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/Singapore</rifcs:key>
+            <rifcs:relation type="isPartOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.lps.iccr.edu.au/index.php/research-teams/11-research-teams-singapore</rifcs:key>
+            <rifcs:relation type="hasCollector"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">This School level collection is part of the Research Data Singapore Collection, taken from the Learner’s Perspective Study project. This Government school in Singapore participated in a sequence of 10 lessons.</rifcs:description>
+         <rifcs:description type="rights">Contact the International Centre for Classroom Research directly for terms and conditions of access.</rifcs:description>
+         <rifcs:subject type="anzsrc-for">130309</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1301</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1302</rifcs:subject>
+      </rifcs:collection>
+      <rifcs:collection type="dataset">
+         <rifcs:identifier type="local">iccr:schoolCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/Singapore/Classroom_video_data:_Singapore,_School_1</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Classroom video data: Singapore, School 1, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.iccr.edu.au/</rifcs:key>
+            <rifcs:relation type="isManagedBy"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isOutputOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:countryCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/Singapore</rifcs:key>
+            <rifcs:relation type="isPartOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.lps.iccr.edu.au/index.php/research-teams/11-research-teams-singapore</rifcs:key>
+            <rifcs:relation type="hasCollector"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">This School level collection is part of the Research Data Singapore Collection, taken from the Learner’s Perspective Study project. This Government school in Singapore participated in a sequence of 10 lessons.</rifcs:description>
+         <rifcs:description type="rights">Contact the International Centre for Classroom Research directly for terms and conditions of access.</rifcs:description>
+         <rifcs:subject type="anzsrc-for">130309</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1301</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1302</rifcs:subject>
+      </rifcs:collection>
+      <rifcs:collection type="dataset">
+         <rifcs:identifier type="local">iccr:countryCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/China</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Research Data: China, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.iccr.edu.au/</rifcs:key>
+            <rifcs:relation type="isManagedBy"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isOutputOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.lps.iccr.edu.au/index.php/research-teams/3-research-teams-china</rifcs:key>
+            <rifcs:relation type="hasCollector"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">This collection consists of data collected in China as part of the Learner's Perspective Study, a sixteen-country international project to document "well-taught" mathematics classrooms. Data was collected through the use of three cameras (on the teacher, class as a whole and a student group), supplemented by post-lesson video-stimulated interviews (audio and video records) with students and teachers, test data, teacher questionnaires, and copies of student and teacher written material.
+
+Data was collected from three schools in Macau (2001-2002) and Shanghai (2005) and from a sequence of at least ten year 8 mathematics lessons in each school, which were generally focussed on the same topic e.g. algebra.
+
+This collection includes: video files (format: H.264); lesson materials (jpg, pdf), including a seating plan for the classroom with names of students (de-identified); lesson form table, a detailed deconstruction of the lesson; teacher questionnaire; time-coded transcriptions and translations (where relevant); student's work from the lesson (scanned pdf file); researcher field notes; consent forms; syllabus; school timetables; research team bi-annual meeting minutes.
+
+The collection is housed on RAID5 fibre channel array connected to the videoportal server. The ICCR also maintains hard copies (DVD/CD/Pocket Hard Disk) of all data as it was originally delivered.
+
+Collection size: 67GB</rifcs:description>
+         <rifcs:description type="rights">Contact the International Centre for Classroom Research directly for terms and conditions of access.</rifcs:description>
+         <rifcs:subject type="anzsrc-for">130309</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1301</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1302</rifcs:subject>
+      </rifcs:collection>
+      <rifcs:party type="group">
+         <rifcs:identifier type="local">http://www.lps.iccr.edu.au/index.php/research-teams/3-research-teams-china</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Research Team: China, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:identifier type="uri">http://www.lps.iccr.edu.au/index.php/research-teams/3-research-teams-china</rifcs:identifier>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:electronic type="url">
+                  <rifcs:value>http://www.lps.iccr.edu.au/index.php/research-teams/3-research-teams-china</rifcs:value>
+               </rifcs:electronic>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isParticipantIn"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">The Chinese Research Team for the Learner's Perspective Study includes: FREDERICK K.S. LEUNG (The University of Hong Kong), IDA Ah Chee MOK (The University of Hong Kong), FRANCIS LOPEZ-REAL (University of Hong Kong), RONGJIN HUANG (University of Macau), ZHONGDAN HUAN (Beijing Normal University).</rifcs:description>
+      </rifcs:party>
+      <rifcs:collection type="dataset">
+         <rifcs:identifier type="local">iccr:schoolCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/China/Classroom_video_data:_China,_Macau_School_2</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Classroom video data: China, Macau School 2, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.iccr.edu.au/</rifcs:key>
+            <rifcs:relation type="isManagedBy"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isOutputOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:countryCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/China</rifcs:key>
+            <rifcs:relation type="isPartOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.lps.iccr.edu.au/index.php/research-teams/3-research-teams-china</rifcs:key>
+            <rifcs:relation type="hasCollector"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">This School level collection is part of the Research Data China Collection, taken from the Learner’s Perspective Study project. This Government school in Macau, participated in a sequence of 12 lessons on the topic of Linear Equations.</rifcs:description>
+         <rifcs:description type="rights">Contact the International Centre for Classroom Research directly for terms and conditions of access.</rifcs:description>
+         <rifcs:subject type="anzsrc-for">130309</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1301</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1302</rifcs:subject>
+      </rifcs:collection>
+      <rifcs:collection type="dataset">
+         <rifcs:identifier type="local">iccr:schoolCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/China/Classroom_video_data:_China,_Shanghai_School_1</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Classroom video data: China, Shanghai School 1, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.iccr.edu.au/</rifcs:key>
+            <rifcs:relation type="isManagedBy"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isOutputOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:countryCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/China</rifcs:key>
+            <rifcs:relation type="isPartOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.lps.iccr.edu.au/index.php/research-teams/3-research-teams-china</rifcs:key>
+            <rifcs:relation type="hasCollector"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">This School level collection is part of the Research Data China Collection, taken from the Learner’s Perspective Study project. This Government school in Shanghai participated in a sequence of 15 lessons on the topic of Linear Equations.</rifcs:description>
+         <rifcs:description type="rights">Contact the International Centre for Classroom Research directly for terms and conditions of access.</rifcs:description>
+         <rifcs:subject type="anzsrc-for">130309</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1301</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1302</rifcs:subject>
+      </rifcs:collection>
+      <rifcs:collection type="dataset">
+         <rifcs:identifier type="local">iccr:schoolCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/China/Classroom_video_data:_Hong_Kong,_School_2</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Classroom video data: Hong Kong, School 2, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.iccr.edu.au/</rifcs:key>
+            <rifcs:relation type="isManagedBy"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isOutputOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:countryCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/China</rifcs:key>
+            <rifcs:relation type="isPartOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.lps.iccr.edu.au/index.php/research-teams/3-research-teams-china</rifcs:key>
+            <rifcs:relation type="hasCollector"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">This School level collection is part of the Research Data Hong Kong Collection, taken from the Learner’s Perspective Study project. This Government school in Hong Kong participated in a sequence of 10 lessons on the topic of Simultaneous Equations.</rifcs:description>
+         <rifcs:description type="rights">Contact the International Centre for Classroom Research directly for terms and conditions of access.</rifcs:description>
+         <rifcs:subject type="anzsrc-for">130309</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1301</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1302</rifcs:subject>
+      </rifcs:collection>
+      <rifcs:collection type="dataset">
+         <rifcs:identifier type="local">iccr:schoolCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/China/Classroom_video_data:_China,_Shanghai_School_3</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Classroom video data: China, Shanghai School 3, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.iccr.edu.au/</rifcs:key>
+            <rifcs:relation type="isManagedBy"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isOutputOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:countryCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/China</rifcs:key>
+            <rifcs:relation type="isPartOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.lps.iccr.edu.au/index.php/research-teams/3-research-teams-china</rifcs:key>
+            <rifcs:relation type="hasCollector"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">This School level collection is part of the Research Data China Collection, taken from the Learner’s Perspective Study project. This Government school in Shanghai participated in a sequence of 15 lessons on the topic of Linear Equations.</rifcs:description>
+         <rifcs:description type="rights">Contact the International Centre for Classroom Research directly for terms and conditions of access.</rifcs:description>
+         <rifcs:subject type="anzsrc-for">130309</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1301</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1302</rifcs:subject>
+      </rifcs:collection>
+      <rifcs:collection type="dataset">
+         <rifcs:identifier type="local">iccr:schoolCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/China/Classroom_video_data:_China,_Macau_School_3</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Classroom video data: China, Macau School 3, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.iccr.edu.au/</rifcs:key>
+            <rifcs:relation type="isManagedBy"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isOutputOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:countryCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/China</rifcs:key>
+            <rifcs:relation type="isPartOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.lps.iccr.edu.au/index.php/research-teams/3-research-teams-china</rifcs:key>
+            <rifcs:relation type="hasCollector"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">This School level collection is part of the Research Data China Collection, taken from the Learner’s Perspective Study project. This Government school in Macau, participated in a sequence of 15 lessons on the topic of Linear Equations.</rifcs:description>
+         <rifcs:description type="rights">Contact the International Centre for Classroom Research directly for terms and conditions of access.</rifcs:description>
+         <rifcs:subject type="anzsrc-for">130309</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1301</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1302</rifcs:subject>
+      </rifcs:collection>
+      <rifcs:collection type="dataset">
+         <rifcs:identifier type="local">iccr:schoolCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/China/Classroom_video_data:_China,_Macau_School_1</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Classroom video data: China, Macau School 1, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.iccr.edu.au/</rifcs:key>
+            <rifcs:relation type="isManagedBy"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isOutputOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:countryCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/China</rifcs:key>
+            <rifcs:relation type="isPartOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.lps.iccr.edu.au/index.php/research-teams/3-research-teams-china</rifcs:key>
+            <rifcs:relation type="hasCollector"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">This School level collection is part of the Research Data China Collection, taken from the Learner’s Perspective Study project. This Government school in Macau, participated in a sequence of 14 lessons on the topic of Linear Equations.</rifcs:description>
+         <rifcs:description type="rights">Contact the International Centre for Classroom Research directly for terms and conditions of access.</rifcs:description>
+         <rifcs:subject type="anzsrc-for">130309</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1301</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1302</rifcs:subject>
+      </rifcs:collection>
+      <rifcs:collection type="dataset">
+         <rifcs:identifier type="local">iccr:schoolCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/China/Classroom_video_data:_Hong_Kong,_School_3</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Classroom video data: Hong Kong, School 3, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.iccr.edu.au/</rifcs:key>
+            <rifcs:relation type="isManagedBy"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isOutputOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:countryCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/China</rifcs:key>
+            <rifcs:relation type="isPartOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.lps.iccr.edu.au/index.php/research-teams/3-research-teams-china</rifcs:key>
+            <rifcs:relation type="hasCollector"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">This School level collection is part of the Research Data Hong Kong Collection, taken from the Learner’s Perspective Study project. This Government school in Hong Kong participated in a sequence of 10 lessons on the topic of Simultaneous Equations.</rifcs:description>
+         <rifcs:description type="rights">Contact the International Centre for Classroom Research directly for terms and conditions of access.</rifcs:description>
+         <rifcs:subject type="anzsrc-for">130309</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1301</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1302</rifcs:subject>
+      </rifcs:collection>
+      <rifcs:collection type="dataset">
+         <rifcs:identifier type="local">iccr:schoolCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/China/Classroom_video_data:_China,_Shanghai_School_2</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Classroom video data: China, Shanghai School 2, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.iccr.edu.au/</rifcs:key>
+            <rifcs:relation type="isManagedBy"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isOutputOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:countryCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/China</rifcs:key>
+            <rifcs:relation type="isPartOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.lps.iccr.edu.au/index.php/research-teams/3-research-teams-china</rifcs:key>
+            <rifcs:relation type="hasCollector"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">This School level collection is part of the Research Data China Collection, taken from the Learner’s Perspective Study project. This Government school in Shanghai participated in a sequence of 14 lessons on the topic of Linear Equations.</rifcs:description>
+         <rifcs:description type="rights">Contact the International Centre for Classroom Research directly for terms and conditions of access.</rifcs:description>
+         <rifcs:subject type="anzsrc-for">130309</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1301</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1302</rifcs:subject>
+      </rifcs:collection>
+      <rifcs:collection type="dataset">
+         <rifcs:identifier type="local">iccr:schoolCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/China/Classroom_video_data:_Hong_Kong,_School_1</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Classroom video data: Hong Kong, School 1, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.iccr.edu.au/</rifcs:key>
+            <rifcs:relation type="isManagedBy"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isOutputOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:countryCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/China</rifcs:key>
+            <rifcs:relation type="isPartOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.lps.iccr.edu.au/index.php/research-teams/3-research-teams-china</rifcs:key>
+            <rifcs:relation type="hasCollector"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">This School level collection is part of the Research Data Hong Kong Collection, taken from the Learner’s Perspective Study project. This Government school in Hong Kong participated in a sequence of 9 lessons on the topic of Linear Equations.</rifcs:description>
+         <rifcs:description type="rights">Contact the International Centre for Classroom Research directly for terms and conditions of access.</rifcs:description>
+         <rifcs:subject type="anzsrc-for">130309</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1301</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1302</rifcs:subject>
+      </rifcs:collection>
+      <rifcs:collection type="dataset">
+         <rifcs:identifier type="local">iccr:countryCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/New_Zealand</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Research Team: New Zealand, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.iccr.edu.au/</rifcs:key>
+            <rifcs:relation type="isManagedBy"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isOutputOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.lps.iccr.edu.au/index.php/research-teams/9-research-teams-new-zealand</rifcs:key>
+            <rifcs:relation type="hasCollector"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">This collection consists of data collected in New Zealand (2007-08) as part of the Learner's Perspective Study, a sixteen-country international project to document "well-taught" mathematics classrooms. Data was collected through the use of three cameras (on the teacher, class as a whole and a student group), supplemented by post-lesson video-stimulated interviews (audio and video records) with students and teachers, test data, teacher questionnaires, and copies of student and teacher written material.
+
+Data was collected from three schools and from a sequence of at least ten year 8 mathematics lessons in each school, which were generally focussed on the same topic e.g. algebra.
+
+This collection includes: video files (format: H.264); lesson materials (jpg, pdf), including a seating plan for the classroom with names of students (de-identified); lesson form table, a detailed deconstruction of the lesson; teacher questionnaire; time-coded transcriptions and translations (where relevant); student's work from the lesson (scanned pdf file); researcher field notes; consent forms; syllabus; school timetables; research team bi-annual meeting minutes.
+
+The collection is housed on RAID5 fibre channel array connected to the videoportal server. The ICCR also maintains hard copies (DVD/CD/Pocket Hard Disk) of all data as it was originally delivered.
+
+Collection size: 33GB</rifcs:description>
+         <rifcs:description type="rights">Contact the International Centre for Classroom Research directly for terms and conditions of access.</rifcs:description>
+         <rifcs:subject type="anzsrc-for">130309</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1301</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1302</rifcs:subject>
+      </rifcs:collection>
+      <rifcs:party type="group">
+         <rifcs:identifier type="local">http://www.lps.iccr.edu.au/index.php/research-teams/9-research-teams-new-zealand</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Research Team: New Zealand, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:identifier type="uri">http://www.lps.iccr.edu.au/index.php/research-teams/9-research-teams-new-zealand</rifcs:identifier>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:electronic type="url">
+                  <rifcs:value>http://www.lps.iccr.edu.au/index.php/research-teams/9-research-teams-new-zealand</rifcs:value>
+               </rifcs:electronic>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isParticipantIn"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">The New Zealand Research Team for the Learner's Perspective Study includes: GLENDA ANTHONY (LPS team leader, Massey University), MARGARET WALSHAW (Massey University), LIPING DING (Massey University), TIM BURGESS (Massey University), PETER RAWLINS (Massey University), ANNE LAWRENCE (Massey University).</rifcs:description>
+      </rifcs:party>
+      <rifcs:collection type="dataset">
+         <rifcs:identifier type="local">iccr:schoolCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/New_Zealand/Classroom_video_data:_New_Zealand,_School_2</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Classroom video data: New Zealand, School 2, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.iccr.edu.au/</rifcs:key>
+            <rifcs:relation type="isManagedBy"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isOutputOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:countryCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/New_Zealand</rifcs:key>
+            <rifcs:relation type="isPartOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.lps.iccr.edu.au/index.php/research-teams/9-research-teams-new-zealand</rifcs:key>
+            <rifcs:relation type="hasCollector"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">This School level collection is part of the Research Data New Zealand Collection, taken from the Learner’s Perspective Study project. This Government school in New Zealand participated in a sequence of 10 lessons on the topic of Decimals.</rifcs:description>
+         <rifcs:description type="rights">Contact the International Centre for Classroom Research directly for terms and conditions of access.</rifcs:description>
+         <rifcs:subject type="anzsrc-for">130309</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1301</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1302</rifcs:subject>
+      </rifcs:collection>
+      <rifcs:collection type="dataset">
+         <rifcs:identifier type="local">iccr:schoolCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/New_Zealand/Classroom_video_data:_New_Zealand,_School_3</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Classroom video data: New Zealand, School 3, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.iccr.edu.au/</rifcs:key>
+            <rifcs:relation type="isManagedBy"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isOutputOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:countryCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/New_Zealand</rifcs:key>
+            <rifcs:relation type="isPartOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.lps.iccr.edu.au/index.php/research-teams/9-research-teams-new-zealand</rifcs:key>
+            <rifcs:relation type="hasCollector"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">This School level collection is part of the Research Data New Zealand Collection, taken from the Learner’s Perspective Study project. This Government school in New Zealand participated in a sequence of 10 lessons on the topic of Algebra.</rifcs:description>
+         <rifcs:description type="rights">Contact the International Centre for Classroom Research directly for terms and conditions of access.</rifcs:description>
+         <rifcs:subject type="anzsrc-for">130309</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1301</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1302</rifcs:subject>
+      </rifcs:collection>
+      <rifcs:collection type="dataset">
+         <rifcs:identifier type="local">iccr:schoolCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/New_Zealand/Classroom_video_data:_New_Zealand,_School_1</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Classroom video data: New Zealand, School 1, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.iccr.edu.au/</rifcs:key>
+            <rifcs:relation type="isManagedBy"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isOutputOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:countryCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/New_Zealand</rifcs:key>
+            <rifcs:relation type="isPartOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.lps.iccr.edu.au/index.php/research-teams/9-research-teams-new-zealand</rifcs:key>
+            <rifcs:relation type="hasCollector"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">This School level collection is part of the Research Data New Zealand Collection, taken from the Learner’s Perspective Study project. This Government school in New Zealand participated in a sequence of 10 lessons on the topic of Fractions.</rifcs:description>
+         <rifcs:description type="rights">Contact the International Centre for Classroom Research directly for terms and conditions of access.</rifcs:description>
+         <rifcs:subject type="anzsrc-for">130309</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1301</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1302</rifcs:subject>
+      </rifcs:collection>
+      <rifcs:collection type="dataset">
+         <rifcs:identifier type="local">iccr:countryCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/Korea</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Research Team: Korea, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.iccr.edu.au/</rifcs:key>
+            <rifcs:relation type="isManagedBy"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isOutputOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.lps.iccr.edu.au/index.php/research-teams/8-research-teams-korea</rifcs:key>
+            <rifcs:relation type="hasCollector"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">This collection consists of data collected in Korea (2004) as part of the Learner's Perspective Study, a sixteen-country international project to document "well-taught" mathematics classrooms. Data was collected through the use of three cameras (on the teacher, class as a whole and a student group), supplemented by post-lesson video-stimulated interviews (audio and video records) with students and teachers, test data, teacher questionnaires, and copies of student and teacher written material.
+
+Data was collected from three schools and from a sequence of at least ten year 8 mathematics lessons in each school, which were generally focussed on the same topic e.g. algebra.
+
+This collection includes: video files (format: H.264); lesson materials (jpg, pdf), including a seating plan for the classroom with names of students (de-identified); lesson form table, a detailed deconstruction of the lesson; teacher questionnaire; time-coded transcriptions and translations (where relevant); student's work from the lesson (scanned pdf file); researcher field notes; consent forms; syllabus; school timetables; research team bi-annual meeting minutes.
+
+The collection is housed on RAID5 fibre channel array connected to the videoportal server. The ICCR also maintains hard copies (DVD/CD/Pocket Hard Disk) of all data as it was originally delivered.
+
+Collection size: 26GB</rifcs:description>
+         <rifcs:description type="rights">Contact the International Centre for Classroom Research directly for terms and conditions of access.</rifcs:description>
+         <rifcs:subject type="anzsrc-for">130309</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1301</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1302</rifcs:subject>
+      </rifcs:collection>
+      <rifcs:party type="group">
+         <rifcs:identifier type="local">http://www.lps.iccr.edu.au/index.php/research-teams/8-research-teams-korea</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Research Team: Korea, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:identifier type="uri">http://www.lps.iccr.edu.au/index.php/research-teams/8-research-teams-korea</rifcs:identifier>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:electronic type="url">
+                  <rifcs:value>http://www.lps.iccr.edu.au/index.php/research-teams/8-research-teams-korea</rifcs:value>
+               </rifcs:electronic>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isParticipantIn"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">The Korean Research Team for the Learner's Perspective Study includes: KYUNGMEE PARK (LPS team leader, Hongik University - Seoul).</rifcs:description>
+      </rifcs:party>
+      <rifcs:collection type="dataset">
+         <rifcs:identifier type="local">iccr:schoolCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/Korea/Classroom_video_data:_Korea,_School_3</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Classroom video data: Korea, School 3, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.iccr.edu.au/</rifcs:key>
+            <rifcs:relation type="isManagedBy"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isOutputOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:countryCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/Korea</rifcs:key>
+            <rifcs:relation type="isPartOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.lps.iccr.edu.au/index.php/research-teams/8-research-teams-korea</rifcs:key>
+            <rifcs:relation type="hasCollector"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">This School level collection is part of the Research Data Korea Collection, taken from the Learner’s Perspective Study project. This Government school in Korea participated in a sequence of 10 lessons on the topic of Geometric Congruence and Similarity</rifcs:description>
+         <rifcs:description type="rights">Contact the International Centre for Classroom Research directly for terms and conditions of access.</rifcs:description>
+         <rifcs:subject type="anzsrc-for">130309</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1301</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1302</rifcs:subject>
+      </rifcs:collection>
+      <rifcs:collection type="dataset">
+         <rifcs:identifier type="local">iccr:schoolCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/Korea/Classroom_video_data:_Korea,_School_2</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Classroom video data: Korea, School 2, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.iccr.edu.au/</rifcs:key>
+            <rifcs:relation type="isManagedBy"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isOutputOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:countryCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/Korea</rifcs:key>
+            <rifcs:relation type="isPartOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.lps.iccr.edu.au/index.php/research-teams/8-research-teams-korea</rifcs:key>
+            <rifcs:relation type="hasCollector"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">This School level collection is part of the Research Data Korea Collection, taken from the Learner’s Perspective Study project. This Government school in Korea participated in a sequence of 10 lessons on the topic of Probability and Uncertainty.</rifcs:description>
+         <rifcs:description type="rights">Contact the International Centre for Classroom Research directly for terms and conditions of access.</rifcs:description>
+         <rifcs:subject type="anzsrc-for">130309</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1301</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1302</rifcs:subject>
+      </rifcs:collection>
+      <rifcs:collection type="dataset">
+         <rifcs:identifier type="local">iccr:schoolCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/Korea/Classroom_video_data:_Korea,_School_1</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Classroom video data: Korea, School 1, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.iccr.edu.au/</rifcs:key>
+            <rifcs:relation type="isManagedBy"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isOutputOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:countryCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/Korea</rifcs:key>
+            <rifcs:relation type="isPartOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.lps.iccr.edu.au/index.php/research-teams/8-research-teams-korea</rifcs:key>
+            <rifcs:relation type="hasCollector"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">This School level collection is part of the Research Data Korea Collection, taken from the Learner’s Perspective Study project. This Government school in Korea participated in a sequence of 10 lessons on the topic of Equations, Inequalities, and Formulas.</rifcs:description>
+         <rifcs:description type="rights">Contact the International Centre for Classroom Research directly for terms and conditions of access.</rifcs:description>
+         <rifcs:subject type="anzsrc-for">130309</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1301</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1302</rifcs:subject>
+      </rifcs:collection>
+      <rifcs:collection type="dataset">
+         <rifcs:identifier type="local">iccr:countryCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/Japan</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Research Data: Japan, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.iccr.edu.au/</rifcs:key>
+            <rifcs:relation type="isManagedBy"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isOutputOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.lps.iccr.edu.au/index.php/research-teams/7-research-teams-japan</rifcs:key>
+            <rifcs:relation type="hasCollector"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">This collection consists of data collected in Japan (2001) as part of the Learner's Perspective Study, a sixteen-country international project to document "well-taught" mathematics classrooms. Data was collected through the use of three cameras (on the teacher, class as a whole and a student group), supplemented by post-lesson video-stimulated interviews (audio and video records) with students and teachers, test data, teacher questionnaires, and copies of student and teacher written material.
+
+Data was collected from three schools and from a sequence of at least ten year 8 mathematics lessons in each school, which were generally focussed on the same topic e.g. algebra.
+
+This collection includes: video files (format: H.264); lesson materials (jpg, pdf), including a seating plan for the classroom with names of students (de-identified); lesson form table, a detailed deconstruction of the lesson; teacher questionnaire; time-coded transcriptions and translations (where relevant); student's work from the lesson (scanned pdf file); researcher field notes; consent forms; syllabus; school timetables; research team bi-annual meeting minutes.
+
+The collection is housed on RAID5 fibre channel array connected to the videoportal server. The ICCR also maintains hard copies (DVD/CD/Pocket Hard Disk) of all data as it was originally delivered.
+
+Collection size: 46GB</rifcs:description>
+         <rifcs:description type="rights">Contact the International Centre for Classroom Research directly for terms and conditions of access.</rifcs:description>
+         <rifcs:subject type="anzsrc-for">130309</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1301</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1302</rifcs:subject>
+      </rifcs:collection>
+      <rifcs:party type="group">
+         <rifcs:identifier type="local">http://www.lps.iccr.edu.au/index.php/research-teams/7-research-teams-japan</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Research Team: Japan, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:identifier type="uri">http://www.lps.iccr.edu.au/index.php/research-teams/7-research-teams-japan</rifcs:identifier>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:electronic type="url">
+                  <rifcs:value>http://www.lps.iccr.edu.au/index.php/research-teams/7-research-teams-japan</rifcs:value>
+               </rifcs:electronic>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isParticipantIn"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">The Japanese Research Team for the Learner's Perspective Study includes: YOSHINORI SHIMIZU (LPS team Leader, University of Tsukuba), TOSHIAKIRA FUJII (Tokyo Gakugei University), KEIKO HINO (Nara University of Education), KOICHI NAKAMURA (Joetsu University of Education), MINORU OHTANI (Kanazawa University), YASUHIRO SEKIGUCHI (Yamaguchi University), YONGCHOL HONG (Tokyo Gakugei University)</rifcs:description>
+      </rifcs:party>
+      <rifcs:collection type="dataset">
+         <rifcs:identifier type="local">iccr:schoolCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/Japan/Classroom_video_data:_Japan,_School_3</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Classroom video data: Japan, School 3, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.iccr.edu.au/</rifcs:key>
+            <rifcs:relation type="isManagedBy"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isOutputOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:countryCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/Japan</rifcs:key>
+            <rifcs:relation type="isPartOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.lps.iccr.edu.au/index.php/research-teams/7-research-teams-japan</rifcs:key>
+            <rifcs:relation type="hasCollector"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">This School level collection is part of the Research Data Japan Collection, taken from the Learner’s Perspective Study project. This Government school in Japan participated in a sequence of 10 lessons.</rifcs:description>
+         <rifcs:description type="rights">Contact the International Centre for Classroom Research directly for terms and conditions of access.</rifcs:description>
+         <rifcs:subject type="anzsrc-for">130309</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1301</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1302</rifcs:subject>
+      </rifcs:collection>
+      <rifcs:collection type="dataset">
+         <rifcs:identifier type="local">iccr:schoolCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/Japan/Classroom_video_data:_Japan,_School_1</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Classroom video data: Japan, School 1, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.iccr.edu.au/</rifcs:key>
+            <rifcs:relation type="isManagedBy"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isOutputOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:countryCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/Japan</rifcs:key>
+            <rifcs:relation type="isPartOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.lps.iccr.edu.au/index.php/research-teams/7-research-teams-japan</rifcs:key>
+            <rifcs:relation type="hasCollector"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">This School level collection is part of the Research Data Japan Collection, taken from the Learner’s Perspective Study project. This Government school in Japan participated in a sequence of 10 lessons on the topic of Simultaneous Equations.</rifcs:description>
+         <rifcs:description type="rights">Contact the International Centre for Classroom Research directly for terms and conditions of access.</rifcs:description>
+         <rifcs:subject type="anzsrc-for">130309</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1301</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1302</rifcs:subject>
+      </rifcs:collection>
+      <rifcs:collection type="dataset">
+         <rifcs:identifier type="local">iccr:schoolCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/Japan/Classroom_video_data:_Japan,_School_2</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart>Classroom video data: Japan, School 2, Learner's Perspective Study</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.iccr.edu.au/</rifcs:key>
+            <rifcs:relation type="isManagedBy"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:project/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education</rifcs:key>
+            <rifcs:relation type="isOutputOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>iccr:countryCollection/Learner's_Perspective_Study:_An_International_Research_Collaboration_in_Mathematics_Education/Japan</rifcs:key>
+            <rifcs:relation type="isPartOf"/>
+         </rifcs:relatedObject>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.lps.iccr.edu.au/index.php/research-teams/7-research-teams-japan</rifcs:key>
+            <rifcs:relation type="hasCollector"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">This School level collection is part of the Research Data Japan Collection, taken from the Learner’s Perspective Study project. This Government school in Japan participated in a sequence of 10 lessons on the topic of Simultaneous Equations.</rifcs:description>
+         <rifcs:description type="rights">Contact the International Centre for Classroom Research directly for terms and conditions of access.</rifcs:description>
+         <rifcs:subject type="anzsrc-for">130309</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1301</rifcs:subject>
+         <rifcs:subject type="anzsrc-for">1302</rifcs:subject>
+      </rifcs:collection>
+      <rifcs:party type="person">
+         <rifcs:identifier type="local">http://www.findanexpert.unimelb.edu.au/researcher/person16139.html</rifcs:identifier>
+         <rifcs:name type="primary">
+            <rifcs:namePart type="text">Professor David Clarke</rifcs:namePart>
+         </rifcs:name>
+         <rifcs:identifier type="uri">http://www.findanexpert.unimelb.edu.au/researcher/person16139.html</rifcs:identifier>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:electronic type="url">
+                  <rifcs:value>http://www.findanexpert.unimelb.edu.au/researcher/person16139.html</rifcs:value>
+               </rifcs:electronic>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical type="streetAddress">
+                  <rifcs:addressPart type="text">International Centre for Classroom Research, The University of Melbourne, 109 Barry St, Carlton, 3053 Victoria, Australia</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:electronic type="email">
+                  <rifcs:value>d.clarke@unimelb.edu.au</rifcs:value>
+               </rifcs:electronic>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:location>
+            <rifcs:address>
+               <rifcs:physical>
+                  <rifcs:addressPart type="telephoneNumber">+61383441140</rifcs:addressPart>
+               </rifcs:physical>
+            </rifcs:address>
+         </rifcs:location>
+         <rifcs:relatedObject>
+            <rifcs:key>http://www.iccr.edu.au/</rifcs:key>
+            <rifcs:relation type="isManagerOf"/>
+         </rifcs:relatedObject>
+         <rifcs:description type="full">David Clarke is the director of the International Centre For Clasroom Research at the University of Melbourne.</rifcs:description>
+      </rifcs:party>
+   </mu:rifcsData>
+</mu:root>

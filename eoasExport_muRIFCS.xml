@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mu:root xmlns:rifcs="http://ands.org.au/standards/rif-cs/registryObjects"
+         xmlns:mu="http://rdr.unimelb.edu.au/schema/murifcs"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         fromLab="EOAS_OHRM"
+         xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects http://services.ands.org.au/documentation/rifcs/1.2.0/schema/registryObjects.xsd             http://rdr.unimelb.edu.au/schema/murifcs http://rdr.unimelb.edu.au/schema/muRIFCS.xsd">
+   <mu:rifcsData>
+      <party xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="group">
+         <identifier type="local">A002361</identifier>
+         <identifier type="uri">http://www.esrc.unimelb.edu.au</identifier>
+         <name type="primary">
+            <namePart>eScholarship Research Centre</namePart>
+         </name>
+         <location>
+            <address>
+               <electronic type="url">
+                  <value>http://www.esrc.unimelb.edu.au</value>
+               </electronic>
+            </address>
+         </location>
+         <relatedObject>
+            <key>P004098</key>
+            <relation type="isAssoicatedWith"/>
+         </relatedObject>
+
+         <description type="full">The University of Melbourne eScholarship Research Centre (ESRC) functions both as an academic centre and a focus of infrastructure design testing and deployment. It was created from the Australian Science and Technology Heritage Centre and innovative staff in Information Services, to work collaboratively with researchers, research teams and projects across the University. The Centre comprises a mixture of academic researchers, archivists, librarians, systems analysts, technology developers and programmers, project managers, information technology support staff, web design and useability experts and as a rule these are not separate individuals.</description>
+         <description type="rights">Except where otherwise stated, content on this site is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Australia License.</description>
+      </party>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="registry">
+         <identifier type="local">P004855</identifier>
+         <identifier type="uri">http://www.eoas.info</identifier>
+         <name type="primary">
+            <namePart>Encyclopedia of Australian Science</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">2010</date>
+            </temporal>
+         </coverage>
+         <relatedObject>
+            <key>A002361</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <subject type="anzsrc-for">220206</subject>
+         <description type="full">The Encyclopedia of Australian Science is an online register of people, corporations, research institutions, scientific societies and other organisations that have contributed to Australia's scientific, technological and medical heritage.
+
+It incorporates the following data on people and organisations: name; alternative names; date and place of birth and death if known; occupations or fields of specialisation; a summary note outlining their life and work; a timeline of career positions or events; a list of other registered people, organisations and archival holdings and published resources they are connected to.
+
+The registry is currently managed by the eScholarship Research Centre at the University of Melbourne. The registry was formed in February 2010 with the amalgamation of two previously separate databases, Bright Sparcs (1994-2010) and Australian Science at Work (1999-2010).</description>
+         <description type="rights">Except where otherwise stated, content on this site is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Australia License.</description>
+         <location>
+            <address>
+                    <physical type="streetAddress">
+                        <addressPart type="text">eScholarship Research Centre, Level 2, Thomas Cherry Building, The University of Melbourne, Parkville, VIC 3010</addressPart>
+                    </physical>
+                </address>
+         </location>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="registry">
+         <identifier type="local">P004856</identifier>
+         <identifier type="uri">http://www.eoas.info/bib/ASBS01939.htm</identifier>
+         <name type="primary">
+            <namePart>Bright Sparcs</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">1994</date>
+               <date type="dateTo" dateFormat="W3C">2010</date>
+            </temporal>
+         </coverage>
+         <relatedObject>
+            <key>A002361</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>A000001</key>
+            <relation type="isAssoicatedWith"/>
+         </relatedObject>
+         <relatedObject>
+            <key>A000002</key>
+            <relation type="isAssoicatedWith"/>
+         </relatedObject>
+         <relatedObject>
+            <key>P004857</key>
+            <relation type="isAssoicatedWith"/>
+         </relatedObject>
+         <subject type="anzsrc-for">220206</subject>
+         <description type="full">Bright Sparcs was an online register of people involved in the development of science, technology, engineering and medicine in Australia, including references to their archival materials and bibliographic resources.
+
+The registry was first conceived and managed by the Australian Science Archives Project (1994-1999). It was subsequently managed by its successor organisations, the Australian Science and Technology Heritage Centre (1999-2006) and the eScholarship Research Centre (from 2007 onwards) at the University of Melbourne.
+
+In February 2010, Bright Sparcs and the Australian Science at Work database were amalgamated to create the basis of the Encyclopedia of Australian Science.
+
+When the register was established its parameters were to register the names and existing archival records of influential Australian scientists. As time progressed technological capacity increased and the potential for wider data parameters was realised. By the time of its closure the register included the following data on influential Australian scientists: name; alternate names; date and place of birth and death if known; occupations or fields of specialisation; a summary note outlining their life and work; a timeline of career positions; a list of other registered people, organisations and archival holdings and published resources they are connected to.</description>
+         <description type="rights">Except where otherwise stated, content on this site is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Australia License.</description>
+         <location>
+            <address>
+                    <physical type="streetAddress">
+                        <addressPart type="text">eScholarship Research Centre, Level 2, Thomas Cherry Building, The University of Melbourne, Parkville, VIC 3010</addressPart>
+                    </physical>
+                </address>
+         </location>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="registry">
+         <identifier type="local">P004857</identifier>
+         <identifier type="uri">http://www.eoas.info/bib/ASBS01940.htm</identifier>
+         <name type="primary">
+            <namePart>Australian Science at Work</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">1999</date>
+               <date type="dateTo" dateFormat="W3C">2010</date>
+            </temporal>
+         </coverage>
+         <relatedObject>
+            <key>A002361</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>P004856</key>
+            <relation type="isAssoicatedWith"/>
+         </relatedObject>
+         <subject type="anzsrc-for">220206</subject>
+         <description type="full">Australian Science at Work was a registry that was developed to complement the data held within the registry called Bright Sparcs. Australian Science at Work is a national historic register of industries, corporations, research institutions, scientific societies and other organisations.
+
+In February 2010, Bright Sparcs and the Australian Science at Work database were amalgamated to create the basis of the Encyclopedia of Australian Science.
+
+The registry was initially a project of the Australian Science and Technology Heritage Centre (1999-2006) and was subsequently managed by its successor organisation the eScholarship Research Centre at the University of Melbourne.</description>
+         <description type="rights">Except where otherwise stated, content on this site is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Australia License.</description>
+         <location>
+            <address>
+                    <physical type="streetAddress">
+                        <addressPart type="text">eScholarship Research Centre, Level 2, Thomas Cherry Building, The University of Melbourne, Parkville, VIC 3010</addressPart>
+                    </physical>
+                </address>
+         </location>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="dataset">
+         <identifier type="local">P004858</identifier>
+         <name type="primary">
+            <namePart>Australian Scientists in History</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">1985</date>
+            </temporal>
+         </coverage>
+         <relatedObject>
+            <key>A002361</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>P004855</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+         <subject type="anzsrc-for">220206</subject>
+         <description type="full">This dataset is the outcome of research that began in 1985 and is ongoing. It encompasses the biographical and professional profiles of scientists who worked in the fields of science and technology in Australia, between the mid-19th century and current day.
+
+Data collected on the scientists includes: name and alternative names; date and place of birth and death, if known; occupations or fields of specialisation; a summary note outlining their life and work; a timeline of career positions; reference to related people, organisations and archival holdings; and a list of relevant published resources.
+
+The data was structured to comply with ISAAR (CPF) guidelines.</description>
+         <description type="rights">Except where otherwise stated, content on this site is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Australia License.</description>
+         <location>
+            <address>
+                    <physical type="streetAddress">
+                        <addressPart type="text">eScholarship Research Centre, Level 2, Thomas Cherry Building, The University of Melbourne, Parkville, VIC 3010</addressPart>
+                    </physical>
+                </address>
+         </location>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="dataset">
+         <identifier type="local">P004859</identifier>
+         <name type="primary">
+            <namePart>Australian Scientific Organisations</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">1999</date>
+            </temporal>
+         </coverage>
+         <relatedObject>
+            <key>A002361</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>P004855</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+         <subject type="anzsrc-for">220206</subject>
+         <description type="full">This dataset is the outcome of research that began in 1985 and is ongoing. It describes the historical details of thousands of organisations, societies and corporate bodies with significance to the history of Australian science.
+
+Parameters of the data collected are as follows: Name and alternative names, date and place of establishment and closure - if applicable, summary of history and events, timeline of previous and subsequent organisations, list of related organisations and individuals and list of relevant published resources.</description>
+         <description type="rights">Except where otherwise stated, content on this site is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Australia License.</description>
+         <location>
+            <address>
+                    <physical type="streetAddress">
+                        <addressPart type="text">eScholarship Research Centre, Level 2, Thomas Cherry Building, The University of Melbourne, Parkville, VIC 3010</addressPart>
+                    </physical>
+                </address>
+         </location>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="dataset">
+         <identifier type="local">P004860</identifier>
+         <name type="primary">
+            <namePart>Australian Scientific Archives and Collections</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">1985</date>
+            </temporal>
+         </coverage>
+         <relatedObject>
+            <key>A002361</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>P004855</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+         <subject type="anzsrc-for">220206</subject>
+         <description type="full">This dataset is the product of research that began in 1985 and is ongoing. It contains data on a large number of collections and archival resources that are significant to the history of Australian science, whether they be specimen collections or the personal papers of Australian scientists.
+
+The parameters of the data on each collection are as follows: date range; repository location; a list of related people, organisations and published resources, registered in the same database; and details on accessing the collections.</description>
+         <description type="rights">Except where otherwise stated, content on this site is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Australia License.</description>
+         <location>
+            <address>
+                    <physical type="streetAddress">
+                        <addressPart type="text">eScholarship Research Centre, Level 2, Thomas Cherry Building, The University of Melbourne, Parkville, VIC 3010</addressPart>
+                    </physical>
+                </address>
+         </location>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="dataset">
+         <identifier type="local">P004861</identifier>
+         <identifier type="uri">http://www.eoas.info/bib/browsea_bib.htm</identifier>
+         <name type="primary">
+            <namePart>Bibliography of Australian Science, Technology and Medicine</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">1995</date>
+            </temporal>
+         </coverage>
+         <relatedObject>
+            <key>A002361</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>P004855</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+         <subject type="anzsrc-for">220206</subject>
+         <description type="full">This dataset registers many thousands of publications that are significant to the history of Australian science, technology and medicine, all of which were used as reference in compiling the Encyclopedia of Australian Science. The sources range from books and scientific journals to websites and newspapers.
+
+Each publication is profiled along the following parameters: author, title, date and place of publication, subject, description, source, and for online resources web address and date of access.</description>
+         <description type="rights">Except where otherwise stated, content on this site is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Australia License.</description>
+         <location>
+            <address>
+                    <physical type="streetAddress">
+                        <addressPart type="text">eScholarship Research Centre, Level 2, Thomas Cherry Building, The University of Melbourne, Parkville, VIC 3010</addressPart>
+                    </physical>
+                </address>
+         </location>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="dataset">
+         <identifier type="local">P004862</identifier>
+         <identifier type="uri">http://www.eoas.info/browsea_repository.htm</identifier>
+         <name type="primary">
+            <namePart>Australian Science Archives by Repository</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">1985</date>
+            </temporal>
+         </coverage>
+         <relatedObject>
+            <key>A002361</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>P004855</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+         <subject type="anzsrc-for">220206</subject>
+         <description type="full">This dataset is the outcome of research that commenced in 1985 and is ongoing. The dataset contains information on the location and subject matter of science-related archival materials in Australia.
+
+The dataset registers organisations and institutions that act as archival repositories and the archival collections they hold.
+
+Each archival collection is described along the following parameters: collection title; name of repository; date range of collection; description of contents; quantity (e.g. number of boxes); access details; a list of related people, organisations and published resources which are registered in the same database.</description>
+         <description type="rights">Except where otherwise stated, content on this site is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Australia License.</description>
+         <location>
+            <address>
+                    <physical type="streetAddress">
+                        <addressPart type="text">eScholarship Research Centre, Level 2, Thomas Cherry Building, The University of Melbourne, Parkville, VIC 3010</addressPart>
+                    </physical>
+                </address>
+         </location>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="dataset">
+         <identifier type="local">P004863</identifier>
+         <identifier type="uri">http://www.eoas.info/browsea_dobjects.htm</identifier>
+         <name type="primary">
+            <namePart>Images of Australian Science</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">2003</date>
+            </temporal>
+         </coverage>
+         <relatedObject>
+            <key>A002361</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>P004855</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+         <subject type="anzsrc-for">220206</subject>
+         <description type="full">This dataset is the outcome of research conducted in compiling Bright Sparcs and Australian Science at Work databases. The dataset is held within the database of the Encyclopedia of Australia Science and contains a growing amount of images of Australian scientists and documents significant in telling the history of Australian science.
+
+Each image or 'digital object' is accompanied by the following data, where known: title, description and a list of the database-registered persons who the image depicts or relates to.</description>
+         <description type="rights">Except where otherwise stated, content on this site is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Australia License.</description>
+         <location>
+            <address>
+                    <physical type="streetAddress">
+                        <addressPart type="text">eScholarship Research Centre, Level 2, Thomas Cherry Building, The University of Melbourne, Parkville, VIC 3010</addressPart>
+                    </physical>
+                </address>
+         </location>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="dataset">
+         <identifier type="local">P004864</identifier>
+         <identifier type="uri">http://www.austehc.unimelb.edu.au/wisa/wisa.html</identifier>
+         <name type="primary">
+            <namePart>Women in Australian Science</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">1985</date>
+            </temporal>
+         </coverage>
+         <relatedObject>
+            <key>A002361</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>P004855</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+         <subject type="anzsrc-for">220206</subject>
+         <description type="full">This dataset is the result of research that began in 1985 and is ongoing. The dataset contains profiles of women who were influential in the fields of science, technology and medicine in Australia from 1836 to current day.
+
+ The biographical and professional data in each individual's entry are as follows: Name and alternative names, date and place of birth and death if known, occupations or fields of specialisation, a summary note outlining their life and work, a timeline of career positions, reference to related people, organisations and archival holdings and a list of published resources.</description>
+         <description type="rights">Except where otherwise stated, content on this site is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Australia License.</description>
+         <location>
+            <address>
+                    <physical type="streetAddress">
+                        <addressPart type="text">eScholarship Research Centre, Level 2, Thomas Cherry Building, The University of Melbourne, Parkville, VIC 3010</addressPart>
+                    </physical>
+                </address>
+         </location>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="dataset">
+         <identifier type="local">P004865</identifier>
+         <name type="primary">
+            <namePart>Men in Australian Science</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">1985</date>
+            </temporal>
+         </coverage>
+         <relatedObject>
+            <key>A002361</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>P004855</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+         <subject type="anzsrc-for">220206</subject>
+         <description type="full">This dataset contains profiles of men and their achievements and influences in the scientific and technological professions throughout the 19th and 20th centuries.
+
+ The biographical and professional details listed in each individual's entry are as follows: Name and alternative names, date and place of birth and death if known, occupations or fields of specialisation, a summary note outlining their life and work, a timeline of career positions, reference to related people, organisations and archival holdings and a list of published resources.</description>
+         <description type="rights">Except where otherwise stated, content on this site is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Australia License.</description>
+         <location>
+            <address>
+                    <physical type="streetAddress">
+                        <addressPart type="text">eScholarship Research Centre, Level 2, Thomas Cherry Building, The University of Melbourne, Parkville, VIC 3010</addressPart>
+                    </physical>
+                </address>
+         </location>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="dataset">
+         <identifier type="local">P004866</identifier>
+         <identifier type="uri">http://www.eoas.info/biogs/A001898b.htm</identifier>
+         <name type="primary">
+            <namePart>Cooperative Research Centres</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">1994</date>
+            </temporal>
+         </coverage>
+         <relatedObject>
+            <key>A002361</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>P004855</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+         <subject type="anzsrc-for">220206</subject>
+         <description type="full">This dataset contains data on the Cooperative Research Centres (CRCs) created since the establishment of the Commonwealth-supported Cooperative Research Centre Program in 1990. It aims to capture and chart the history and evolution of this program.
+
+The profile of each CRC contains the following data: Name and alternative names; date of establishment and closure; functions, or disciplines it relates to; web address; a brief summary of the CRC's work; a timeline of previous and subsequent related CRCs and a list of other related organisations.</description>
+         <description type="rights">Except where otherwise stated, content on this site is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Australia License.</description>
+         <location>
+            <address>
+                    <physical type="streetAddress">
+                        <addressPart type="text">eScholarship Research Centre, Level 2, Thomas Cherry Building, The University of Melbourne, Parkville, VIC 3010</addressPart>
+                    </physical>
+                </address>
+         </location>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="dataset">
+         <identifier type="local">P004867</identifier>
+         <identifier type="uri">http://www.eoas.info/ciab.html</identifier>
+         <name type="primary">
+            <namePart>Chemistry in Australia Bibliography</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">2006</date>
+            </temporal>
+         </coverage>
+         <relatedObject>
+            <key>A002361</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>P004855</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+         <subject type="anzsrc-for">220206</subject>
+         <description type="full">This dataset is outcome of ongoing research conducted by David Collins (Adjunct Honorary Senior Research Fellow, School of Chemistry, Monash University &amp; Honorary Senior Fellow, School of Philosophy, Anthropology and Social Enquiry (History and Philosophy of Science Group), University of Melbourne) in order to establish a comprehensive register of significant texts relating to the history of Chemistry in Australia.
+
+Collins is currently compiling the next set of data to be included in this dataset, a bibliography of works published between 1900 and 1945.
+
+Each publication is profiled along the following parameters: author, title, date and place of publication, subject, description, source, and for online resources web address and date of access.</description>
+         <description type="rights">Except where otherwise stated, content on this site is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Australia License.</description>
+         <location>
+            <address>
+                    <physical type="streetAddress">
+                        <addressPart type="text">eScholarship Research Centre, Level 2, Thomas Cherry Building, The University of Melbourne, Parkville, VIC 3010</addressPart>
+                    </physical>
+                </address>
+         </location>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="dataset">
+         <identifier type="local">P004868</identifier>
+         <name type="primary">
+            <namePart>Technology in Australia</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">1999</date>
+            </temporal>
+         </coverage>
+         <relatedObject>
+            <key>A002361</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>P004855</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+         <subject type="anzsrc-for">220206</subject>
+         <description type="full">This data set contains profiles people and organisations influential in Australian technological development, as described in the resource &lt;i&gt;Technology in Australia1788-1988&lt;/i&gt;. It serves as a document of the history of technology and its development and makes links between prominent practitioners and organisations.
+
+ The biographical and professional details listed in each individual's entry are as follows: Name and alternative names, date and place of birth and death if known, occupations or fields of specialisation, a summary note outlining their life and work, a timeline of career positions, reference to related people, organisations and archival holdings and a list of published resources.</description>
+         <description type="rights">Except where otherwise stated, content on this site is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Australia License.</description>
+         <location>
+            <address>
+                    <physical type="streetAddress">
+                        <addressPart type="text">eScholarship Research Centre, Level 2, Thomas Cherry Building, The University of Melbourne, Parkville, VIC 3010</addressPart>
+                    </physical>
+                </address>
+         </location>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="dataset">
+         <identifier type="local">P004869</identifier>
+         <name type="primary">
+            <namePart>Australian Ornithologists</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">1985</date>
+            </temporal>
+         </coverage>
+         <relatedObject>
+            <key>A002361</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>P004855</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+         <subject type="anzsrc-for">220206</subject>
+         <description type="full"> This dataset is the result of research that began in 1985 and is ongoing. The dataset contains biographical and professional profiles of significant Australian ornithologists.
+
+ The biographical and professional details listed in each individual's entry are as follows: Name and alternative names, date and place of birth and death if known, occupations or fields of specialisation, a summary note outlining their life and work, a timeline of career positions, reference to related people, organisations and archival holdings and a list of published resources.</description>
+         <description type="rights">Except where otherwise stated, content on this site is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Australia License.</description>
+         <location>
+            <address>
+                    <physical type="streetAddress">
+                        <addressPart type="text">eScholarship Research Centre, Level 2, Thomas Cherry Building, The University of Melbourne, Parkville, VIC 3010</addressPart>
+                    </physical>
+                </address>
+         </location>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="dataset">
+         <identifier type="local">P004870</identifier>
+         <identifier type="uri">http://www.austehc.unimelb.edu.au/fam/</identifier>
+         <name type="primary">
+            <namePart>Federation and Meteorology</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">2001</date>
+            </temporal>
+         </coverage>
+         <relatedObject>
+            <key>A002361</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>P004855</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+         <subject type="anzsrc-for">220206</subject>
+         <description type="full">Federation and Meteorology is an online resource drawing on the rich and authoritative historical resources of the Bureau of Meteorology, publishing on the Web for the first time major articles on meteorology that have been difficult to access until now.
+
+Through the web-publication of seminal meteorological articles, totalling over 600,00 words, the story of the establishment of the Australian Bureau of Meteorology has been told.
+
+ The project was generously funded by the National Council for the Centenary of Federation, based on the observation that the emergence of Australian meteorology as a science parallels closely the story of Federation and was both influenced by and contributed to the ambition of nationhood.</description>
+         <description type="rights">Except where otherwise stated, content on this site is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Australia License.</description>
+         <location>
+            <address>
+                    <physical type="streetAddress">
+                        <addressPart type="text">eScholarship Research Centre, Level 2, Thomas Cherry Building, The University of Melbourne, Parkville, VIC 3010</addressPart>
+                    </physical>
+                </address>
+         </location>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="dataset">
+         <identifier type="local">P004871</identifier>
+         <name type="primary">
+            <namePart>Presidents and Notable Fellows of the Royal Society of Victoria</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">2000</date>
+               <date type="dateTo" dateFormat="W3C">2001</date>
+            </temporal>
+         </coverage>
+         <relatedObject>
+            <key>A002361</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>P004855</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+         <subject type="anzsrc-for">220206</subject>
+         <description type="full">This dataset contains data highlighting the achievements of former presidents and fellows of the Royal Society of Victoria established in 1859. An exhibition displaying this data &lt;i&gt; Science and the Making of Victoria&lt;/i&gt; was created in celebration of the Centenary of Federation, 2001.
+
+ The biographical and professional details listed in each individual's entry are as follows: Name and alternative names, date and place of birth and death if known, occupations or fields of specialisation, a summary note outlining their life and work, a timeline of career positions, reference to related people, organisations and archival holdings and a list of published resources.</description>
+         <description type="rights">Except where otherwise stated, content on this site is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Australia License.</description>
+         <location>
+            <address>
+                    <physical type="streetAddress">
+                        <addressPart type="text">eScholarship Research Centre, Level 2, Thomas Cherry Building, The University of Melbourne, Parkville, VIC 3010</addressPart>
+                    </physical>
+                </address>
+         </location>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="dataset">
+         <identifier type="local">P004872</identifier>
+         <identifier type="uri">http://www.austehc.unimelb.edu.au/asaw/exhib/awvs/awvs.htm</identifier>
+         <name type="primary">
+            <namePart>Research in Victorian Universities 1996-2001</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">2000</date>
+               <date type="dateTo" dateFormat="W3C">2001</date>
+            </temporal>
+         </coverage>
+         <relatedObject>
+            <key>A002361</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>P004855</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+         <subject type="anzsrc-for">220206</subject>
+         <description type="full">This dataset profiles industry-focused research projects that were conducted in Victorian universities between 1996 and 2001.
+
+Data was collected on projects relating to the following Victorian industries:
+
+Advanced Manufacturing Technologies
+Advanced Materials
+Biotechnology (Non-Medical)
+Cleaner Production and Waste Management
+Construction, Infrastructure and Maintenance
+Energy/Alternative Energy
+Food Processing
+Information, Computer and Communication Technologies
+Instrumentation
+Manufacturing Technology
+Medical Biotechnology
+Multimedia
+Ornamental Horticulture
+Packaging
+Sport and Recreation
+Textiles
+Tourism
+
+Data was collected the Victorian Government Department of Innovation, Industry and Rural Development from the following Victorian Universities: Deakin University; La Trobe University; Monash University; RMIT University; Swinburne University; The University of Ballarat; The University of Melbourne; and Victoria University.
+
+The data was then published online in a way that illustrated each institution's involvement in each industry area. The project descriptions, listed by discipline, included the following data: Research project name; name of chief researcher; and Field of Research codes</description>
+         <description type="rights">Except where otherwise stated, content on this site is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Australia License.</description>
+         <location>
+            <address>
+                    <physical type="streetAddress">
+                        <addressPart type="text">eScholarship Research Centre, Level 2, Thomas Cherry Building, The University of Melbourne, Parkville, VIC 3010</addressPart>
+                    </physical>
+                </address>
+         </location>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="dataset">
+         <identifier type="local">P004903</identifier>
+         <name type="primary">
+            <namePart>CSIRO Research Divisions Over Time</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">1985</date>
+            </temporal>
+         </coverage>
+         <relatedObject>
+            <key>A002361</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>P004855</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+         <subject type="anzsrc-for">220206</subject>
+         <description type="full">This dataset is the result of research that began in 1985 and is ongoing. The dataset contains details on the various research divisions and flagships established since the inception of the CSIR in 1926, through to its current day incarnation, the CSIRO.
+
+The data was collected on the premise of providing a comprehensive map of the CSIRO and its subsidiary organisations. As it stands the dataset is a document of the history and evolution of the CSIR, CSIRO's and thus the Commonwealth Government's research foci. It serves as a reflection of the changing issues facing Australian industry and society and how research was used to address them.
+
+The parameters of data collected on each division or research facility are as follows:
+Name of facility or division; dates of establishment and closure, where applicable; facility location; facility web address; note summarising work of facility; list of related people and organisations - previous, subsequent, superior or subordinate; and a list of relevant publications.</description>
+         <description type="rights">Except where otherwise stated, content on this site is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Australia License.</description>
+         <location>
+            <address>
+                    <physical type="streetAddress">
+                        <addressPart type="text">eScholarship Research Centre, Level 2, Thomas Cherry Building, The University of Melbourne, Parkville, VIC 3010</addressPart>
+                    </physical>
+                </address>
+         </location>
+      </collection>
+      <collection xmlns="http://ands.org.au/standards/rif-cs/registryObjects" type="dataset">
+         <identifier type="local">P004904</identifier>
+         <name type="primary">
+            <namePart>Notable Fellows of the Australian Academy of Science</namePart>
+         </name>
+         <coverage>
+            <temporal>
+               <date type="dateFrom" dateFormat="W3C">1985</date>
+            </temporal>
+         </coverage>
+         <relatedObject>
+            <key>A002361</key>
+            <relation type="isManagedBy"/>
+         </relatedObject>
+         <relatedObject>
+            <key>P004855</key>
+            <relation type="isPartOf"/>
+         </relatedObject>
+         <subject type="anzsrc-for">220206</subject>
+         <description type="full">This dataset is the result of research that began in 1985 and is ongoing. It contains professional and biographical profiles of Australian Academy of Science (1954-) Fellows influential in the fields of science, technology and medicine. The many hundreds of fellows profiled create a picture of the scientific landscape in Australia and the issues that were faced and addressed by our most notable scientists.
+
+It incorporates the following data relating to each Fellow: name; alternative names; date and place of birth and death if known; occupations or fields of specialisation; a summary note outlining their life and work; a timeline of career positions or events; a list of other registered people, organisations and archival holdings and published resources they are connected to.</description>
+         <description type="rights">Except where otherwise stated, content on this site is licensed under a Creative Commons Attribution-Noncommercial-Share Alike 3.0 Australia License.</description>
+         <location>
+            <address>
+                    <physical type="streetAddress">
+                        <addressPart type="text">eScholarship Research Centre, Level 2, Thomas Cherry Building, The University of Melbourne, Parkville, VIC 3010</addressPart>
+                    </physical>
+                </address>
+         </location>
+      </collection>
+   </mu:rifcsData>
+</mu:root>
